@@ -1,0 +1,1775 @@
+{
+  "products": [
+    {
+      "storeId": "312",
+      "materialNumber": "1310976",
+      "manufacturerPartNumber": "E742165M222-BNDL",
+      "name": "Samsung Galaxy Book4 Pro 16\" WQXGA Inkl. Samsung 27\" 27A60P skärm",
+      "description": "Arc Graphics, Core Ultra 7 155H, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1310976/dator-surfplatta/datorer-barbara-laptop/samsung-galaxy-book4-pro-16-wqxga-inkl-samsung-27-27a60p-skarm",
+      "stock": {
+        "availabilityStatus": "NotInStock",
+        "availabilityQuantity": "0",
+        "stockIconColor": "blue",
+        "availabilityText": "Beställningsvara. Beställs vid order. Leveranstid 13-14 veckor.",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 990:-",
+        "listPriceNumber": 23990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "969:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "28 101:-",
+        "monthlyPriceTotalOver24Months": "23 256:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": false,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 19192.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1310976_01.jpg",
+        "1310976_02.jpg",
+        "1310976_03.jpg",
+        "1310976_04.jpg",
+        "1310976_05.jpg",
+        "1310976_06.jpg",
+        "1310976_07.jpg",
+        "1310976_08.jpg",
+        "1310976_09.jpg",
+        "1310976_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1310975",
+      "manufacturerPartNumber": "L389930I045-BNDL",
+      "name": "Samsung Galaxy Book4 Pro 360 16\" WQXGA  Inkl. Samsung 27\" 27A60P skärm",
+      "description": "Arc Graphics, Core Ultra 5 125H, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1310975/dator-surfplatta/datorer-barbara-laptop/samsung-galaxy-book4-pro-360-16-wqxga-inkl-samsung-27-27a60p-skarm",
+      "stock": {
+        "availabilityStatus": "NotInStock",
+        "availabilityQuantity": "0",
+        "stockIconColor": "blue",
+        "availabilityText": "Beställningsvara. Beställs vid order. Leveranstid 13-14 veckor.",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 990:-",
+        "listPriceNumber": 23990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "969:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "28 101:-",
+        "monthlyPriceTotalOver24Months": "23 256:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": false,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 19192.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1310975_01.jpg",
+        "1310975_02.jpg",
+        "1310975_03.jpg",
+        "1310975_04.jpg",
+        "1310975_05.jpg",
+        "1310975_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    }
+  ],
+  "banners": [],
+  "facets": [
+    {
+      "facetType": "category",
+      "name": "Kategori",
+      "displayName": "Kategori",
+      "id": "",
+      "facets": [
+        {
+          "categoryId": "10011",
+          "categoryName": "Datorer - Bärbara / laptop",
+          "categoryLevel": 1,
+          "parentCategoryId": "10723",
+          "parentCategoryName": "Dator & Surfplatta",
+          "name": "Datorer - Bärbara / laptop",
+          "productCount": 290,
+          "collapsed": false,
+          "attribute": {
+            "name": "categoryPages",
+            "value": "10011",
+            "exclude": false
+          },
+          "sortOrder": 0
+        }
+      ],
+      "sortOrder": 0
+    },
+    {
+      "facetType": "manufacturer",
+      "name": "produsent",
+      "displayName": "Produsent",
+      "id": "",
+      "facets": [
+        {
+          "name": "Lenovo",
+          "productCount": 79,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Lenovo'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "HP",
+          "productCount": 58,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'HP'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "MSI",
+          "productCount": 34,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'MSI'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "ASUS",
+          "productCount": 29,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'ASUS'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Acer",
+          "productCount": 22,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Acer'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Microsoft",
+          "productCount": 13,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Microsoft'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Samsung",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Samsung'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "facetType": "facet",
+      "name": "t11969.rAM",
+      "displayName": "RAM",
+      "id": "t11969",
+      "facets": [
+        {
+          "name": "16",
+          "productCount": 135,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'16'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "32",
+          "productCount": 63,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'32'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "8",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'8'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "64",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'64'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "24",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'24'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "4",
+          "productCount": 8,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'4'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "36",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'36'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "48",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'48'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "128",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'128'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "18",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'18'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "facetType": "facet",
+      "name": "ai-pc.aI-PC",
+      "displayName": "AI-PC",
+      "id": "ai-pc",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 102,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_ai-pc.aI-PC",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "facetType": "facet",
+      "name": "t00781.kapacitet",
+      "displayName": "Kapacitet",
+      "id": "t00781",
+      "facets": [
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00781.kapacitet",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "facetType": "facet",
+      "name": "levering.leverans",
+      "displayName": "Leverans",
+      "id": "levering",
+      "facets": [
+        {
+          "name": "Leveransklar",
+          "productCount": 107,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Leveransklar'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Byggs på beställning",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Byggs på beställning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "facetType": "facet",
+      "name": "pcgraphics.grafikkort",
+      "displayName": "Grafikkort",
+      "id": "pcgraphics",
+      "facets": [
+        {
+          "name": "Intel Integrerad",
+          "productCount": 75,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Nvidia GeForce",
+          "productCount": 51,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia GeForce'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "AMD Radeon",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Radeon'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Intel ARC",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel ARC'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Nvidia Professional Graphics",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia Professional Graphics'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "AMD Integrerad",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 16,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "facetType": "facet",
+      "name": "t00076.lagringsutrymme",
+      "displayName": "Lagringsutrymme",
+      "id": "t00076",
+      "facets": [
+        {
+          "name": "50 - 99 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'50 - 99 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "100 - 199 GB",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'100 - 199 GB'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "200 - 399 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'200 - 399 GB'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "400 - 699 GB",
+          "productCount": 131,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'400 - 699 GB'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "1000 - 1999 GB",
+          "productCount": 93,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'1000 - 1999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "4000 - 4999 GB",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'4000 - 4999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "facetType": "facet",
+      "name": "t00296.cellulärt_protokoll",
+      "displayName": "Cellulärt protokoll",
+      "id": "t00296",
+      "facets": [
+        {
+          "name": "5G NR",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'5G NR'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "LTE",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "LTE CAT16",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT16'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "DC-HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'DC-HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "LTE CAT6",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT6'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "facetType": "facet",
+      "name": "skjermstrrelse.skärmstorlek",
+      "displayName": "Skärmstorlek",
+      "id": "skjermstrrelse",
+      "facets": [
+        {
+          "name": "14-14,9\"",
+          "productCount": 117,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'14-14,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "16-16.9\"",
+          "productCount": 73,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'16-16.9\"'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "15-15,9\"",
+          "productCount": 48,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'15-15,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "13-13,9\"",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'13-13,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "18\"+",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'18\"+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "17-17,9\"",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'17-17,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "9-12,9\"",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'9-12,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "facetType": "facet",
+      "name": "pccategory.användningsområde",
+      "displayName": "Användningsområde",
+      "id": "pccategory",
+      "facets": [
+        {
+          "name": "Ultraportabel",
+          "productCount": 139,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Ultraportabel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Macbook",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Macbook'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Gaming-laptop",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Gaming-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Arbetsstation",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Arbetsstation'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Allround-laptop",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Allround-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Chromebook",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Chromebook'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "2-i-1-PC",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'2-i-1-PC'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "facetType": "facet",
+      "name": "t08636.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "t08636",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 10,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t08636.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "facetType": "facet",
+      "name": "operativsystem.operativsystem",
+      "displayName": "Operativsystem",
+      "id": "operativsystem",
+      "facets": [
+        {
+          "name": "Windows 11 Pro",
+          "productCount": 121,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Pro'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Windows 11 Home",
+          "productCount": 108,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Home'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "macOS",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'macOS'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Chrome OS",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Chrome OS'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "facetType": "facet",
+      "name": "t00149.ursprunglig_upplösning",
+      "displayName": "Ursprunglig upplösning",
+      "id": "t00149",
+      "facets": [
+        {
+          "name": "1920 x 1200",
+          "productCount": 104,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1200'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "1920 x 1080",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1080'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "2560 x 1600",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1600'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "2880 x 1800",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1800'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "2560 x 1664",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2880 x 1864",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1864'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "3024 x 1964",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3024 x 1964'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "3456 x 2234",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3456 x 2234'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "3840 x 2400",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3840 x 2400'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "2880 x 1920",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1920'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "2496 x 1664",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2496 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "1366 x 768",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 768'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "2240 x 1400",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2240 x 1400'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "1366 x 728",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 728'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "1920 x 1280",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1280'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "2304 x 1536",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2304 x 1536'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "2560 x 1440",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1440'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "2880 x 1620",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1620'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "2944 x 1840",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2944 x 1840'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "3200 x 2000",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3200 x 2000'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "facetType": "facet",
+      "name": "pcprocessor.processortillverkare",
+      "displayName": "Processortillverkare",
+      "id": "pcprocessor",
+      "facets": [
+        {
+          "name": "Intel",
+          "productCount": 157,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "AMD",
+          "productCount": 61,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'AMD'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "facetType": "facet",
+      "name": "prosessorfamilie.processorfamilj",
+      "displayName": "Processorfamilj",
+      "id": "prosessorfamilie",
+      "facets": [
+        {
+          "name": "Intel Core Ultra 7",
+          "productCount": 43,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 7'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Apple M4 CPU",
+          "productCount": 30,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 9",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 9'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 5",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 5'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 5",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 5'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 7",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 7'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Intel Core i7",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i7'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Intel Core i5",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i5'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 9",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 9'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "Intel Core i3",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i3'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "Intel Core i9",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i9'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "Apple M3 MAX CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 MAX CPU'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "Apple M4 Pro CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 Pro CPU'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "Apple M2 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M2 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "Apple M3 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 3",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 3'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "Intel",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "Intel Pentium",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Pentium'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 20,
+          "children": []
+        },
+        {
+          "name": "Apple M3 PRO CPU",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 PRO CPU'",
+            "exclude": false
+          },
+          "sortOrder": 21,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 22,
+          "children": []
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "facetType": "facet",
+      "name": "pcnumerickeyboard.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "pcnumerickeyboard",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 89,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Med numerisk tangentbord",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Med numerisk tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "facetType": "facet",
+      "name": "pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+      "displayName": "Bakgrundsbelyst tangentbord",
+      "id": "pcbacklitkeyboard",
+      "facets": [
+        {
+          "name": "Ensfärgat tangentbord",
+          "productCount": 206,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Ensfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Tangentbord utan belysning",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Tangentbord utan belysning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Flerfärgat tangentbord",
+          "productCount": 33,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Flerfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        }
+      ],
+      "sortOrder": 17
+    }
+  ],
+  "rangeFacets": [
+    {
+      "name": "pris",
+      "minValue": 3290.0,
+      "maxValue": 79990.0,
+      "totalMinValue": 3290.0,
+      "totalMaxValue": 79990.0
+    }
+  ],
+  "queryParameters": [
+    { "key": "list_view", "value": "list" },
+    { "key": "page", "value": "12" }
+  ],
+  "totalNumberOfResultsMatchingQuery": 290,
+  "numberOfResults": 2,
+  "pageNumber": 12,
+  "maxPageCount": 13,
+  "pageSize": 24,
+  "queryId": "079615e9aa207fd2c7a22247f4ead2d6",
+  "sort": "None",
+  "sortOptions": [
+    { "name": "Sortera efter", "mobileName": "Standard", "value": "None" },
+    { "name": "Rabatt", "mobileName": "Rabatt", "value": "DiscountDesc" },
+    {
+      "name": "Pris fallande",
+      "mobileName": "Pris fallande",
+      "value": "PriceDesc"
+    },
+    {
+      "name": "Pris stigande",
+      "mobileName": "Pris stigande",
+      "value": "PriceAsc"
+    },
+    { "name": "Namn", "mobileName": "Namn", "value": "NameDesc" },
+    {
+      "name": "Bästsäljare",
+      "mobileName": "Bästsäljare",
+      "value": "PopularityDesc"
+    },
+    { "name": "Betyg", "mobileName": "Betyg", "value": "ReviewsDesc" },
+    { "name": "Nyheter", "mobileName": "Nyheter", "value": "ReleaseDateDesc" }
+  ]
+}

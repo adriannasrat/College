@@ -1,0 +1,595 @@
+﻿Name,Price,CPU,RAM,Storage,Retailer,RAM_GB,Storage_GB,TextFeatures,Cluster
+"Acer Aspire 3 Cel/4/128 17.3"" bärbar dator",4996.0,Intel® Celeron® N100 processor,"4 GB DDR5 RAM, 128 GB eMMC-lagring",,Elgiganten,4.0,4.0,Intel® Celeron® N100 processor,6.0
+"Acer Aspire 3 i3-N305/8/128 17.3"" bärbar dator",6996.0,Intel® Core™ i3-N305 processor,"8 GB DDR5 RAM, 128 GB eMMC-lagring",,Elgiganten,8.0,8.0,Intel® Core™ i3-N305 processor,6.0
+Acer Chromebook 314 Cel/4/128GB 14” bärbar dator,3795.0,Intel Celeron N4500 processor,"4GB LPDDR4X RAM, 128GB eMMC-lagring",,Elgiganten,4.0,4.0,Intel Celeron N4500 processor,6.0
+Acer Chromebook 314 Cel/4/64GB 14” bärbar dator,3495.0,Intel Celeron N4500 processor,"4GB LPDDR4X RAM, 64GB eMMC-lagring",,Elgiganten,4.0,4.0,Intel Celeron N4500 processor,6.0
+Acer Chromebook 314 Cel/8/128GB 14” bärbar dator,3995.0,Intel Celeron N4500 processor,"8GB LPDDR4X RAM, 128GB eMMC-lagring",,Elgiganten,8.0,8.0,Intel Celeron N4500 processor,6.0
+Acer Chromebook 314 MTK/4/32GB 14” bärbar dator,2986.0,unknown_cpu,"4 GB LPDDR4X RAM-minne, 32 GB eMMC-lagring",,Elgiganten,4.0,4.0,unknown_cpu,3.0
+"Acer Chromebook Plus 514 i3-N355/8/128/IPS 14"" bärbar dator",4995.0,Intel® Core™ i3-N355 processor,"8GB LPDDR5X RAM, 128GB eMMC-lagring",,Elgiganten,8.0,8.0,Intel® Core™ i3-N355 processor,6.0
+"Acer ChromeBook Plus 515 i3-12/8/128GB 15.6"" bärbar dator",5489.0,Intel® Core™ i3 1235U-processor,"8 GB LPDDR5X RAM-minne, 128 UFS lagringsutrymme",,Elgiganten,8.0,8.0,Intel® Core™ i3 1235U-processor,6.0
+"Acer ChromeBook Plus 515 i5-12/8/256GB 15,6"" bärbar dator",5086.0,Intel® Core™ i5 1235U-processor,"8GB LPDDR5X RAM, 256 M.2 NVMe SSD",,Elgiganten,8.0,8.0,Intel® Core™ i5 1235U-processor,6.0
+"Acer Swift 14 AI Snap-10C/16/1024 14"" Copilot+ PC",14499.0,unknown_cpu,"16GB LPDDR5X RAM, 1024GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Asus Chromebook CM1402 MediaTek/4/64 bärbar dator,2656.0,unknown_cpu,"4 GB LPDDR4X RAM-minne, 64 GB eMMC-lagring",,Elgiganten,4.0,4.0,unknown_cpu,3.0
+"ASUS Chromebook CX1505 N4500/4/64/IPS 15.6"" bärbar dator",3495.0,Intel® Celeron® N4500 processor,4 GB LPDDR5 RAM; 64 GB Flashlagring,,Elgiganten,4.0,4.0,Intel® Celeron® N4500 processor,6.0
+"ASUS Chromebook CX1505 N4500/8/128/IPS 15.6"" bärbar dator",4495.0,Intel® Celeron® N4500 processor,8 GB LPDDR5 RAM; 128 GB Flashlagring,,Elgiganten,8.0,8.0,Intel® Celeron® N4500 processor,6.0
+"ASUS Chromebook CX5403 Core5-115U/16/256/IPS 14"" bärbar dator",12990.0,Intel® Core® Ultra 5 115U processor,16 GB LPDDR5X RAM; 256 GB SSD,,Elgiganten,16.0,16.0,Intel® Core® Ultra 5 115U processor,9.0
+"ASUS Chromebook Plus CX1505 Core3-N355/8/128/IPS 15.6"" bärbar dator",5495.0,Intel® Core® 3-N355 processor,8 GB LPDDR5 RAM; 128 GB Flashlagring,,Elgiganten,8.0,8.0,Intel® Core® 3-N355 processor,6.0
+"Asus ChromeBook Plus CX3402CBA i5/8/128 14"" bärbar dator (vit)",5456.0,Intel® Core™ i5-1235U processor,"8 GB LPDDR5 RAM-minne, 128 GB flashminne",,Elgiganten,8.0,8.0,Intel® Core™ i5-1235U processor,6.0
+"Asus E410 Cel/4/128 14"" bärbar dator",4996.0,Intel® Celeron® N4500 processor,"4 GB DDR4 RAM, 128 GB eMMC-lagring",,Elgiganten,4.0,4.0,Intel® Celeron® N4500 processor,6.0
+"Asus ProArt PZ13 Snap-8C/16/1024 13.3"" Copilot+ PC",12586.0,unknown_cpu,"16GB LPDDR5X RAM, 1TB SSD lagring",,Elgiganten,16.0,16384.0,unknown_cpu,3.0
+"Asus Vivobook 15 X1504 i3-12/8/128/IPS 15.6"" bärbar dator",6995.0,Intel® Core™ i3-1215U processor,"8GB DDR4 RAM, 128GB M.2 PCIe SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1215U processor,6.0
+"Asus Vivobook 15 X1504 i5-12/8/512/IPS 15.6"" bärbar dator",9996.0,Intel® Core™ i5-1235U processor,"8GB DDR4 RAM, 512GM M.2 PCIe SSD",,Elgiganten,8.0,8.0,Intel® Core™ i5-1235U processor,6.0
+"Asus Vivobook 15 X1504 i7-12/16/512/IPS 15.6"" bärbar dator",9999.0,Intel® Core™ i7-1255U processor,"16GB DDR4 RAM, 512GM M.2 PCIe SSD",,Elgiganten,16.0,16.0,Intel® Core™ i7-1255U processor,6.0
+"Asus VivoBook Go 15 R3-7/8/128 15.6"" bärbar dator",8496.0,AMD Ryzen™ 3 7320U processor,"8GB LPDDR5 RAM, 128GB M.2 PCIe SSD",,Elgiganten,8.0,8.0,AMD Ryzen™ 3 7320U processor,8.0
+"Asus Vivobook Go E410KA Pentium/4/128 14"" bärbar dator",2990.0,Intel® Pentium® N6000 processor,"4 GB DDR4 RAM, 128 GB flashlagring",,Elgiganten,4.0,4.0,Intel® Pentium® N6000 processor,6.0
+"Asus Vivobook i5-12/16/512 15,6 tum bärbar dator",11696.0,Intel® Core™ i5-1235U-processor,"16GB DDR4 RAM, 512GM M.2 PCIe SSD",,Elgiganten,16.0,16.0,Intel® Core™ i5-1235U-processor,6.0
+"Asus Vivobook i7-12/16/512/OLED 15,6"" laptop",13995.0,Intel® Core™ i7-1255U-processor,"16GB DDR4 RAM, 512GM M.2 PCIe SSD",,Elgiganten,16.0,16.0,Intel® Core™ i7-1255U-processor,9.0
+"ASUS Vivobook S 14 M5406 AI 7-350/16/512/OLED 14"" Copilot+ PC",11995.0,AMD™ Ryzen™ AI 7 350 processor,"16 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD™ Ryzen™ AI 7 350 processor,8.0
+"Asus Vivobook S 14 M5406 R5/16/512/OLED 14"" bärbar dator",7990.0,AMD Ryzen 5-7535HS processor,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen 5-7535HS processor,8.0
+"Asus Vivobook S 14 M5406 R7/16/512/OLED 14"" bärbar dator",8990.0,AMD Ryzen 7-8845HS processor,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen 7-8845HS processor,8.0
+"Asus Vivobook S 14 S5406SA U5-226V/16/512/OLED 14"" Copilot+ PC",13990.0,Intel® Core™ Ultra 5-226V processor,"16GB LPDDR5X RAM, 512GB M.2 PCIe SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5-226V processor,9.0
+"Asus Vivobook S 15 S5507 Snap8C/16/512/OLED 15.6"" Copilot+ PC",8786.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"ASUS Vivobook X1504 Core5-120U/16GB/512/IPS 15.6"" bärbar dator",8995.0,Intel® Core™ 5-120U processor,"16GB DDR4 RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ 5-120U processor,6.0
+"ASUS Vivobook X1504 i3-1315U /8GB/128/IPS 15.6"" bärbar dator",7495.0,Intel® Core™ i3 processor,"8GB DDR4 RAM, 128GB SSD lagring",,Elgiganten,8.0,8.0,Intel® Core™ i3 processor,6.0
+"ASUS Vivobook X1504 i7-1355U/16GB/512/IPS 15.6"" bärbar dator",10995.0,Intel® Core™ i7 processor,"16GB DDR4 RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ i7 processor,6.0
+"Asus Zenbook A14 Snap8C/32/512GB/OLED 14"" Copilot+ PC",14999.0,unknown_cpu,"32GB LPDDR5X RAM, 512GB SSD-lagring",,Elgiganten,32.0,32.0,unknown_cpu,3.0
+"HP 240 G9/i5-1235U/16/256/14"" bärbar dator",9499.0,Intel® Core™ i5-1235U processor,"16 GB DDR4 RAM, 256 GB SSD storage",,Elgiganten,16.0,16.0,Intel® Core™ i5-1235U processor,6.0
+HP Chromebook x360 14 i3-N305/8/128/IPS 14” bärbar dator,5495.0,Intel Core® i3 N305 processor,"8 GB LPDDR5 RAM, 128GB Flash-lagring",,Elgiganten,8.0,8.0,Intel Core® i3 N305 processor,6.0
+HP Chromebook x360 14 N100/4/128/IPS 14” bärbar dator,4495.0,Intel® N100 processor,"4 GB LPDDR5 RAM, 128GB Flash-lagring",,Elgiganten,4.0,4.0,Intel® N100 processor,6.0
+"HP EliteBook 640 G10/i5-1335U/16/256/14"" bärbar dator",15999.0,Intel® Core™ i5-1335U processor,"16 GB DDR4 RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ i5-1335U processor,9.0
+"HP EliteBook 830 G11 Ultra-5/16/512 13.3"" bärbar dator",20699.0,Intel® Core™ Ultra 5 125U processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125U processor,1.0
+"HP EliteBook 830 G11 Ultra-5/32/512 13.3"" bärbar dator",24999.0,Intel® Core™ Ultra 5 125U processor,"32 GB DDR5 RAM, 512 GB SSD",,Elgiganten,32.0,32.0,Intel® Core™ Ultra 5 125U processor,1.0
+"HP EliteBook 840 G11 Ultra-5/16/512 14"" bärbar dator",23399.0,Intel® Core™ Ultra 5 125H processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125H processor,1.0
+"HP EliteBook 840 G11 Ultra-5/16/512 14"" bärbar dator",23399.0,Intel® Core™ Ultra 5 125H processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125H processor,1.0
+"HP EliteBook 840 G11 Ultra-5/16/512 14"" bärbar dator",20699.0,Intel® Core™ Ultra 5 125U processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125U processor,1.0
+"HP EliteBook 840 G11 Ultra-5/16/512 14"" bärbar dator",20699.0,Intel® Core™ Ultra 5 125U processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125U processor,1.0
+"HP EliteBook 840 G11 Ultra-7/16/512 14"" bärbar dator",23399.0,Intel® Core™ Ultra 7 155U processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 7 155U processor,1.0
+"HP EliteBook 860 G11 Ultra-5/16/512 16"" bärbar dator",20699.0,Intel® Core™ Ultra 5 125H processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125H processor,1.0
+"HP EliteBook 860 G11 Ultra-7/16/512 16"" bärbar dator",23399.0,Intel® Core™ Ultra 7 155H processor,"16 GB DDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 7 155H processor,1.0
+"HP Envy x360 14"" bärbar dator R7-8840HS/16/512",12995.0,AMD Ryzen™ 7 8840HS,"16 GB LPDDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 7 8840HS,8.0
+HP Envy X360 R5-8640HS/16/512 2-i-1 bärbar dator,12996.0,AMD Ryzen 5 8640HS processor,"16GB LPDDR5 RAM, 512GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen 5 8640HS processor,8.0
+HP Envy X360 R5-8640HS/16/512GB 2-i-1 bärbar dator,11995.0,AMD Ryzen™ 5 8640HS processor,"16GB LPDDR5 RAM, 512GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 5 8640HS processor,8.0
+HP Envy X360 R7-8840HS/16/1024 2-i-1 bärbar dator,10936.0,AMD Ryzen 7 8840HS processor,"16GB LPDDR5 RAM, 1024GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen 7 8840HS processor,8.0
+"HP Laptop 14-ep0803no N100/4/128 14"" bärbar dator",3295.0,Intel® N100 processor,"4 GB DDR4 RAM, 128 GB flashlagring",,Elgiganten,4.0,4.0,Intel® N100 processor,6.0
+"HP Laptop 14-ep0807no N305/8/128 14"" bärbar dator",7495.0,Intel® Core™ i3-N305 processor,"8 GB DDR4 RAM, 128 GB flashlagring",,Elgiganten,8.0,8.0,Intel® Core™ i3-N305 processor,6.0
+"HP Laptop 14-ep0829no i5/16/512 14"" bärbar dator",9995.0,Intel® Core™ i5-1334U processor,"16 GB DDR4 RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ i5-1334U processor,6.0
+"HP Laptop 15-fc0827no R3-7320U/8/128 15.6"" bärbar dator",7495.0,AMD Ryzen™ 3 7320U processor,"8 GB LPDDR5 RAM, 128 GB SSD",,Elgiganten,8.0,8.0,AMD Ryzen™ 3 7320U processor,8.0
+"HP Laptop 15-fc0828no R5-7520U/16/512 15.6"" bärbar dator",9995.0,AMD Ryzen™ 5 7520U processor,"16 GB LPDDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 5 7520U processor,8.0
+"HP Laptop 15-fc0851no R7-7730U/16/512 15.6"" bärbar dator",10495.0,AMD Ryzen™ 7 7730U processor,"16 GB DDR4 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 7 7730U processor,8.0
+"HP Laptop 15-fc0852no R7-7730U/16/1024 15.6"" bärbar dator",10995.0,AMD Ryzen™ 7 7730U processor,"16 GB DDR4 RAM, 1 TB SSD",,Elgiganten,16.0,16384.0,AMD Ryzen™ 7 7730U processor,8.0
+HP Laptop 17-cn3802no i3-N305/8/128GB bärbar dator,6996.0,Intel Core i3-N305 processor,"8 GB DDR4 RAM, 128 GB UFS-lagring",,Elgiganten,8.0,8.0,Intel Core i3-N305 processor,6.0
+"HP Laptop 17-cn3851no17 N4120/4/128 17.3"" bärbar dator",4495.0,Intel™ 3 N100 processor,"4 GB DDR4 RAM, 128GB Flash-lagring",,Elgiganten,4.0,4.0,Intel™ 3 N100 processor,6.0
+"HP Laptop 17-cp2817no 17 R3-7320U /8/128 17.3"" bärbar dator",5995.0,AMD Ryzen™ 3 7320U processor,"8 GB LPDDR5 RAM, 128 GB SSD",,Elgiganten,8.0,8.0,AMD Ryzen™ 3 7320U processor,8.0
+"HP Laptop 17-cp2826no 17 R5-7520U/16/512/IPS 17.3"" bärbar dator",7995.0,AMD Ryzen™ 5 7520U processor,"16 GB LPDDR5 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 5 7520U processor,8.0
+HP Laptop 17-cp2829no R5-7520U/8/512GB bärbar dator,7996.0,AMD Ryzen 5 7520U processor,"8GB LPDDR5 RAM, 512GB SSD",,Elgiganten,8.0,8.0,AMD Ryzen 5 7520U processor,8.0
+"HP Laptop 17-cp3845no R7-7730U /16/512/IPS 17.3"" bärbar dator",8995.0,AMD Ryzen™ 7 7730U processor,"16 GB DDR4 RAM, 512 GB SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 7 7730U processor,8.0
+"HP Laptop i3/8/128 15.6"" bärbar dator",6995.0,Intel® Core™ i3-N305 processor,"8GB DDR4 RAM, 128GB UFS",,Elgiganten,8.0,8.0,Intel® Core™ i3-N305 processor,6.0
+"HP Laptop R3/8/128 15.6"" bärbar dator",6996.0,AMD Ryzen™ 3 7320U Processor,"8 GB DDR5 RAM, 128 GB SSD",,Elgiganten,8.0,8.0,AMD Ryzen™ 3 7320U Processor,8.0
+"HP OmniBook 3 14"" bärbar dator AI 5 340/16/512",8990.0,AMD Ryzen™ AI 5 340 processor,"16 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 5 340 processor,8.0
+"HP OmniBook 3 14"" bärbar dator AI 5 340/24/1024",9995.0,AMD Ryzen™ AI 5 340 processor,"24 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,24.0,24.0,AMD Ryzen™ AI 5 340 processor,8.0
+"HP OmniBook 5 14 Snap-8C/16/512/OLED 14"" Copilot+ PC",9995.0,unknown_cpu,16GB LPDDR5X RAM; 512GB SSD,,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"HP OmniBook Ultra 14 AI 9-365/16/512/IPS 14"" Copilot+ PC",16995.0,AMD Ryzen™ AI 9 365 processor,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 9 365 processor,8.0
+"HP OmniBook X 14 Snap-12C/16/1024 14"" Copilot+ PC",12999.0,unknown_cpu,"16GB LPDDR5X RAM, 1024GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"HP OmniBook X Flip 14 Ultra 5-226V/16/512/OLED 14"" Copilot+ PC",11995.0,Intel® Core™ Ultra 5 226V processor,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 226V processor,6.0
+"HP OmniBook X Flip 14 Ultra 7-258V/32/512/OLED 14"" Copilot+ PC",14995.0,Intel® Core™ Ultra 7 258V processor,"32GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,32.0,32.0,Intel® Core™ Ultra 7 258V processor,1.0
+"HP OmniBook X Flip 16 Ultra 5-226V/16/512/OLED 16"" Copilot+ PC",13995.0,Intel® Core™ Ultra 5 226V processor,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 226V processor,9.0
+"HP OmniBook X Flip 16 Ultra 7-256V/16/1TB/OLED 16"" Copilot+ PC",15995.0,Intel® Core™ Ultra 7 256V processor,"16GB LPDDR5X RAM, 1TB M.2 SSD",,Elgiganten,16.0,16384.0,Intel® Core™ Ultra 7 256V processor,9.0
+"HP ProBook 440 G10 14"" bärbar dator  i5/16/256",12499.0,Intel® Core™ i5-1335U processor,"16 GB DDR4 RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ i5-1335U processor,6.0
+"HP ZBook Firefly G11 Ultra-7/32/512 16"" bärbar dator",28799.0,Intel® Core™ Ultra 7 155H processor,"32 GB DDR5 RAM,512 GB SSD",,Elgiganten,32.0,32.0,Intel® Core™ Ultra 7 155H processor,1.0
+Lenovo Chromebook Duet 11M889 MTK/8/128/11 2-i-1,4489.0,unknown_cpu,"8 GB LPDDRX RAM, 128 GB eMMC",,Elgiganten,8.0,8.0,unknown_cpu,3.0
+"Lenovo Chromebook IdeaPad 3 Celeron/4/64 15.6"" bärbar dator",3486.0,Intel® Celeron® N4500 processor,"4 GB DDR4 RAM, 64 GB eMMC",,Elgiganten,4.0,4.0,Intel® Celeron® N4500 processor,6.0
+"Lenovo Chromebook IdeaPad 3 Pentium/8/128 15.6"" bärbar dator",3490.0,Intel® Pentium® N6000 processor,"8 GB DDR4 RAM, 128 GB eMMC",,Elgiganten,8.0,8.0,Intel® Pentium® N6000 processor,6.0
+"Lenovo Chromebook IdeaPad Slim 3 4GB/128GB 14"" bärbar dator",2690.0,unknown_cpu,"4GB LPDDR4X RAM, 128GB eMMC lagring",,Elgiganten,4.0,4.0,unknown_cpu,3.0
+"Lenovo Chromebook IdeaPad Slim 3 4GB/64GB 14"" bärbar dator",3489.0,unknown_cpu,"4 GB LPDDR4X RAM-minne, 64 GB eMMC-lagring",,Elgiganten,4.0,4.0,unknown_cpu,3.0
+"Lenovo Chromebook IdeaPad Slim 3 8GB/128GB 14"" bärbar dator",4289.0,unknown_cpu,"8GB LPDDR4X RAM, 128GB eMMC-lagring",,Elgiganten,8.0,8.0,unknown_cpu,3.0
+"Lenovo Chromebook Plus IdeaPad Slim 3 i3/8/128 14"" bärbar dator",3790.0,Intel® Core™ i3-N305 processor,"8 GB DDR5 RAM, 128 GB eMMC",,Elgiganten,8.0,8.0,Intel® Core™ i3-N305 processor,6.0
+"Lenovo Chromebook Plus IdeaPad Slim 3 i3/8/256 14"" bärbar dator",5989.0,Intel® Core™ i3-N305 processor,"8 GB DDR5 RAM, 256 GB eMMC",,Elgiganten,8.0,8.0,Intel® Core™ i3-N305 processor,6.0
+"Lenovo IdeaPad 1 Celeron/4/128 14"" bärbar dator",4316.0,Intel Celeron N5100 processor,"4 GB DDR4 RAM, 128 GB Flash",,Elgiganten,4.0,4.0,Intel Celeron N5100 processor,6.0
+"Lenovo IdeaPad 1i 14IJL7 Celeron-N4500/4GB/128/TN 14""  bärbar dator",2790.0,Intel® Celeron N4500 processor,4GB DDR RAM; 128GB Flashlagring,,Elgiganten,4.0,4.0,Intel® Celeron N4500 processor,6.0
+"Lenovo IdeaPad 3 15IAU7 i3-12/8/128 15.6"" bärbar dator",6066.0,Intel® Core™ i3-1215U processor,"8 GB DDR4 RAM, 128 GB SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1215U processor,6.0
+"Lenovo IdeaPad 3 15IAU7 i5-12/8/512 15.6"" bärbar dator",9996.0,Intel® Core™ i5-1235U processor,"8 GB DDR4 RAM, 512 GB SSD",,Elgiganten,8.0,8.0,Intel® Core™ i5-1235U processor,6.0
+"Lenovo IdeaPad 3 17IAU7 i3-1215U/8GB/128 17"" bärbar dator",6495.0,Intel® Core™ i3-1215U processor,"8 GB DDR4 RAM, 128 GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1215U processor,6.0
+"Lenovo IdeaPad 3 17IAU7 Pentium-8505/4GB/128 17"" bärbar dator",5495.0,Intel® Pentium® Gold 8505 processor,"4 GB DDR4 RAM, 128 GB M.2 SSD",,Elgiganten,4.0,4.0,Intel® Pentium® Gold 8505 processor,6.0
+"Lenovo IdeaPad 5 2-in-1 14Q8X9 Snap-8C-SE/16GB/512/OLED 14"" bärbar dator",9990.0,unknown_cpu,16GB LPDDR5X RAM; 512GB SSD,,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Lenovo IdeaPad 5 2-in-1 14Q8X9 Snap-8C-SE/24GB/512/OLED 14"" bärbar dator+penna",10990.0,unknown_cpu,24GB LPDDR5X RAM; 512GB SSD,,Elgiganten,24.0,24.0,unknown_cpu,3.0
+"Lenovo IdeaPad IP 3 17ABA7 R5-5625U/8GB/512 17"" bärbar dator",7995.0,AMD Ryzen™ 5 5625U processor,"8 GB DDR4 RAM, 512 GB M.2 SSD",,Elgiganten,8.0,8.0,AMD Ryzen™ 5 5625U processor,8.0
+"Lenovo IdeaPad IP 3 17ABA7 R7-5825U/16GB/512 17"" bärbar dator",8995.0,AMD Ryzen™ 7 5825U processor,"16 GB DDR4 RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ 7 5825U processor,8.0
+"Lenovo IdeaPad Slim 3 15ABR8 R5-5625U/16GB/512 15.6"" bärbar dator",9995.0,AMD Ryzen 5 5625U processor,"16 GB DDR4 RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen 5 5625U processor,8.0
+"Lenovo IdeaPad Slim 3 15ABR8 R5-5625U/8GB/512 15.6"" bärbar dator",8990.0,AMD Ryzen 5 5625U processor,"8 GB DDR4 RAM, 512 GB M.2 SSD",,Elgiganten,8.0,8.0,AMD Ryzen 5 5625U processor,8.0
+"Lenovo IdeaPad Slim 3 15ABR8 R7-5825U/16GB/1024 15.6"" bärbar dator",10990.0,AMD Ryzen 7 5825U processor,"16 GB DDR4 RAM, 1 TB M.2 SSD",,Elgiganten,16.0,16384.0,AMD Ryzen 7 5825U processor,8.0
+"Lenovo IdeaPad Slim 3 15ABR8 R7-5825U/16GB/512 15.6"" bärbar dator",10495.0,AMD Ryzen 7 5825U processor,"16 GB DDR4 RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen 7 5825U processor,8.0
+"Lenovo IdeaPad Slim 3 15AMN8 R3-7320U/8GB/128 15.6"" bärbar dator",3990.0,AMD Ryzen 3 7320U processor,"8 GB LPDDR5 RAM, 128 GB M.2 SSD",,Elgiganten,8.0,8.0,AMD Ryzen 3 7320U processor,8.0
+"Lenovo IdeaPad Slim 3 i5-12/8/512 15.6"" bärbar dator",10995.0,Intel® Core™ i5-12450H processor,"8 GB LPDDR5 RAM, 512 GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ i5-12450H processor,6.0
+"Lenovo IdeaPad Slim 3 R3/8/128 14"" bärbar dator (Arctic Grey)",6496.0,AMD Ryzen 3 7320U processor,8GB LPDDR5 RAM; 128GB SSD,,Elgiganten,8.0,8.0,AMD Ryzen 3 7320U processor,8.0
+"Lenovo IdeaPad Slim 3 R5/16/512 14"" bärbar dator (Arctic Grey)",8496.0,AMD Ryzen 5 7520U processor,16GB LPDDR5 RAM; 512GB SSD,,Elgiganten,16.0,16.0,AMD Ryzen 5 7520U processor,8.0
+"Lenovo IdeaPad Slim 3 R5/8/512 14"" bärbar dator (Arctic Grey)",7495.0,AMD Ryzen 5 7520U processor,8GB LPDDR5 RAM; 512GB SSD,,Elgiganten,8.0,8.0,AMD Ryzen 5 7520U processor,8.0
+"Lenovo IdeaPad Slim 3i 15IRH10 i5-13420H/16GB/512 15.3"" bärbar dator",7995.0,Intel® Core™ i5-13420H processor,"16GB DDR5 RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,Intel® Core™ i5-13420H processor,6.0
+"Lenovo IdeaPad Slim 3x 15Q8X10 Snap-8CSE/16GB/512 15.3"" Copilot+ PC",7995.0,unknown_cpu,"16GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Lenovo IdeaPad Slim 3x 15Q8X10 Snap-8CSE/24GB/512 15.3"" Copilot+ PC",8995.0,unknown_cpu,"16GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Lenovo IdeaPad Slim 3x 15Q8X10 Snap-8CSE/24GB/512/OLED Copilot+ PC,9995.0,unknown_cpu,"24GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,24.0,24.0,unknown_cpu,3.0
+"Lenovo IdeaPad Slim 5-13 R5-7535HS/8/512/IPS 13.3"" bärbar dator",8989.0,AMD Ryzen 5 7535HS processor,8GB LPDDR5X RAM; 512GB SSD,,Elgiganten,8.0,8.0,AMD Ryzen 5 7535HS processor,8.0
+"Lenovo IdeaPad Slim 5-13 R7-7735HS/16/1TB/IPS 13.3"" bärbar dator",9999.0,AMD Ryzen 7 7735HS processor,16GB LPDDR5X RAM; 1TB SSD,,Elgiganten,16.0,16384.0,AMD Ryzen 7 7735HS processor,8.0
+"Lenovo IdeaPad Slim 5-15 R5-7535HS/16/512/IPS 15.3"" bärbar dator",8986.0,AMD Ryzen 5 7535HS processor,16GB LPDDR5X RAM; 512GB SSD,,Elgiganten,16.0,16.0,AMD Ryzen 5 7535HS processor,8.0
+"Lenovo IdeaPad Slim 5-15 R7-7735HS/16/1TB/IPS 15.3"" bärbar dator",9999.0,AMD Ryzen 7 7735HS processor,16GB LPDDR5X RAM; 1TB SSD,,Elgiganten,16.0,16384.0,AMD Ryzen 7 7735HS processor,8.0
+"Lenovo IdeaPad Slim 5 i5-12/16/1000 16"" bärbar dator (blå)",7490.0,Intel® Core™ i5-12450H processor,"16GB LPDDR5 RAM, 1TB SSD-lagring",,Elgiganten,16.0,16384.0,Intel® Core™ i5-12450H processor,6.0
+"Lenovo IdeaPad Slim 5 i5-12/8/512 16"" bärbar dator (blå)",6490.0,Intel® Core™ i5-12450H processor,"8GB LPDDR5 RAM, 512GB SSD-lagring",,Elgiganten,8.0,8.0,Intel® Core™ i5-12450H processor,6.0
+"Lenovo IdeaPad Slim 5x Snap-8C/16/512/IPS 14"" Copilot+ PC",8990.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Lenovo IdeaPad Slim 5x Snap-8C/16/512/OLED 14"" Copilot+ PC",9996.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Lenovo LOQ 15IRX9 i5 - 13HX/24/512/4050 16” bärbar dator för gaming,10990.0,Intel® Core™ i5 13450HX processor,"24GB DDR5 RAM, 512 GB M.2 SSD",,Elgiganten,24.0,24.0,Intel® Core™ i5 13450HX processor,6.0
+"Lenovo ThinkPad E14 Gen 6 14"" laptop 21M7002JMX (graphite black)",13899.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,9.0
+"Lenovo ThinkPad E14 Gen 6 14"" laptop 21M7002YMX (graphite black)",14999.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,9.0
+"Lenovo ThinkPad E16 Gen 2 16"" laptop 21MA001TMX (graphite black)",13899.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,9.0
+"Lenovo ThinkPad E16 Gen 2 16"" laptop 21MA002PMX (graphite black)",12495.0,Intel Core i5-1335U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core i5-1335U processor,6.0
+"Lenovo ThinkPad L14 Gen 5 14"" laptop 21L1002MMX (eclipse black)",14299.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,9.0
+"Lenovo ThinkPad L16 Gen 1 16"" laptop 21L3002CMX (svart)",15799.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,9.0
+"Lenovo ThinkPad L16 Gen 1 16"" laptop 21L30031MX (svart)",17599.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad T14s Gen 5 14"" laptop 21LS0017MX (svart)",24995.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,1.0
+"Lenovo ThinkPad T14s Gen 5 14"" laptop 21LS001UMX (svart)",21087.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,1.0
+"Lenovo ThinkPad T14s Gen 5 14"" laptop 21LS0027MX (svart)",28827.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,1.0
+"Lenovo ThinkPad T14s Gen 6 14"" laptop 21N10008MX (svart)",24999.0,unknown_cpu,32 GB LPDDR5X SDRAM,,Elgiganten,32.0,32.0,unknown_cpu,3.0
+"Lenovo ThinkPad X1 2-in-1 Gen 9 14"" laptop 21KE0039MX (grå)",31995.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X1 2-in-1 Gen 9 14"" laptop 21KE003DMX (grå)",34490.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X1 Carbon Gen 12 14"" laptop 21KC004QMX (black paint)",24995.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,1.0
+"Lenovo ThinkPad X1 Carbon Gen 12 14"" laptop 21KC0051MX (black paint)",26499.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X1 Carbon Gen 12 14"" laptop 21KC0053MX (black paint)",30590.0,Intel Core Ultra 7 155U processor,"32GB RAM, 512GB SSD",,Elgiganten,32.0,32.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X1 Carbon Gen 12 14"" laptop 21KC005XMX (black paint)",31995.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X13 2-in-1 Gen 5 13.3"" laptop 21LW0018MX (svart)",22490.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X13 2-in-1 Gen 5 13.3"" laptop 21LW001CMX (svart)",22490.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X13 2-in-1 Gen 5 13.3"" laptop 21LW001LMX (svart)",26495.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X13 Gen 5 13.3"" laptop 21LU0013MX (svart)",22995.0,Intel Core Ultra 7 155U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 7 155U processor,1.0
+"Lenovo ThinkPad X13 Gen 5 13.3"" laptop 21LU0024MX (svart)",20595.0,Intel Core Ultra 5 125U processor,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Intel Core Ultra 5 125U processor,1.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 5-340/16GB/512/OLED 14"" bärbar dator (+pen)",11990.0,AMD Ryzen™ AI 5 processor,"16GB LPDDR5X RAM, 512 GB, M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 5 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 5-340/16GB/512/OLED 14"" bärbar dator (+pen)",11990.0,AMD Ryzen™ AI 5 processor,"16GB LPDDR5X RAM, 512 GB, M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 5 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 5-340/16GB/512/OLED 14"" bärbar dator (+pen)",11990.0,AMD Ryzen™ AI 5 processor,"16GB LPDDR5X RAM, 512 GB, M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 5 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 5-340/16GB/512/OLED 14"" bärbar dator (+pen)",11990.0,AMD Ryzen™ AI 5 processor,"16GB LPDDR5X RAM, 512 GB, M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 5 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 7-350/32GB/1024/OLED 14"" bärbar dator (+pen)",13995.0,AMD Ryzen™ AI 7 processor,"32GB LPDDR5X RAM, 1024 GB, M.2 SSD",,Elgiganten,32.0,32.0,AMD Ryzen™ AI 7 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 7-350/32GB/1024/OLED 14"" bärbar dator (+pen)",13995.0,AMD Ryzen™ AI 7 processor,"32GB LPDDR5X RAM, 1024 GB, M.2 SSD",,Elgiganten,32.0,32.0,AMD Ryzen™ AI 7 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 7-350/32GB/1024/OLED 14"" bärbar dator (+pen)",13995.0,AMD Ryzen™ AI 7 processor,"32GB LPDDR5X RAM, 1024 GB, M.2 SSD",,Elgiganten,32.0,32.0,AMD Ryzen™ AI 7 processor,8.0
+"Lenovo Yoga 7 2-in-1 14AKP10 AI 7-350/32GB/1024/OLED 14"" bärbar dator (+pen)",13995.0,AMD Ryzen™ AI 7 processor,"32GB LPDDR5X RAM, 1024 GB, M.2 SSD",,Elgiganten,32.0,32.0,AMD Ryzen™ AI 7 processor,8.0
+"Lenovo Yoga 7 R5-8HS/16/512 14"" bärbar dator",11996.0,AMD Ryzen™ 5 8640HS processor,"16GB LPDDR5 RAM, 512GB SSD-lagring",,Elgiganten,16.0,16.0,AMD Ryzen™ 5 8640HS processor,8.0
+"Lenovo Yoga 7 R7-8HS/16/1000 14"" bärbar dator",13996.0,AMD Ryzen™ 7 8840HS processor,"16GB LPDDR5 RAM, 1TB SSD-lagring",,Elgiganten,16.0,16384.0,AMD Ryzen™ 7 8840HS processor,8.0
+"Lenovo Yoga 7 R7-8HS/16/1000/OLED/M365 14"" bärbar dator",14995.0,AMD Ryzen™ 7 8840HS processor,"16GB LPDDR5 RAM, 1TB SSD",,Elgiganten,16.0,16384.0,AMD Ryzen™ 7 8840HS processor,8.0
+"Lenovo Yoga Pro 7 R7-8HS/16/512 14.5"" bärbar dator",11996.0,AMD Ryzen™ 7 8845HS processor,"16GB LPDDR5 RAM, 512GB SSD-lagring",,Elgiganten,16.0,16.0,AMD Ryzen™ 7 8845HS processor,8.0
+"Lenovo Yoga Pro 9 Ultra-7/16/1TB/4060 16"" bärbar dator",22496.0,Intel® Core™ Ultra 7 155H-processor,"16 GB LPDDR5 RAM-minne, 1 TB SSD-lagring",,Elgiganten,16.0,16384.0,Intel® Core™ Ultra 7 155H-processor,1.0
+"Lenovo Yoga Slim 7 14"" bärbar dator AI 7-350/16GB/512/OLED",11995.0,AMD Ryzen™ AI 7 350 processor,"16 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,AMD Ryzen™ AI 7 350 processor,8.0
+"Lenovo Yoga Slim 7 14"" bärbar dator AI 7-350/32GB/512/OLED",12995.0,AMD Ryzen™ AI 7 350 processor,"32 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,32.0,32.0,AMD Ryzen™ AI 7 350 processor,8.0
+"Lenovo Yoga Slim 7 14IMH9 Ultra 7-155H/16GB/512/OLED 14"" bärbar dator",13995.0,Intel® Core™ Ultra 7 155H processor,"16GB LPDDR5X RAM, 512GB SSD-lagring",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 7 155H processor,9.0
+"Lenovo Yoga Slim 7 14IMH9 Ultra 7-155H/32GB/512/OLED 14"" bärbar dator",14995.0,Intel® Core™ Ultra 7 155H processor,"32GB LPDDR5X RAM, 512GB SSD-lagring",,Elgiganten,32.0,32.0,Intel® Core™ Ultra 7 155H processor,1.0
+"Lenovo Yoga Slim 7 Ultra 5-125H/16/512 14"" bärbar dator",12996.0,Intel® Core™ Ultra 5 125H processor,"16GB LPDDR5X RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125H processor,9.0
+"Lenovo Yoga Slim 7i 14IMH9 Ultra 5-125H/16GB/512/OLED 14"" bärbar dator",12995.0,Intel® Core™ Ultra 5 125H processor,"16GB LPDDR5X RAM, 512GB SSD-lagring",,Elgiganten,16.0,16.0,Intel® Core™ Ultra 5 125H processor,9.0
+"Lenovo Yoga Slim 7x 14Q8X9 Snap-10C/16GB/512/OLED 14.5"" Copilot+ PC",14990.0,unknown_cpu,"16 GB LPDDR5X RAM, 512 GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Lenovo Yoga Slim 7x Snap-12C/16/512 14.5"" Copilot+ PC",16995.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Lenovo Yoga Slim 7x Snap-12C/32/1024 14.5"" Copilot+ PC",17995.0,unknown_cpu,"32GB LPDDR5X RAM, 1024GB M.2 SSD",,Elgiganten,32.0,32.0,unknown_cpu,3.0
+MacBook Air 13 M3 10C GPU/16/1TB (Space Gray),21495.0,Apple M3 chip octa-core SoC,"16 GB RAM, 1TB SSD-lagring",,Elgiganten,16.0,16384.0,Apple M3 chip octa-core SoC,9.0
+MacBook Air 13 M3 10C GPU/16/256GB (Midnight),18326.0,Apple M3 chip octa-core SoC,"16 GB RAM, 256GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M3 chip octa-core SoC,9.0
+MacBook Air 13 M3 16/512GB (Midnight),15990.0,Apple M3 chip octa-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M3 chip octa-core SoC,9.0
+MacBook Air 13 M3 8/512GB (Midnight),15326.0,Apple M3 chip octa-core SoC,"8 GB RAM, 512 GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip octa-core SoC,9.0
+MacBook Air 13 M3 8/512GB (Space Gray),15326.0,Apple M3 chip octa-core SoC,"8 GB RAM, 512 GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip octa-core SoC,9.0
+MacBook Air 13 M4 16/256GB (Midnight),14990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/256GB (Silver),14990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/256GB (Sky Blue),14990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/256GB (Starlight),14990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/512GB (Midnight),17889.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/512GB (Silver),17889.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD storage",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/512GB (Sky Blue),17889.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 16/512GB (Starlight),17889.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 24/512GB (Midnight),20990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 24/512GB (Silver),20990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 24/512GB (Sky Blue),20990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13 M4 24/512GB (Starlight),20990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 13.6 M3 24/512GB (Midnight),18490.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 512GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 13.6 M3 24/512GB (Space Grey),18490.0,Apple M3 chip 8c CPU/10c GPU,"24GB RAM, 512GB SSD-lagring",,Elgiganten,24.0,24.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 13.6 M3 24/512GB (Starlight),19490.0,Apple M3 chip 8c CPU/10c GPU,"24GB RAM, 512GB SSD-lagring",,Elgiganten,24.0,24.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M2/8/512 2023 (Space Gray),18519.0,Apple M2 8-kärnig CPU 10-kärnig GPU,"8 GB RAM,  512 GB SSD",,Elgiganten,8.0,8.0,Apple M2 8-kärnig CPU 10-kärnig GPU,9.0
+MacBook Air 15 M3/16GB/512GB (Midnight),19495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/16GB/512GB (Space Gray),19495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/16GB/512GB (Starlight),19490.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 512GB SSD lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/8GB/256GB (Midnight),17886.0,Apple M3 chip 8c CPU/10c GPU,"8GB RAM, 256GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/8GB/512GB (Midnight),18986.0,Apple M3 chip 8c CPU/10c GPU,"8GB RAM, 512GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/8GB/512GB (Silver),18986.0,Apple M3 chip 8c CPU/10c GPU,"8GB RAM, 512GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M3/8GB/512GB (Space Gray),18986.0,Apple M3 chip 8c CPU/10c GPU,"8GB RAM, 512GB SSD lagring",,Elgiganten,8.0,8.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15 M4 16/256GB (Midnight),17990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/256GB (Silver),17990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/256GB (Sky Blue),17990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/256GB (Starlight),17990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 256 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/512GB (Midnight),20990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/512GB (Silver),20990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/512GB (Sky Blue),20990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 16/512GB (Starlight),20990.0,Apple M4 chip 10-core SoC,"16 GB RAM, 512 GB SSD lagring",,Elgiganten,16.0,16.0,Apple M4 chip 10-core SoC,9.0
+MacBook Air 15 M4 24/512GB (Midnight),23990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,1.0
+MacBook Air 15 M4 24/512GB (Silver),23990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,1.0
+MacBook Air 15 M4 24/512GB (Sky Blue),23990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,1.0
+MacBook Air 15 M4 24/512GB (Starlight),23990.0,Apple M4 chip 10-core SoC,"24 GB RAM, 512 GB SSD lagring",,Elgiganten,24.0,24.0,Apple M4 chip 10-core SoC,1.0
+MacBook Air 15.3 M3 16/256GB (Midnight),16495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 256GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15.3 M3 16/256GB (Silver),16495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 256GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15.3 M3 16/256GB (Space Grey),16495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 256GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15.3 M3 16/256GB (Starlight),16495.0,Apple M3 chip 8c CPU/10c GPU,"16GB RAM, 256GB SSD lagring",,Elgiganten,16.0,16.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air 15.3 M3 24/512GB (Silver),22495.0,Apple M3 chip 8c CPU/10c GPU,"24GB RAM, 512GB SSD-lagring",,Elgiganten,24.0,24.0,Apple M3 chip 8c CPU/10c GPU,9.0
+MacBook Air M2 CTO 16/1TB (Space Gray),20995.0,Apple M2 chip octa-core SoC,"16 GB RAM, 1 TB SSD-lagring",,Elgiganten,16.0,16384.0,Apple M2 chip octa-core SoC,9.0
+MacBook Air M2 CTO 16/256GB (Space Gray),15990.0,Apple M2 chip octa-core SoC,"16 GB RAM, 256 GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M2 chip octa-core SoC,9.0
+Macbook Air M2 CTO 16/512GB (Space Grey),18499.0,Apple M2 chip octa-core SoC,"16 GB RAM, 512 GB SSD-lagring",,Elgiganten,16.0,16.0,Apple M2 chip octa-core SoC,9.0
+MacBook Pro 14 M4 16/1000GB (Silver),24490.0,Apple M4 chip 10c CPU/10c GPU,"16GB RAM, 1TB SSD",,Elgiganten,16.0,16384.0,Apple M4 chip 10c CPU/10c GPU,1.0
+MacBook Pro 14 M4 16/1000GB (Space Black),25790.0,Apple M4 chip 10c CPU/10c GPU,"16GB RAM, 1TB SSD",,Elgiganten,16.0,16384.0,Apple M4 chip 10c CPU/10c GPU,1.0
+MacBook Pro 14 M4 16/512GB (Silver),22990.0,Apple M4 chip 10c CPU/10c GPU,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Apple M4 chip 10c CPU/10c GPU,9.0
+MacBook Pro 14 M4 16/512GB (Space Black),22990.0,Apple M4 chip 10c CPU/10c GPU,"16GB RAM, 512GB SSD",,Elgiganten,16.0,16.0,Apple M4 chip 10c CPU/10c GPU,9.0
+MacBook Pro 14 M4 Pro 24/512GB (Silver),27490.0,Apple M4 Pro chip 12c CPU/16c GPU,"24GB RAM, 512GB SSD",,Elgiganten,24.0,24.0,Apple M4 Pro chip 12c CPU/16c GPU,1.0
+MacBook Pro 14 M4 Pro 24/512GB (Space Black),28995.0,Apple M4 Pro chip 12c CPU/16c GPU,"24GB RAM, 512GB SSD",,Elgiganten,24.0,24.0,Apple M4 Pro chip 12c CPU/16c GPU,1.0
+MacBook Pro 16 M4 Pro 24/512GB (Silver),34990.0,Apple M4 Pro chip 14c CPU/20c GPU,"24GB RAM, 512GB SSD",,Elgiganten,24.0,24.0,Apple M4 Pro chip 14c CPU/20c GPU,7.0
+MacBook Pro 16 M4 Pro 24/512GB (Space Black),35990.0,Apple M4 Pro chip 14c CPU/20c GPU,"24GB RAM, 512GB SSD",,Elgiganten,24.0,24.0,Apple M4 Pro chip 14c CPU/20c GPU,7.0
+MacBook Pro 16 M4 Pro 48/512GB (Silver),41999.0,Apple M4 Pro chip 14c CPU/20c GPU,"48GB RAM, 512GB SSD",,Elgiganten,48.0,48.0,Apple M4 Pro chip 14c CPU/20c GPU,7.0
+MacBook Pro 16 M4 Pro 48/512GB (Space Black),39990.0,Apple M4 Pro chip 14c CPU/20c GPU,"48GB RAM, 512GB SSD",,Elgiganten,48.0,48.0,Apple M4 Pro chip 14c CPU/20c GPU,7.0
+"Microsoft Surface Laptop 10Core/16/512GB 13.8"" Copilot+ PC",16999.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Laptop 12Core/16/512GB 13.8"" Copilot+ PC",19499.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Laptop 12Core/16/512GB 15"" Copilot+ PC",19999.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Laptop 8C/16/256GB 13"" Copilot+ PC",13499.0,unknown_cpu,"16GB LPDDR5X RAM, 256GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Laptop 8C/16/512GB 13"" Copilot+ PC",14999.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Microsoft Surface Pro 10Core/16/512GB 13” Copilot+ PC,16999.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Microsoft Surface Pro 12Core/16/1000GB 13” Copilot+ PC,23490.0,unknown_cpu,"16GB LPDDR5X RAM, 1000GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Pro 8C/16/256GB 12"" Copilot+ PC",12795.0,unknown_cpu,"16GB LPDDR5X RAM, 256GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Microsoft Surface Pro 8C/16/512GB 12"" Copilot+ PC",13499.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"MSI Modern 14 i3-13/8/512 14"" bärbar dator",7995.0,Intel® Core™ i3-1315U processor,"8GB DDR4 RAM, 512GBM.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1315U processor,6.0
+"MSI Prestige 14 H B13U i7-13/16/1000/RTX2050 14"" bärbar dator",8516.0,Intel® Core™ i7-13620H processor,"16GB DDR5 RAM, 1TB M.2 SSD",,Elgiganten,16.0,16384.0,Intel® Core™ i7-13620H processor,6.0
+"Samsung Galaxy Book4 Core3-100U/8/256/IPS 15.6"" bärbar dator (grå)",7995.0,Intel® Core™ 3-100U processor,"8GB LPDDR4X RAM, 256GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ 3-100U processor,6.0
+"Samsung Galaxy Book4 Core3-100U/8/256/IPS 15.6"" bärbar dator (silver)",7286.0,Intel® Core™ 3-100U processor,"8GB LPDDR4X RAM, 256GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ 3-100U processor,6.0
+"Samsung Galaxy Book4 Core3-100U/8/256/IPS/WPRO 15.6"" bärbar dator (grå)",8495.0,Intel® Core™ 3-100U processor,"8GB LPDDR4X RAM, 256GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ 3-100U processor,6.0
+"Samsung Galaxy Book4 Core7-150U/16/512/IPS/WPRO 15.6"" bärbar dator (grå)",10995.0,Intel® Core™ 7-150U processor,"16GB LPDDR4X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,Intel® Core™ 7-150U processor,6.0
+Samsung Galaxy Book4 Edge 14 Snap-12C/16/512/AMOLED Copilot+ PC,17999.0,unknown_cpu,"16GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+Samsung Galaxy Book4 Edge 16 Snap-12CPro/16/1024/AMOLED Copilot+ PC,24990.0,unknown_cpu,"16GB LPDDR5X RAM, 1024GB M.2 SSD",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Samsung Galaxy Book4 Edge X1P/16/256 15.6"" Copilot+ PC",8995.0,unknown_cpu,"16 GB LPDDR5X RAM, 256 GB lagring",,Elgiganten,16.0,16.0,unknown_cpu,3.0
+"Samsung Galaxy Book4 i3-1315U/8/256/IPS 15.6"" bärbar dator (grå)",7995.0,Intel® Core™ i3-1315U processor,"8GB LPDDR4X RAM, 256GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1315U processor,6.0
+"Samsung Galaxy Book4 i3-1315U/8/256/IPS 15.6"" bärbar dator (silver)",8995.0,Intel® Core™ i3-1315U processor,"8GB LPDDR4X RAM, 256GB M.2 SSD",,Elgiganten,8.0,8.0,Intel® Core™ i3-1315U processor,6.0
+"Samsung Galaxy Book4 i7-1355U/16/512/IPS 15.6"" bärbar dator (grå)",10996.0,Intel® Core™ i7-1355U processor,"16GB LPDDR4X RAM, 512GB M.2 SSD",,Elgiganten,16.0,16.0,Intel® Core™ i7-1355U processor,6.0
+"Samsung Galaxy Book5 360  U7/16/1024 15.6"" Copilot+ PC",21990.0,Intel Core Ultra 7 256V processor,"16 GB LPDDR5X RAM, 1 TB M.2 SSD",,Elgiganten,16.0,16384.0,Intel Core Ultra 7 256V processor,1.0
+"Samsung Galaxy Book5 Pro U7-258V/32/512 14"" Copilot+ PC",14995.0,Intel Core Ultra 7-258V processor,"32GB LPDDR5X RAM, 512GB M.2 SSD",,Elgiganten,32.0,32.0,Intel Core Ultra 7-258V processor,1.0
+"Asus Zenbook A14 UX3407QA 14"" WUXGA OLED (grey)",13990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"OMEN Transcend Laptop 14-fb0015no 14"" 2,8K OLED 120 Hz",22990.0,Core Ultra 7 155H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core Ultra 7 155H,1.0
+Macbook Air 15 (2024) 512GB (stjärnglans),18490.0,Apple 10-Core GPU,8GB RAM,512GB  SSD,Komplett,8.0,512.0,Apple 10-Core GPU,9.0
+"Lenovo Ideapad Slim 3 14"" FHD (arctic grey)",8990.0,Core i5-12450H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i5-12450H,6.0
+"Lenovo Ideapad Slim 3 14"" FHD (arctic grey)",8990.0,Core i5-12450H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i5-12450H,6.0
+"Lenovo Ideapad Slim 5 15"" WQXGA OLED",9990.0,Ryzen 7 7735HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735HS,8.0
+"Lenovo IdeaPad 1 15,6"" FHD",4490.0,unknown_cpu,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,unknown_cpu,3.0
+"Lenovo IdeaPad 1 15,6"" FHD",4490.0,unknown_cpu,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,unknown_cpu,8.0
+"Lenovo Yoga 7 14"" WUXGA OLED Touch",12490.0,Core Ultra 5 125H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,9.0
+"Lenovo IdeaPad Slim 3 Chrome Plus 14"" FHD med Google AI",5490.0,Core i3-N305,8 GB RAM,128 GB SSD,Komplett,8.0,128.0,Core i3-N305,6.0
+"Asus Chromebook Plus CX34 14"" FHD Touch (vit)",5490.0,Core i3-1315U,8 GB RAM,256 GB SSD UFS,Komplett,8.0,256.0,Core i3-1315U,6.0
+"MSI Stealth A16 AI+ 16"" QHD+",39990.0,Ryzen AI 9 HX 370,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Ryzen AI 9 HX 370,7.0
+"MSI Sword 16 HX B14 16"" QHD+",17990.0,Core i7-14650HX,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i7-14650HX,9.0
+"MSI Vector 16 HX AI 16"" FHD+",24990.0,Core Ultra 7 255HX,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core Ultra 7 255HX,1.0
+"Acer Aspire 3 14"" FHD",5490.0,Ryzen 7 5700U,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Ryzen 7 5700U,8.0
+"Asus Zenbook A14 UX3407RA 14"" WUXGA OLED",18990.0,unknown_cpu,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,unknown_cpu,3.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",12488.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",12488.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,8.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",12488.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo V14 G4 14"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Lenovo V14 G4 14"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Acer Chromebook Plus CB514 14"" FHD med Google AI",5490.0,Core i3-N305,8 GB RAM,256 GB SSD,Komplett,8.0,256.0,Core i3-N305,6.0
+"MSI Vector 16 HX AI 16"" QHD+",33990.0,Core Ultra 9 275HX,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core Ultra 9 275HX,7.0
+"HP ProBook 440 G11 14"" WUXGA",12738.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ProBook 440 G11 14"" WUXGA",12738.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ProBook 440 G10 14"" Full HD",11199.0,Core i5-1334U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core i5-1334U,6.0
+"HP ENVY x360 Laptop 14-fa0413no 14"" 3K OLED Touch",15990.0,Ryzen 7 8840HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 8840HS,8.0
+"MSI Cyborg 15 A13VF 15,6"" FHD 144 Hz",15990.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,9.0
+"Acer Aspire Go 14"" WUXGA",4290.0,Core i3-N305,8 GB RAM,128 GB SSD,Komplett,8.0,128.0,Core i3-N305,6.0
+"Microsoft Surface Pro Copilot+ PC C12 13"" OLED touch (svart)",23490.0,unknown_cpu,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,unknown_cpu,3.0
+"OMEN Transcend Laptop 14-fb0007no 14"" 2,8K OLED 120 Hz",29989.0,Core Ultra 9 185H,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 185H,1.0
+"OMEN Gaming Laptop 16-wd0005no 16,1"" FHD 144 Hz",18990.0,Intel® Core™ i7-13620H Processor,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Intel® Core™ i7-13620H Processor,9.0
+"Acer Nitro V 15 ANV15-41 15,6"" FHD 165 Hz",8490.0,Ryzen 5 6600H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 6600H,8.0
+"MSI Prestige 14Evo B13M 14"" WUXGA",18490.0,Core i7-13700H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i7-13700H,9.0
+"Lenovo V15 G4 15,6"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Lenovo V15 G4 15,6"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Lenovo V15 G4 15,6"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,6.0
+"Lenovo V15 G4 15,6"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,6.0
+"Lenovo V15 G4 15,6"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,6.0
+"Lenovo Ideapad Slim 3 14"" FHD (arctic grey)",5990.0,Core i3-N305,8 GB RAM,128 GB SSD UFS,Komplett,8.0,128.0,Core i3-N305,6.0
+"Lenovo Ideapad Slim 3 14"" FHD (arctic grey)",5990.0,Core i3-N305,8 GB RAM,128 GB SSD UFS,Komplett,8.0,128.0,Core i3-N305,6.0
+"Lenovo Yoga Slim 6 14"" WUXGA OLED",12990.0,Core i7-13700H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i7-13700H,9.0
+Macbook Pro 16 M4 Pro (2024) 512GB (silver),34990.0,Apple 20-core GPU,24GB RAM,512GB SSD,Komplett,24.0,512.0,Apple 20-core GPU,7.0
+"MSI Vector 17 HX AI 17"" QHD+",35990.0,Core Ultra 9 275H,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275H,7.0
+"MSI Vector 17 HX AI 17"" QHD+",35990.0,Core Ultra 9 275H,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275H,7.0
+"HP Laptop 14-em0920no 14"" FHD",4990.0,Ryzen 5 7520,8 GB RAM,256 GB SSD,Komplett,8.0,256.0,Ryzen 5 7520,8.0
+"Lenovo IdeaPad Slim 3 14"" FHD",6990.0,Core i5-12450H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-12450H,6.0
+"MSI Cyborg 14 A13VF 14"" FHD 144 Hz",15990.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,9.0
+"Lenovo Yoga Slim 7x 14"" OLED 3K touch Copilot+ PC",16490.0,unknown_cpu,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,unknown_cpu,3.0
+"Acer Chromebook Plus 515 15,6"" FHD med Google AI",4990.0,Core i3-1315U,8 GB RAM,256 GB SSD,Komplett,8.0,256.0,Core i3-1315U,6.0
+"MSI Creator A16 AI+ 16"" QHD+ 240Hz (Lunar Grey)",37990.0,Ryzen AI 9 HX 370,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Ryzen AI 9 HX 370,7.0
+"MSI Prestige A16 AI+ 16"" QHD+",23490.0,Ryzen AI 9 365,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Ryzen AI 9 365,1.0
+Macbook Pro 14 M4 (2024) 1TB (silver),24490.0,Apple 10-core GPU,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Apple 10-core GPU,1.0
+Macbook Pro 14 M4 (2024) 1TB (silver),24490.0,Apple 10-core GPU,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Apple 10-core GPU,1.0
+"HP Chromebook 14a-nf0001no 14"" HD",3990.0,Intel N100,8 GB RAM,128 GB SSD UFS,Komplett,8.0,128.0,Intel N100,6.0
+"HP EliteBook X G1i Next Gen AI 14"" WUXGA",22024.0,Core Ultra 5 228V,32 GB RAM,512 GB SSD,Komplett,32.0,512.0,Core Ultra 5 228V,1.0
+"HP ZBook Firefly 14 G11 14"" Mobile Workstation",28586.0,Ryzen 9 89450HS,64GB RAM,1TB SSD,Komplett,64.0,1024.0,Ryzen 9 89450HS,7.0
+"HP EliteBook X G1i Next Gen AI 14"" WUXGA Touch",27483.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,1.0
+"HP EliteBook Ultra G1i Next Gen AI PC 14"" 2.8K OLED Touch",26811.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,1.0
+"HP ProBook 445 G11 14"" Full HD+",11999.0,Ryzen 5 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,8.0
+"HP ProBook 440 G11 14"" WUXGA",14778.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"HP ProBook 440 G11 14"" WUXGA",14778.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"HP ZBook Firefly 16 G11 16"" Mobile Workstation WUXGA",25299.0,Core Ultra 7 155H,32 GB RAM,512GB SSD,Komplett,32.0,512.0,Core Ultra 7 155H,1.0
+"HP ZBook Firefly 16 G11 16"" Mobile Workstation WUXGA",25299.0,Core Ultra 7 155H,32 GB RAM,512GB SSD,Komplett,32.0,512.0,Core Ultra 7 155H,1.0
+"HP Dragonfly G4 13.5"" Full HD+ Sureview",34309.0,Core i7-1355U,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core i7-1355U,7.0
+"MSI Vector 16 HX 16"" QHD+ 240 Hz",37990.0,Core i9-14900HX,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core i9-14900HX,7.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",13738.0,Ryzen 7 7735HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735HS,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",13738.0,Ryzen 7 7735HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735HS,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",13738.0,Ryzen 7 7735HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735HS,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",13738.0,Ryzen 7 7735HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735HS,8.0
+"Lenovo V15 G4 15,6"" Full HD",6613.0,Ryzen 5-7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5-7520U,8.0
+"Lenovo V15 G4 15,6"" Full HD",6613.0,Ryzen 5-7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5-7520U,8.0
+"Lenovo V15 G4 15,6"" Full HD",6613.0,Ryzen 5-7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5-7520U,6.0
+"Lenovo V15 G4 15,6"" Full HD",6613.0,Ryzen 5-7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5-7520U,6.0
+"Lenovo V15 G4 15,6"" Full HD",6613.0,Ryzen 5-7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5-7520U,6.0
+"HP Laptop 15-fd0054no 15,6"" FHD",9490.0,Core i5-1334U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1334U,6.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",9988.0,Ryzen 5-7535HS,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5-7535HS,9.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",9988.0,Ryzen 5-7535HS,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5-7535HS,8.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",9988.0,Ryzen 5-7535HS,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5-7535HS,9.0
+"Lenovo ThinkPad P16 G2 16"" Workstation WQXGA",38625.0,Core i7-13700HX,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core i7-13700HX,7.0
+"MSI Modern 15 B7M 15,6"" FHD",9990.0,Ryzen 7 7730U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 7 7730U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12488.0,Ryzen 7 7735U,16 GB RAM,1TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12488.0,Ryzen 7 7735U,16 GB RAM,1TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735U,9.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12488.0,Ryzen 7 7735U,16 GB RAM,1TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12488.0,Ryzen 7 7735U,16 GB RAM,1TB SSD,Komplett,16.0,1024.0,Ryzen 7 7735U,9.0
+"Lenovo ThinkPad T16 G3 16"" WUXGA",19988.0,Core U7-155U,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core U7-155U,1.0
+"Lenovo ThinkPad T16 G3 16"" WUXGA",19988.0,Core U7-155U,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core U7-155U,9.0
+"Lenovo V15 G4 15,6"" Full HD",7488.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,8.0
+"Lenovo V15 G4 15,6"" Full HD",7488.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,8.0
+"Lenovo V15 G4 15,6"" Full HD",7488.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,6.0
+"Lenovo V15 G4 15,6"" Full HD",7488.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,6.0
+"Lenovo V15 G4 15,6"" Full HD",7488.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,6.0
+"Asus ROG Strix 16"" WQXGA 240 Hz",37990.0,Core Ultra 9 275HX,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 275HX,7.0
+Macbook Pro 14 M4 (2024) 1TB (rymdsvart),28595.0,Apple 10-core GPU,24GB RAM,1TB SSD,Komplett,24.0,1024.0,Apple 10-core GPU,1.0
+Macbook Pro 14 M4 (2024) 1TB (rymdsvart),28595.0,Apple 10-core GPU,24GB RAM,1TB SSD,Komplett,24.0,1024.0,Apple 10-core GPU,1.0
+"Lenovo ThinkPad P14s G5 14"" Workstation WUXGA",26863.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"Lenovo ThinkPad P14s G5 14"" Workstation WUXGA",26863.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"HP EliteBook X Flip G1i 14"" WUXGA Touch Copilot+ PC",32229.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,7.0
+"HP EliteBook X Flip G1i 14"" WUXGA Touch Copilot+ PC",32229.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,1.0
+"Lenovo ThinkPad P16s G3 16"" Workstation WUXGA",23113.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,1.0
+"Microsoft Surface Laptop 7 for business Copilot+ PC 15"" QHD Touch",24988.0,Core Ultra 7 266V,16 GB RAM,256 GB SSD,Komplett,16.0,256.0,Core Ultra 7 266V,1.0
+"Microsoft Surface Laptop 7 for business Copilot+ PC 15"" QHD Touch",24988.0,Core Ultra 7 266V,16 GB RAM,256 GB SSD,Komplett,16.0,256.0,Core Ultra 7 266V,7.0
+"HP EliteBook X Flip G1i 14"" WUXGA Touch Copilot+ PC",26092.0,Core Ultra 5 228V,32 GB RAM,512 GB SSD,Komplett,32.0,512.0,Core Ultra 5 228V,7.0
+"HP EliteBook X Flip G1i 14"" WUXGA Touch Copilot+ PC",26092.0,Core Ultra 5 228V,32 GB RAM,512 GB SSD,Komplett,32.0,512.0,Core Ultra 5 228V,1.0
+"Microsoft Surface Laptop 7 Copilot+ PC 13,8"" Touch",27499.0,unknown_cpu,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,unknown_cpu,1.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",44988.0,Core U7-165H,64GB RAM,1TB SSD,Komplett,64.0,1024.0,Core U7-165H,7.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",44988.0,Core U7-165H,64GB RAM,1TB SSD,Komplett,64.0,1024.0,Core U7-165H,7.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",40613.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",40613.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",34363.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",34363.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",34363.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Microsoft Surface Laptop Copilot+ PC C12 13,8"" touch (svart)",19490.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Lenovo ThinkPad P16 G2 16"" Workstation WQXGA",43113.0,Core i9-13980HX,64GB RAM,1TB SSD,Komplett,64.0,1024.0,Core i9-13980HX,7.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",28738.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",28738.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",28738.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"Lenovo ThinkPad P16 G2 16"" Workstation WQXGA",55613.0,Core i9-13980HX,64GB RAM,1TB SSD,Komplett,64.0,1024.0,Core i9-13980HX,7.0
+"Microsoft Surface Pro 10 for Business 13"" Touch (Black)",23499.0,Core Ultra 5 135U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 135U,1.0
+"Microsoft Surface Pro Copilot+ PC 11"" Touch",18749.0,unknown_cpu,16GB RAM,512GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Microsoft Surface Laptop 7 for business Copilot+ PC 15"" QHD Touch",33738.0,Core U7-268V,32GB RAM,1GB SSD,Komplett,32.0,1.0,Core U7-268V,1.0
+"Microsoft Surface Laptop 7 for business Copilot+ PC 15"" QHD Touch",33738.0,Core U7-268V,32GB RAM,1GB SSD,Komplett,32.0,1.0,Core U7-268V,7.0
+"Lenovo ThinkPad T14s G6 14"" Full HD+ Copilot+ PC",24988.0,Ryzen AI 7 Pro 360,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Ryzen AI 7 Pro 360,1.0
+"Lenovo ThinkPad X1 Carbon G13 14"" 2.8K OLED Aura Copilot+ PC",32488.0,Core U7-258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core U7-258V,7.0
+"Microsoft Surface Pro 11 Copilot+ PC 13"" OLED Touch",22499.0,unknown_cpu,16GB RAM,512GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Samsung Galaxy Book4 Ultra 16"" WQXGA+ Inkl. Samsung 27"" 27A60P skärm",43990.0,Core Ultra 9 185H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 185H,7.0
+Macbook Pro 14 M4 (2024) 1TB (silver),26990.0,Apple 10-core GPU,24GB RAM,1TB SSD,Komplett,24.0,1024.0,Apple 10-core GPU,1.0
+Macbook Pro 14 M4 (2024) 1TB (silver),26990.0,Apple 10-core GPU,24GB RAM,1TB SSD,Komplett,24.0,1024.0,Apple 10-core GPU,1.0
+"Asus ROG Zephyrus G14 14"" 3K OLED",41490.0,Ryzen AI 9 HX 370,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Ryzen AI 9 HX 370,7.0
+Macbook Pro 14 M4 (2024) 1TB (rymdsvart),25790.0,Apple 10-core GPU,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Apple 10-core GPU,1.0
+Macbook Pro 14 M4 (2024) 1TB (rymdsvart),25790.0,Apple 10-core GPU,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Apple 10-core GPU,1.0
+"MSI Creator 16 AI Studio 16"" UHD+",40990.0,Core Ultra 9 185H,64 GB RAM,2 TB SSD,Komplett,64.0,2048.0,Core Ultra 9 185H,7.0
+"HP EliteBook 640 G10 14"" Full HD",13628.0,Core i5-1335U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core i5-1335U,9.0
+Macbook Air 15 (2024) 512GB (silver),18590.0,Apple 10-Core GPU,16GB RAM,512GB  SSD,Komplett,16.0,512.0,Apple 10-Core GPU,9.0
+MacBook Air 13 (2022) 512GB (midnatt),13540.0,Apple 10-Core GPU,8GB RAM,512GB SSD,Komplett,8.0,512.0,Apple 10-Core GPU,9.0
+MacBook Air 13 (2022) 512GB (rymdgrå),13540.0,Apple 10-Core GPU,8GB RAM,512GB SSD,Komplett,8.0,512.0,Apple 10-Core GPU,9.0
+"Asus Chromebook CX1 15,6"" FHD",2999.0,unknown_cpu,4 GB RAM,64 GB eMMC,Komplett,4.0,64.0,unknown_cpu,3.0
+"Asus VivoBook 14 D1407KA 14"" WUXGA",9990.0,Ryzen AI 5 340,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen AI 5 340,8.0
+"MSI Summit E13 AI Evo 13,3"" FHD Touch",24490.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,1.0
+"ASUS Vivobook S14 14"" WUXGA OLED",13990.0,Core Ultra 5 226V,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 5 226V,9.0
+"HP OmniBook X Laptop 14-fe0052no 14"" 2.2K Touch",9990.0,unknown_cpu,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,unknown_cpu,3.0
+"MSI Stealth 18 HX AI 18"" QHD+",41990.0,Core Ultra 9 285HX,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 285HX,7.0
+"MSI Venture 14 AI A1M 14"" 2.8K OLED",12990.0,Core Ultra 5 125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,9.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",11238.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",11238.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkBook 14 G7 14"" WUXGA",11238.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo IdeaPad Pro 5 14"" 2.8K OLED",15490.0,Ryzen 7 8845HS,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 7 8845HS,8.0
+"HP EliteBook 840 G11 14"" WUXGA",18898.0,Core Ultra 5 125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,9.0
+"HP EliteBook 840 G11 14"" WUXGA",18898.0,Core Ultra 5 125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,1.0
+"HP EliteBook 1040 G11 14"" WUXGA Touch",26875.0,Core U5-125H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U5-125H,1.0
+Macbook Pro 16 M4 Pro (2024) 512GB (rymdsvart),34990.0,Apple 20-core GPU,24GB RAM,512GB SSD,Komplett,24.0,512.0,Apple 20-core GPU,7.0
+"MSI Prestige 14 AI Studio 14"" WUXGA",18990.0,Core Ultra 7 155H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 155H,1.0
+"HP ProBook 460 G11 16"" WUXGA",13161.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ProBook 460 G11 16"" WUXGA",13161.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ZBook Firefly 16 G11 16"" Mobile Workstation WUXGA",26511.0,Core Ultra 7 155H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 155H,1.0
+"HP ZBook Firefly 16 G11 16"" Mobile Workstation WUXGA",26511.0,Core Ultra 7 155H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 155H,1.0
+"Asus ROG Strix G18 18"" WQXGA 240 Hz",39990.0,Core Ultra 9 275HX,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 275HX,7.0
+"Lenovo ThinkPad L13 G5 13,3"" WUXGA",16238.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkPad L13 G5 13,3"" WUXGA",16238.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"MSI Summit A16 AI+ 16"" QHD+ Touch",26490.0,Ryzen AI 9 365,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Ryzen AI 9 365,1.0
+"Lenovo ThinkPad T14 G5 14"" WUXGA",22488.0,Core U7-155U,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155U,1.0
+"Lenovo ThinkPad T14 G5 14"" WUXGA",22488.0,Core U7-155U,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155U,9.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12863.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12863.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,9.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12863.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",12863.0,Core U7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155H,9.0
+"Acer Chromebook 314 CB314 14"" FHD",3490.0,Intel N100,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,Intel N100,6.0
+"Lenovo ThinkPad P14s G5 14"" Workstation WUXGA",23113.0,Ryzen 7 Pro 8840HS,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Ryzen 7 Pro 8840HS,1.0
+"Lenovo ThinkPad P14s G5 14"" Workstation WUXGA",23113.0,Ryzen 7 Pro 8840HS,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Ryzen 7 Pro 8840HS,1.0
+"Lenovo ThinkBook 16 G7 16"" WUXGA",11238.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkBook 16 G7 16"" WUXGA",11238.0,Core U5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U5-125U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U5-125U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U5-125U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",12488.0,Core U5-125U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",9988.0,Ryzen 5 7535U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",9988.0,Ryzen 5 7535U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,9.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",9988.0,Ryzen 5 7535U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",9988.0,Ryzen 5 7535U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,9.0
+"Lenovo ThinkPad T14s G5 14"" WUXGA",19988.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad T14s G5 14"" WUXGA",19988.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,1.0
+"Microsoft Surface Pro Copilot+ PC C10 13"" touch (svart)",16990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Microsoft Surface Laptop Copilot+ PC C10 13,8"" touch (svart)",16990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",39988.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,7.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",39988.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,1.0
+"Lenovo ThinkPad P16v G2 16"" Workstation WUXGA",39988.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,7.0
+"Microsoft Surface Laptop C12 Copilot+ PC 15"" touch (svart)",20990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Microsoft Surface Pro C12 Copilot+ PC 13"" OLED touch (svart)",20990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"HP ZBook Fury G11 16"" Mobile Workstation WUXGA",42907.0,Core i7-14700HX,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core i7-14700HX,7.0
+"Acer Aspire Lite 14"" WUXGA",6490.0,Core 3 N355,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Core 3 N355,6.0
+"Acer Aspire Lite 17"" FHD",5290.0,Intel N150,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,Intel N150,6.0
+"Acer Aspire Lite 17"" FHD",5290.0,Intel N150,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,Intel N150,6.0
+"Acer Aspire Lite 17"" FHD",7290.0,Core i3-N355,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Core i3-N355,6.0
+"Acer Aspire Lite 17"" FHD",7290.0,Core i3-N355,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Core i3-N355,6.0
+"MSI Katana 15 HX 15,6"" QHD",21990.0,Core i9-14900HX,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i9-14900HX,1.0
+"Lenovo V14 G4 14"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Lenovo V14 G4 14"" Full HD",6863.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"MSI Cyborg 15 B2RWFKG 15,6"" FHD",16990.0,Core 5 210H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core 5 210H,9.0
+"Lenovo ThinkBook 16 G7 16"" WUXGA",10613.0,Ryzen 5-7335HS,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5-7335HS,9.0
+"Lenovo ThinkBook 16 G7 16"" WUXGA",10613.0,Ryzen 5-7335HS,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5-7335HS,8.0
+"Lenovo ThinkPad T14s G5 14"" WUXGA",24363.0,Core U7-155U,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155U,9.0
+"Lenovo ThinkPad T14s G5 14"" WUXGA",24363.0,Core U7-155U,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155U,1.0
+"Lenovo ThinkPad T16 G3 16"" WUXGA",17488.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,1.0
+"Lenovo ThinkPad T16 G3 16"" WUXGA",17488.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ZBook Firefly 14 G11 14"" Mobile Workstation Touch",26699.0,Core Ultra 7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core Ultra 7-155H,1.0
+"Lenovo ThinkPad T14 G5 14"" WUXGA",17488.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,1.0
+"Lenovo ThinkPad T14 G5 14"" WUXGA",17488.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",11238.0,Ryzen 5 7335HS,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7335HS,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",11238.0,Ryzen 5 7335HS,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7335HS,8.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",11238.0,Ryzen 5 7335HS,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7335HS,9.0
+"Lenovo ThinkPad E16 G2 16"" WUXGA",11238.0,Ryzen 5 7335HS,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7335HS,8.0
+"HP ProBook 465 G11 16"" Full HD",12096.0,Ryzen 5 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 7535U,8.0
+"HP EliteBook 860 G11 16"" WUXGA",20079.0,Core Ultra 5 125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,1.0
+"HP EliteBook 860 G11 16"" WUXGA",20079.0,Core Ultra 5 125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,1.0
+"Asus ROG Strix G16 16"" WUXGA 165 Hz",31990.0,Ryzen 9 8940HX,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Ryzen 9 8940HX,1.0
+"Lenovo ThinkPad L13 G5 13,3"" WUXGA",14363.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad L13 G5 13,3"" WUXGA",14363.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"HP ZBook Power G11 16"" Mobile Workstation WQXGA",31639.0,Ryzen 9 8945HS,64 GB RAM,1 TB SSD,Komplett,64.0,1024.0,Ryzen 9 8945HS,7.0
+"Lenovo ThinkPad X9-14 G1 14"" WUXGA OLED Copilot+ PC",24150.0,Core Ultra 7 258V,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 258V,1.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",49490.0,Core Ultra 9 285H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 285H,7.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",49490.0,Core Ultra 9 285H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 285H,7.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",64990.0,Core Ultra 9 285H,64 GB RAM,2 TB SSD,Komplett,64.0,2048.0,Core Ultra 9 285H,7.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",64990.0,Core Ultra 9 285H,64 GB RAM,2 TB SSD,Komplett,64.0,2048.0,Core Ultra 9 285H,7.0
+"Lenovo ThinkPad T14s G6 14"" WUXGA Copilot+ PC",23738.0,unknown_cpu,32GB RAM,1TB SSD,Komplett,32.0,1024.0,unknown_cpu,3.0
+"HP EliteBook 840 G10 14"" Full HD",18024.0,Core i5-1335U,16GB RAM,256GB SSD,Komplett,16.0,256.0,Core i5-1335U,9.0
+"HP EliteBook 840 G10 14"" Full HD",18024.0,Core i5-1335U,16GB RAM,256GB SSD,Komplett,16.0,256.0,Core i5-1335U,9.0
+"HP EliteBook 1040 G11 14"" Full HD+ TOUCH",29679.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"HP EliteBook 645 G11 14"" Full HD+",14439.0,Ryzen 5 7335U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 7335U,8.0
+"Microsoft Surface Laptop 7 for business Copilot+ PC 13,5"" QHD Touch",20613.0,Core Ultra 5 236V,16 GB RAM,256 GB SSD,Komplett,16.0,256.0,Core Ultra 5 236V,1.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",16863.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",16863.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,8.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",16863.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",16863.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,8.0
+"HP EliteBook 660 G11 16"" WUXGA",19619.0,Core Ultra 7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7-155U,1.0
+"HP EliteBook 640 G11 14"" WUXGA",18799.0,Core Ultra 7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7-155U,1.0
+"Asus ROG Strix SCAR 16"" WQXGA 240 Hz",45490.0,Core Ultra 9 275HX,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275HX,7.0
+"Asus ROG Strix G16 16"" WQXGA 240 Hz",35490.0,Ryzen 9 9955HX,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Ryzen 9 9955HX,7.0
+"HP EliteBook 840 G11 14"" WUXGA",22099.0,Core Ultra 7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7-155H,9.0
+"HP EliteBook 840 G11 14"" WUXGA",22099.0,Core Ultra 7-155H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7-155H,1.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,8.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,8.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",44490.0,Core Ultra 9 285H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 285H,7.0
+"Asus ROG Zephyrus G16 16"" WQXGA OLED 240 Hz",44490.0,Core Ultra 9 285H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 9 285H,7.0
+"HP EliteBook 645 G11 14"" WUXGA",18113.0,Ryzen 7 7735U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 7735U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",16863.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",16863.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",16863.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,8.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",16863.0,Core U7-155U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U7-155U,8.0
+"Asus ROG Strix SCAR 18"" WQXGA 240 Hz",46990.0,Core Ultra 9 275HX,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275HX,7.0
+"HP ZBook Power G11 16"" Mobile Workstation WUXGA",28279.0,Ryzen 7 8845HS,32 GB RAM,512 GB SSD,Komplett,32.0,512.0,Ryzen 7 8845HS,1.0
+"MSI Vector 17 HX AI 17"" QHD+",43990.0,Core Ultra 9 275HX,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275HX,7.0
+"MSI Vector 17 HX AI 17"" QHD+",43990.0,Core Ultra 9 275HX,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 275HX,7.0
+"HP ProBook 460 G11 16"" WUXGA",15100.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"HP ProBook 460 G11 16"" WUXGA",15100.0,Core U7-155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core U7-155U,9.0
+"HP ZBook Firefly 14 G11 14"" Mobile Workstation WUXGA",27279.0,Core i7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core i7-155H,1.0
+"HP Elitebook 840 G11 14"" Full HD",21020.0,Core Ultra 5-125H,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5-125H,1.0
+"HP EliteBook 830 G11 13,3"" Full HD",20897.0,Core Ultra 5-125U,32GB RAM,512GB SSD,Komplett,32.0,512.0,Core Ultra 5-125U,1.0
+"HP Elitebook 830 G11 13,3"" Full HD",19999.0,Core i5-1335U,16GB RAM,256GB SSD,Komplett,16.0,256.0,Core i5-1335U,9.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",44192.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,7.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",44192.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,1.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",44192.0,Core U9-185H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U9-185H,7.0
+"HP Elite x360 G11 14"" WUXGA",30519.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",11238.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",11238.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",11238.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,8.0
+"Lenovo ThinkPad E14 G6 14"" WUXGA",11238.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",15613.0,Core U5-125U,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core U5-125U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",15613.0,Core U5-125U,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core U5-125U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",15613.0,Core U5-125U,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core U5-125U,8.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",15613.0,Core U5-125U,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core U5-125U,8.0
+"Asus ROG Strix SCAR 18"" WQXGA 240 Hz",64990.0,Core Ultra 9 275HX,64 GB RAM,2 TB SSD,Komplett,64.0,2048.0,Core Ultra 9 275HX,7.0
+"Asus ROG Zephyrus G14 14"" 3K",41490.0,Ryzen AI 9 HX 370,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Ryzen AI 9 HX 370,7.0
+"Samsung Galaxy Book4 Pro 16"" WQXGA Inkl. Samsung 27"" 27A60P skärm",23990.0,Core Ultra 7 155H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 7 155H,1.0
+"Samsung Galaxy Book4 Pro 360 16"" WQXGA  Inkl. Samsung 27"" 27A60P skärm",23990.0,Core Ultra 5 125H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 5 125H,1.0
+"Acer Swift X 14"" 2,8K OLED",11990.0,Core Ultra 7 155H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 7 155H,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",15613.0,Core U5-125U,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Core U5-125U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",15613.0,Core U5-125U,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Core U5-125U,8.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",15613.0,Core U5-125U,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Core U5-125U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",15613.0,Core U5-125U,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Core U5-125U,8.0
+"Lenovo ThinkPad X1 Carbon G12 14"" WUXGA",23113.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,9.0
+"Lenovo ThinkPad X1 Carbon G12 14"" WUXGA",23113.0,Core U5-125U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core U5-125U,1.0
+"Lenovo ThinkPad X1 Carbon G12 14"" WUXGA",27488.0,Core U7-155U,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core U7-155U,9.0
+"Lenovo ThinkPad X1 Carbon G12 14"" WUXGA",27488.0,Core U7-155U,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core U7-155U,1.0
+"MSI Prestige 16 AI Evo 16"" UHD+",22990.0,Core Ultra 7 155H,32 GB RAM,1 TB SSD,Komplett,32.0,1024.0,Core Ultra 7 155H,1.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,8.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,8.0
+"Asus VivoBook 14"" WUXGA",8990.0,unknown_cpu,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"Lenovo ThinkPad P16 G2 16"" Workstation WUXGA",26238.0,Core i7-13700HX,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core i7-13700HX,1.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,9.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,8.0
+"Lenovo ThinkPad L16 G1 16"" WUXGA",13488.0,Ryzen 5 PRO 7535U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 5 PRO 7535U,8.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,8.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,9.0
+"Lenovo ThinkPad L14 G5 14"" WUXGA",14988.0,Ryzen 7 PRO 7735U,16 GB RAM,512GB SSD,Komplett,16.0,512.0,Ryzen 7 PRO 7735U,8.0
+"Lenovo ThinkPad T14s G4 14"" WUXGA",23738.0,Ryzen 7 Pro 7840U,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Ryzen 7 Pro 7840U,1.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",29155.0,Core U7-155H,32GB RAM,512GB SSD,Komplett,32.0,512.0,Core U7-155H,7.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",29155.0,Core U7-155H,32GB RAM,512GB SSD,Komplett,32.0,512.0,Core U7-155H,1.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",29155.0,Core U7-155H,32GB RAM,512GB SSD,Komplett,32.0,512.0,Core U7-155H,7.0
+"Lenovo ThinkBook 16 G7 16"" Full HD+",9988.0,unknown_cpu,16GB RAM,512GB SSD,Komplett,16.0,512.0,unknown_cpu,3.0
+"HP EliteBook 840 G10 14"" Full HD",17088.0,Core i5-1335U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core i5-1335U,9.0
+"HP EliteBook 840 G10 14"" Full HD",17088.0,Core i5-1335U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core i5-1335U,9.0
+"HP EliteBook 660 G11 16"" WUXGA",17319.0,Core Ultra 5-125U,16GB RAM,512B SSD,Komplett,16.0,,Core Ultra 5-125U,1.0
+"HP EliteBook 640 G11 14"" Full HD+",15809.0,Core Ultra 5-125U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 5-125U,9.0
+"HP OmniBook Ultra Flip 14-fh0096no 14"" 2.8K OLED Touch",19990.0,Core Ultra 9 288V,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 288V,1.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",33033.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",33033.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,1.0
+"HP ZBook Power G11 16"" Mobile Workstation Full HD",33033.0,Core U7-155H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-155H,7.0
+"HP EliteBook 860 G11 16"" WUXGA",21761.0,Core Ultra 7 155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7 155U,1.0
+"HP EliteBook 860 G11 16"" WUXGA",21761.0,Core Ultra 7 155U,16GB RAM,512GB SSD,Komplett,16.0,512.0,Core Ultra 7 155U,1.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",46238.0,Core U7-165H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-165H,7.0
+"Lenovo ThinkPad P1 G7 16"" Workstation WQXGA",46238.0,Core U7-165H,32GB RAM,1TB SSD,Komplett,32.0,1024.0,Core U7-165H,7.0
+"MSI Cyborg 14"" WUXGA 144 Hz",13990.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,9.0
+"ASUS Vivobook Go 14 L1404FA 14"" FHD",7990.0,Ryzen 5 7520U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7520U,8.0
+"Acer Aspire Go 14 14"" WUXGA",3990.0,Intel N100,8 GB RAM,128 GB SSD,Komplett,8.0,128.0,Intel N100,6.0
+"Acer Aspire Go 14 14"" WUXGA",3990.0,Intel N100,8 GB RAM,128 GB SSD,Komplett,8.0,128.0,Intel N100,8.0
+"MSI Thin 15 B13U 15,6"" FHD 144 Hz",10990.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,6.0
+"Lenovo LOQ 15 15,6"" FHD",9990.0,Ryzen 7 7435HS,24 GB RAM,512 GB SSD,Komplett,24.0,512.0,Ryzen 7 7435HS,8.0
+"MSI Modern 14 14"" FHD",9490.0,Ryzen 5 7430U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 7430U,8.0
+"ASUS Zephyrus G16 16"" WQXGA OLED 240 Hz",51990.0,Core Ultra 9 185H,32 GB RAM,2 TB SSD,Komplett,32.0,2048.0,Core Ultra 9 185H,7.0
+"Samsung Galaxy Book3 Pro 16"" AMOLED WQXGA+ 120 Hz (Graphite)",24990.0,Core i7-1360P,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-1360P,1.0
+"Lenovo V15 G4 15,6"" Full HD",8738.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,8.0
+"Lenovo V15 G4 15,6"" Full HD",8738.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,8.0
+"Lenovo V15 G4 15,6"" Full HD",8738.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,6.0
+"Lenovo V15 G4 15,6"" Full HD",8738.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,6.0
+"Lenovo V15 G4 15,6"" Full HD",8738.0,Core i7-13620H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i7-13620H,6.0
+"Lenovo IdeaPad Slim 3 Chrome 14"" FHD",3290.0,unknown_cpu,4 GB RAM,128 GB eMMC,Komplett,4.0,128.0,unknown_cpu,3.0
+"Lenovo IdeaPad Slim 5 14"" WUXGA OLED",8990.0,Ryzen 5 8645HS,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Ryzen 5 8645HS,8.0
+"Acer Swift 14 AI WUXGA 14"" OLED CoPilot+ PC",11490.0,Core Ultra 7 256V,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core Ultra 7 256V,9.0
+"Lenovo IdeaPad 1 15,6"" FHD",6790.0,Ryzen 3 7320U,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Ryzen 3 7320U,3.0
+"Lenovo IdeaPad 1 15,6"" FHD",6790.0,Ryzen 3 7320U,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Ryzen 3 7320U,8.0
+"MSI Modern 14 F13MG 14"" FHD",8990.0,Core i5-1335U,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-1335U,6.0
+Macbook Pro 14 M4 (2024) 512GB (silver),22990.0,Apple 10-core GPU,16GB RAM,512GB SSD,Komplett,16.0,512.0,Apple 10-core GPU,9.0
+"Lenovo V15 G4 15,6"" Full HD",8113.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,8.0
+"Lenovo V15 G4 15,6"" Full HD",8113.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,8.0
+"Lenovo V15 G4 15,6"" Full HD",8113.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,6.0
+"Lenovo V15 G4 15,6"" Full HD",8113.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,6.0
+"Lenovo V15 G4 15,6"" Full HD",8113.0,Core i5-13420H,16 GB RAM,512 GB SSD,Komplett,16.0,512.0,Core i5-13420H,6.0
+"Lenovo ThinkPad X13 G5 13.3"" WUXGA",22488.0,Core U7-155U,16GB RAM,1TB SSD,Komplett,16.0,1024.0,Core U7-155U,1.0
+"MSI Katana 15 B13VFK 15,6"" FHD",17490.0,Core i7-13620H,16 GB RAM,1 TB SSD,Komplett,16.0,1024.0,Core i7-13620H,9.0
+"Acer Aspire Lite 15 15,6"" FHD",3990.0,unknown_cpu,4 GB RAM,128 GB SSD,Komplett,4.0,128.0,unknown_cpu,3.0
+"Acer Aspire Go 14 14"" WUXGA",4990.0,Ryzen 5 7520U,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Ryzen 5 7520U,6.0
+"Acer Aspire Go 14 14"" WUXGA",4990.0,Ryzen 5 7520U,8 GB RAM,512 GB SSD,Komplett,8.0,512.0,Ryzen 5 7520U,8.0

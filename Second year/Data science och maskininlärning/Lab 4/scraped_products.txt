@@ -1,0 +1,12 @@
+Website: https://www.techtarget.com/searchenterpriseai/definition/machine-learning-ML
+Title: What is machine learning? Guide, definition and examples
+Description: Machine learning is a branch ofAIfocused on building computer systems that learn from data. The breadth of ML techniques enables software applications to improve their performance over time.
+
+---
+
+Website: https://towardsdatascience.com/clustering-eating-behaviors-in-time-a-machine-learning-approach-to-preventive-health/
+Title: Clustering Eating Behaviors in Time: A Machine Learning Approach to Preventive Health
+Description: The world’s leading publication for data science, AI, and ML professionals.
+
+---
+

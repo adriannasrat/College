@@ -1,0 +1,3573 @@
+{
+  "products": [
+    {
+      "storeId": "312",
+      "materialNumber": "1322034",
+      "manufacturerPartNumber": "MC6J4KS/A",
+      "name": "MacBook Air 15\" M4 (2025) 512GB (silver)",
+      "description": "Apple 10-core M4 CPU, 24 GB, 512GB SSD, Apple 10-core GPU, SWE keyb.",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322034/dator-surfplatta/datorer-barbara-laptop/macbook-air-15-m4-2025-512gb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "3",
+        "stockIconColor": "green",
+        "availabilityText": "3 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 995:-",
+        "listPriceNumber": 23995.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "689:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 44,
+        "monthlyPriceTotal": "30 316:-",
+        "monthlyPriceTotalOver24Months": "16 536:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 19196.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1322051",
+              "value": "#41464C",
+              "displayValue": "Midnatt",
+              "url": "/product/1322051"
+            },
+            {
+              "materialNumber": "1322032",
+              "value": "#d7e1e5",
+              "displayValue": "Himmelblå",
+              "url": "/product/1322032"
+            },
+            {
+              "materialNumber": "1322034",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1322034"
+            },
+            {
+              "materialNumber": "1322037",
+              "value": "#e5dfd9",
+              "displayValue": "Stjärnglans",
+              "url": "/product/1322037"
+            }
+          ],
+          "groupByInListing": false
+        },
+        {
+          "type": "TEXT",
+          "name": "Specifikationer",
+          "products": [
+            {
+              "materialNumber": "1322039",
+              "value": "1",
+              "displayValue": "16GB RAM / 256GB SSD",
+              "url": "/product/1322039"
+            },
+            {
+              "materialNumber": "1322044",
+              "value": "2",
+              "displayValue": "16GB RAM / 512GB SSD",
+              "url": "/product/1322044"
+            },
+            {
+              "materialNumber": "1322034",
+              "value": "3",
+              "displayValue": "24GB RAM / 512GB SSD",
+              "url": "/product/1322034"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322034_01.jpg",
+        "1322034_02.jpg",
+        "1322034_03.jpg",
+        "1322034_04.jpg",
+        "1322034_05.jpg",
+        "1322034_06.jpg",
+        "1322034_07.jpg",
+        "1322034_08.jpg",
+        "1322034_09.jpg",
+        "1322034_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322032",
+      "manufacturerPartNumber": "MC7D4KS/A",
+      "name": "MacBook Air 15\" M4 (2025) 512GB (himmelsblå)",
+      "description": "Apple 10-core M4 CPU, 24 GB, 512GB SSD, Apple 10-core GPU, SWE keyb.",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322032/dator-surfplatta/datorer-barbara-laptop/macbook-air-15-m4-2025-512gb-himmelsblaa",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "3",
+        "stockIconColor": "green",
+        "availabilityText": "3 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 995:-",
+        "listPriceNumber": 23995.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "689:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 44,
+        "monthlyPriceTotal": "30 316:-",
+        "monthlyPriceTotalOver24Months": "16 536:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 19196.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1322051",
+              "value": "#41464C",
+              "displayValue": "Midnatt",
+              "url": "/product/1322051"
+            },
+            {
+              "materialNumber": "1322032",
+              "value": "#d7e1e5",
+              "displayValue": "Himmelblå",
+              "url": "/product/1322032"
+            },
+            {
+              "materialNumber": "1322034",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1322034"
+            },
+            {
+              "materialNumber": "1322037",
+              "value": "#e5dfd9",
+              "displayValue": "Stjärnglans",
+              "url": "/product/1322037"
+            }
+          ],
+          "groupByInListing": false
+        },
+        {
+          "type": "TEXT",
+          "name": "Specifikationer",
+          "products": [
+            {
+              "materialNumber": "1322038",
+              "value": "1",
+              "displayValue": "16GB RAM / 256GB SSD",
+              "url": "/product/1322038"
+            },
+            {
+              "materialNumber": "1322041",
+              "value": "2",
+              "displayValue": "16GB RAM / 512GB SSD",
+              "url": "/product/1322041"
+            },
+            {
+              "materialNumber": "1322032",
+              "value": "3",
+              "displayValue": "24GB RAM / 512GB SSD",
+              "url": "/product/1322032"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322032_01.jpg",
+        "1322032_02.jpg",
+        "1322032_03.jpg",
+        "1322032_04.jpg",
+        "1322032_05.jpg",
+        "1322032_06.jpg",
+        "1322032_07.jpg",
+        "1322032_08.jpg",
+        "1322032_09.jpg",
+        "1322032_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1316514",
+      "manufacturerPartNumber": "MCX14KS/A",
+      "name": "Macbook Pro 14 M4 (2024) 1TB (silver)",
+      "description": "Apple 10-core M4 CPU, 24GB RAM, 1TB SSD, Apple 10-core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1316514/dator-surfplatta/datorer-barbara-laptop/macbook-pro-14-m4-2024-1tb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "3",
+        "stockIconColor": "green",
+        "availabilityText": "3 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "26 990:-",
+        "listPriceNumber": 26990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "749:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 46,
+        "monthlyPriceTotal": "34 454:-",
+        "monthlyPriceTotalOver24Months": "17 976:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 21592.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1316515",
+              "value": "#000000",
+              "displayValue": "Rymdsvart",
+              "url": "/product/1316515"
+            },
+            {
+              "materialNumber": "1316514",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1316514"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1316514_01.jpg",
+        "1316514_02.jpg",
+        "1316514_03.jpg",
+        "1316514_04.jpg",
+        "1316514_05.jpg",
+        "1316514_06.jpg",
+        "1316514_07.jpg",
+        "1316514_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301400",
+      "manufacturerPartNumber": "MRW33KS/A",
+      "name": "Macbook Pro 16 M3 MAX (2023) 1TB (rymdsvart)",
+      "description": "Apple 14-Core M3 MAX, 36GB Minne, 1TB SSD, Apple 30-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301400/dator-surfplatta/datorer-barbara-laptop/macbook-pro-16-m3-max-2023-1tb-rymdsvart",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "3",
+        "stockIconColor": "green",
+        "availabilityText": "3 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "45 190:-",
+        "listPriceNumber": 45190.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 029:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "61 740:-",
+        "monthlyPriceTotalOver24Months": "24 696:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 36152.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301400",
+              "value": "#000000",
+              "displayValue": "Rymdsvart",
+              "url": "/product/1301400"
+            },
+            {
+              "materialNumber": "1301413",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301413"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301400_01.jpg",
+        "1301400_02.jpg",
+        "1301400_03.jpg",
+        "1301400_04.jpg",
+        "1301400_05.jpg",
+        "1301400_06.jpg",
+        "1301400_07.jpg",
+        "1301400_08.jpg",
+        "1301400_09.jpg",
+        "1301400_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317802",
+      "manufacturerPartNumber": "GA403WR-QS085W",
+      "name": "Asus ROG Zephyrus G14 14\" 3K OLED",
+      "description": "GeForce RTX 5070 Ti, Ryzen AI 9 HX 370, 32 GB RAM, 1 TB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "AMD Ryzen AI 9 HX CPU",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/94505/amd_ryzen_ai_9hx_badge_rgb.png"
+      },
+      "url": "/product/1317802/dator-surfplatta/datorer-barbara-laptop/asus-rog-zephyrus-g14-14-3k-oled",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "41 490:-",
+        "listPriceNumber": 41490.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 398:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "50 328:-",
+        "monthlyPriceTotalOver24Months": "33 552:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 33192.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317802_01.jpg",
+        "1317802_02.jpg",
+        "1317802_03.jpg",
+        "1317802_04.jpg",
+        "1317802_05.jpg",
+        "1317802_06.jpg",
+        "1317802_07.jpg",
+        "1317802_08.jpg",
+        "1317802_09.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1316506",
+      "manufacturerPartNumber": "MW2V3KS/A",
+      "name": "Macbook Pro 14 M4 (2024) 1TB (rymdsvart)",
+      "description": "Apple 10-core M4 CPU, 16GB RAM, 1TB SSD, Apple 10-core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1316506/dator-surfplatta/datorer-barbara-laptop/macbook-pro-14-m4-2024-1tb-rymdsvart",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "25 790:-",
+        "listPriceNumber": 25790.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "740:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 44,
+        "monthlyPriceTotal": "32 560:-",
+        "monthlyPriceTotalOver24Months": "17 760:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 20632.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1316506_01.jpg",
+        "1316506_02.jpg",
+        "1316506_03.jpg",
+        "1316506_04.jpg",
+        "1316506_05.jpg",
+        "1316506_06.jpg",
+        "1316506_07.jpg",
+        "1316506_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1315947",
+      "manufacturerPartNumber": "Creator 16 AI Studio A1VHG-022NEU",
+      "name": "MSI Creator 16 AI Studio 16\" UHD+",
+      "description": "GeForce RTX 4080, Core Ultra 9 185H, 64 GB RAM, 2 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1315947/dator-surfplatta/datorer-barbara-laptop/msi-creator-16-ai-studio-16-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "40 990:-",
+        "listPriceNumber": 40990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 655:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "47 995:-",
+        "monthlyPriceTotalOver24Months": "39 720:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 32792.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1315947_01.jpg",
+        "1315947_02.jpg",
+        "1315947_03.jpg",
+        "1315947_04.jpg",
+        "1315947_05.jpg",
+        "1315947_06.jpg",
+        "1315947_07.jpg",
+        "1315947_08.jpg",
+        "1315947_09.jpg",
+        "1315947_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309701",
+      "manufacturerPartNumber": "9Y6U7AT",
+      "name": "HP EliteBook 640 G10 14\" Full HD",
+      "description": "Iris Xe, Core i5-1335U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core i5-12th gen. CPU",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/47815/core-i5-11-90x90.png"
+      },
+      "url": "/product/1309701/dator-surfplatta/datorer-barbara-laptop/hp-elitebook-640-g10-14-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "13 628:-",
+        "listPriceNumber": 13628.35,
+        "discountNumber": 0.0,
+        "monthlyPrice": "520:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "16 120:-",
+        "monthlyPriceTotalOver24Months": "12 480:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 10902.68,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309701_01.jpg",
+        "1309701_02.jpg",
+        "1309701_03.jpg",
+        "1309701_04.jpg",
+        "1309701_05.jpg",
+        "1309701_06.jpg",
+        "1309701_07.jpg",
+        "1309701_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1305690",
+      "manufacturerPartNumber": "MXD23KS/A",
+      "name": "Macbook Air 15 (2024) 512GB (silver)",
+      "description": "Apple 8-Core M3 CPU, 16GB RAM, 512GB  SSD, Apple 10-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1305690/dator-surfplatta/datorer-barbara-laptop/macbook-air-15-2024-512gb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "18 590:-",
+        "listPriceNumber": 18590.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "423:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "25 380:-",
+        "monthlyPriceTotalOver24Months": "10 152:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 14872.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1305690",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1305690"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1305690_01.jpg",
+        "1305690_02.jpg",
+        "1305690_03.jpg",
+        "1305690_04.jpg",
+        "1305690_05.jpg",
+        "1305690_06.jpg",
+        "1305690_07.jpg",
+        "1305690_08.jpg",
+        "1305690_09.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322045",
+      "manufacturerPartNumber": "MC6C4KS/A",
+      "name": "MacBook Air 13\" M4 (2025) 512GB (midnatt)",
+      "description": "Apple 10-core M4 CPU, 24 GB, 512GB SSD, Apple 10-core GPU, SWE keyb.",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322045/dator-surfplatta/datorer-barbara-laptop/macbook-air-13-m4-2025-512gb-midnatt",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "20 990:-",
+        "listPriceNumber": 20990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "603:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 44,
+        "monthlyPriceTotal": "26 532:-",
+        "monthlyPriceTotalOver24Months": "14 472:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": false,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 16792.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1322045",
+              "value": "#41464C",
+              "displayValue": "Midnatt",
+              "url": "/product/1322045"
+            },
+            {
+              "materialNumber": "1322031",
+              "value": "#d7e1e5",
+              "displayValue": "Himmelblå",
+              "url": "/product/1322031"
+            },
+            {
+              "materialNumber": "1322049",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1322049"
+            },
+            {
+              "materialNumber": "1322046",
+              "value": "#e5dfd9",
+              "displayValue": "Stjärnglans",
+              "url": "/product/1322046"
+            }
+          ],
+          "groupByInListing": false
+        },
+        {
+          "type": "TEXT",
+          "name": "Specifikationer",
+          "products": [
+            {
+              "materialNumber": "1322047",
+              "value": "1",
+              "displayValue": "16GB RAM / 256GB SSD / Apple 8-core GPU",
+              "url": "/product/1322047"
+            },
+            {
+              "materialNumber": "1322033",
+              "value": "2",
+              "displayValue": "16GB RAM / 512GB SSD / Apple 10-core GPU",
+              "url": "/product/1322033"
+            },
+            {
+              "materialNumber": "1322045",
+              "value": "3",
+              "displayValue": "24GB RAM / 512GB SSD / Apple 10-core GPU",
+              "url": "/product/1322045"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322045_01.jpg",
+        "1322045_02.jpg",
+        "1322045_03.jpg",
+        "1322045_04.jpg",
+        "1322045_05.jpg",
+        "1322045_06.jpg",
+        "1322045_07.jpg",
+        "1322045_08.jpg",
+        "1322045_09.jpg",
+        "1322045_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301413",
+      "manufacturerPartNumber": "MRW73KS/A",
+      "name": "Macbook Pro 16 M3 MAX (2023) 1TB (silver)",
+      "description": "Apple 14-Core M3 MAX, 36GB Minne, 1TB SSD, Apple 30-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301413/dator-surfplatta/datorer-barbara-laptop/macbook-pro-16-m3-max-2023-1tb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "42 990:-",
+        "listPriceNumber": 42990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "979:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "58 740:-",
+        "monthlyPriceTotalOver24Months": "23 496:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 34392.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301400",
+              "value": "#000000",
+              "displayValue": "Rymdsvart",
+              "url": "/product/1301400"
+            },
+            {
+              "materialNumber": "1301413",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301413"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301413_01.jpg",
+        "1301413_02.jpg",
+        "1301413_03.jpg",
+        "1301413_04.jpg",
+        "1301413_05.jpg",
+        "1301413_06.jpg",
+        "1301413_07.jpg",
+        "1301413_08.jpg",
+        "1301413_09.jpg",
+        "1301413_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301411",
+      "manufacturerPartNumber": "MUW63KS/A",
+      "name": "Macbook Pro 16 M3 MAX (2023) 1TB (rymdsvart)",
+      "description": "Apple 16-Core M3 MAX, 48GB Minne, 1TB SSD, Apple 40-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301411/dator-surfplatta/datorer-barbara-laptop/macbook-pro-16-m3-max-2023-1tb-rymdsvart",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "51 365:-",
+        "listPriceNumber": 51365.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 169:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "70 140:-",
+        "monthlyPriceTotalOver24Months": "28 056:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 41092.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301411",
+              "value": "#000000",
+              "displayValue": "Rymdsvart",
+              "url": "/product/1301411"
+            },
+            {
+              "materialNumber": "1301421",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301421"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301411_01.jpg",
+        "1301411_02.jpg",
+        "1301411_03.jpg",
+        "1301411_04.jpg",
+        "1301411_05.jpg",
+        "1301411_06.jpg",
+        "1301411_07.jpg",
+        "1301411_08.jpg",
+        "1301411_09.jpg",
+        "1301411_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301407",
+      "manufacturerPartNumber": "MLY43KS/A",
+      "name": "MacBook Air 13 (2022) 512GB (midnatt)",
+      "description": "Apple 8-Core M2 CPU, 8GB RAM, 512GB SSD, Apple 10-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301407/dator-surfplatta/datorer-barbara-laptop/macbook-air-13-2022-512gb-midnatt",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "13 540:-",
+        "listPriceNumber": 13540.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "403:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 42,
+        "monthlyPriceTotal": "16 926:-",
+        "monthlyPriceTotalOver24Months": "9 672:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 10832.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301407",
+              "value": "#41464C",
+              "displayValue": "Midnatt",
+              "url": "/product/1301407"
+            },
+            {
+              "materialNumber": "1301386",
+              "value": "#B2B3B7",
+              "displayValue": "Rymdgrå",
+              "url": "/product/1301386"
+            },
+            {
+              "materialNumber": "1225337",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1225337"
+            }
+          ],
+          "groupByInListing": false
+        },
+        {
+          "type": "TEXT",
+          "name": "Minne",
+          "products": [
+            {
+              "materialNumber": "1301407",
+              "value": "2",
+              "displayValue": "512 GB",
+              "url": "/product/1301407"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301407_01.jpg",
+        "1301407_02.jpg",
+        "1301407_03.jpg",
+        "1301407_04.jpg",
+        "1301407_05.jpg",
+        "1301407_06.jpg",
+        "1301407_07.jpg",
+        "1301407_08.jpg",
+        "1301407_09.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301386",
+      "manufacturerPartNumber": "MLXX3KS/A",
+      "name": "MacBook Air 13 (2022) 512GB (rymdgrå)",
+      "description": "Apple 8-Core M2 CPU, 8GB RAM, 512GB SSD, Apple 10-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301386/dator-surfplatta/datorer-barbara-laptop/macbook-air-13-2022-512gb-rymdgraa",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "2",
+        "stockIconColor": "green",
+        "availabilityText": "2 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "13 540:-",
+        "listPriceNumber": 13540.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "403:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 42,
+        "monthlyPriceTotal": "16 926:-",
+        "monthlyPriceTotalOver24Months": "9 672:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 10832.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301407",
+              "value": "#41464C",
+              "displayValue": "Midnatt",
+              "url": "/product/1301407"
+            },
+            {
+              "materialNumber": "1301386",
+              "value": "#B2B3B7",
+              "displayValue": "Rymdgrå",
+              "url": "/product/1301386"
+            },
+            {
+              "materialNumber": "1225337",
+              "value": "#DEE1DF",
+              "displayValue": "Silver",
+              "url": "/product/1225337"
+            }
+          ],
+          "groupByInListing": false
+        },
+        {
+          "type": "TEXT",
+          "name": "Minne",
+          "products": [
+            {
+              "materialNumber": "1301386",
+              "value": "2",
+              "displayValue": "512 GB",
+              "url": "/product/1301386"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301386_01.jpg",
+        "1301386_02.jpg",
+        "1301386_03.jpg",
+        "1301386_04.jpg",
+        "1301386_05.jpg",
+        "1301386_06.jpg",
+        "1301386_07.jpg",
+        "1301386_08.jpg",
+        "1301386_09.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301414",
+      "manufacturerPartNumber": "MTL83KS/A",
+      "name": "Macbook Pro 14 M3 (2023) 1TB (rymdgrå)",
+      "description": "Apple 8-Core M3, 8GB Minne, 1TB SSD, Apple 10-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301414/dator-surfplatta/datorer-barbara-laptop/macbook-pro-14-m3-2023-1tb-rymdgraa",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "3",
+        "stockIconColor": "green",
+        "availabilityText": "3 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "21 576:-",
+        "listPriceNumber": 21576.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "491:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "29 460:-",
+        "monthlyPriceTotalOver24Months": "11 784:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 17260.8,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301414",
+              "value": "#B2B3B7",
+              "displayValue": "Rymdgrå",
+              "url": "/product/1301414"
+            },
+            {
+              "materialNumber": "1301416",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301416"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301414_01.jpg",
+        "1301414_02.jpg",
+        "1301414_03.jpg",
+        "1301414_04.jpg",
+        "1301414_05.jpg",
+        "1301414_06.jpg",
+        "1301414_07.jpg",
+        "1301414_08.jpg",
+        "1301414_09.jpg",
+        "1301414_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301421",
+      "manufacturerPartNumber": "MUW73KS/A",
+      "name": "Macbook Pro 16 M3 MAX (2023) 1TB (silver)",
+      "description": "Apple 16-Core M3 MAX, 48GB Minne, 1TB SSD, Apple 40-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301421/dator-surfplatta/datorer-barbara-laptop/macbook-pro-16-m3-max-2023-1tb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "47 790:-",
+        "listPriceNumber": 47790.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 088:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "65 280:-",
+        "monthlyPriceTotalOver24Months": "26 112:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 38232.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301411",
+              "value": "#000000",
+              "displayValue": "Rymdsvart",
+              "url": "/product/1301411"
+            },
+            {
+              "materialNumber": "1301421",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301421"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301421_01.jpg",
+        "1301421_02.jpg",
+        "1301421_03.jpg",
+        "1301421_04.jpg",
+        "1301421_05.jpg",
+        "1301421_06.jpg",
+        "1301421_07.jpg",
+        "1301421_08.jpg",
+        "1301421_09.jpg",
+        "1301421_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1301415",
+      "manufacturerPartNumber": "MRX83KS/A",
+      "name": "Macbook Pro 14 M3 MAX (2023) 1TB (silver)",
+      "description": "Apple 14-Core M3 MAX, 36GB Minne, 1TB SSD, Apple 30-Core GPU",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1301415/dator-surfplatta/datorer-barbara-laptop/macbook-pro-14-m3-max-2023-1tb-silver",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "1",
+        "stockIconColor": "green",
+        "availabilityText": "1 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "40 740:-",
+        "listPriceNumber": 40740.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "927:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 60,
+        "monthlyPriceTotal": "55 620:-",
+        "monthlyPriceTotalOver24Months": "22 248:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 32592.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "COLOR",
+          "name": "Färg",
+          "products": [
+            {
+              "materialNumber": "1301415",
+              "value": "#E1E3E5",
+              "displayValue": "Silver",
+              "url": "/product/1301415"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1301415_01.jpg",
+        "1301415_02.jpg",
+        "1301415_03.jpg",
+        "1301415_04.jpg",
+        "1301415_05.jpg",
+        "1301415_06.jpg",
+        "1301415_07.jpg",
+        "1301415_08.jpg",
+        "1301415_09.jpg",
+        "1301415_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317797",
+      "manufacturerPartNumber": "CX1500CKA-NJ0420",
+      "name": "Asus Chromebook CX1 15,6\" FHD",
+      "description": "Celeron N4500, 4 GB RAM, 64 GB eMMC, Google Chrome OS",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1317797/dator-surfplatta/datorer-barbara-laptop/asus-chromebook-cx1-156-fhd",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "50+",
+        "stockIconColor": "green",
+        "availabilityText": "50+ st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "2 999:-",
+        "listPriceNumber": 2999.0,
+        "discount": "491:-",
+        "discountNumber": 491.0,
+        "listPriceBeforeDiscount": "3 490:-",
+        "monthlyPrice": "118:-",
+        "monthlyBeforePrice": "141:-",
+        "monthlyPriceDuration": 30,
+        "monthlyPriceTotal": "3 540:-",
+        "monthlyPriceTotalOver24Months": "2 832:-",
+        "monthlyPriceDiscount": "18:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 491:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 2399.2,
+        "discountExVat": 392.8
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317797_01.jpg",
+        "1317797_02.jpg",
+        "1317797_03.jpg",
+        "1317797_04.jpg",
+        "1317797_05.jpg",
+        "1317797_06.jpg",
+        "1317797_07.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317804",
+      "manufacturerPartNumber": "D1407KA-LY048W",
+      "name": "Asus VivoBook 14 D1407KA 14\" WUXGA",
+      "description": "Radeon Graphics, Ryzen AI 5 340, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "AMD Ryzen AI Radeon",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/100641/amd_ryzen_ai_radeon_family.png"
+      },
+      "url": "/product/1317804/dator-surfplatta/datorer-barbara-laptop/asus-vivobook-14-d1407ka-14-wuxga",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "50+",
+        "stockIconColor": "green",
+        "availabilityText": "50+ st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "9 990:-",
+        "listPriceNumber": 9990.0,
+        "discount": "1 500:-",
+        "discountNumber": 1500.0,
+        "listPriceBeforeDiscount": "11 490:-",
+        "monthlyPrice": "392:-",
+        "monthlyBeforePrice": "464:-",
+        "monthlyPriceDuration": 30,
+        "monthlyPriceTotal": "11 760:-",
+        "monthlyPriceTotalOver24Months": "9 408:-",
+        "monthlyPriceDiscount": "58:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 1 500:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 7992.0,
+        "discountExVat": 1200.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317804_01.jpg",
+        "1317804_02.jpg",
+        "1317804_03.jpg",
+        "1317804_04.jpg",
+        "1317804_05.jpg",
+        "1317804_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1311372",
+      "manufacturerPartNumber": "SUMMIT 13 AI+ EVO A2VMTG",
+      "name": "MSI Summit E13 AI Evo 13,3\" FHD Touch",
+      "description": "Arc Graphics, Core Ultra 7 258V, 32 GB RAM, 1 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1311372/dator-surfplatta/datorer-barbara-laptop/msi-summit-e13-ai-evo-133-fhd-touch",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "50+",
+        "stockIconColor": "green",
+        "availabilityText": "50+ st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "24 490:-",
+        "listPriceNumber": 24490.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "989:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "28 681:-",
+        "monthlyPriceTotalOver24Months": "23 736:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 19592.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1311372_01.jpg",
+        "1311372_02.jpg",
+        "1311372_03.jpg",
+        "1311372_04.jpg",
+        "1311372_05.jpg",
+        "1311372_06.jpg",
+        "1311372_07.jpg",
+        "1311372_08.jpg",
+        "1311372_09.jpg",
+        "1311372_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1314905",
+      "manufacturerPartNumber": "S5406SA-QD031W",
+      "name": "ASUS Vivobook S14 14\" WUXGA OLED",
+      "description": "Arc Graphics, Core Ultra 5 226V, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 5 CPU (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87849/core-ultra-processor-5-badge-100x100.png"
+      },
+      "url": "/product/1314905/dator-surfplatta/datorer-barbara-laptop/asus-vivobook-s14-14-wuxga-oled",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "50+",
+        "stockIconColor": "green",
+        "availabilityText": "50+ st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "13 990:-",
+        "listPriceNumber": 13990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "565:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "16 385:-",
+        "monthlyPriceTotalOver24Months": "13 560:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 11192.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1314905_01.jpg",
+        "1314905_02.jpg",
+        "1314905_03.jpg",
+        "1314905_04.jpg",
+        "1314905_05.jpg",
+        "1314905_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317159",
+      "manufacturerPartNumber": "B5DP1EA#UUW",
+      "name": "HP OmniBook X Laptop 14-fe0052no 14\" 2.2K Touch",
+      "description": "Qualcomm Adreno, Snapdragon® X Elite, 32 GB RAM, 1 TB SSD, Windows 11 Home",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1317159/dator-surfplatta/datorer-barbara-laptop/hp-omnibook-x-laptop-14-fe0052no-14-22k-touch",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "48",
+        "stockIconColor": "green",
+        "availabilityText": "48 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "9 990:-",
+        "listPriceNumber": 9990.0,
+        "discount": "8 000:-",
+        "discountNumber": 8000.0,
+        "listPriceBeforeDiscount": "17 990:-",
+        "monthlyPrice": "345:-",
+        "monthlyBeforePrice": "727:-",
+        "monthlyPriceDuration": 35,
+        "monthlyPriceTotal": "12 075:-",
+        "monthlyPriceTotalOver24Months": "8 280:-",
+        "monthlyPriceDiscount": "306:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 8 000:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 7992.0,
+        "discountExVat": 6400.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317159_01.jpg",
+        "1317159_02.jpg",
+        "1317159_03.jpg",
+        "1317159_04.jpg",
+        "1317159_05.jpg",
+        "1317159_07.jpg",
+        "1317159_08.jpg",
+        "1317159_09.jpg",
+        "1317159_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317983",
+      "manufacturerPartNumber": "Stealth 18 HX AI A2XWHG-003NEU",
+      "name": "MSI Stealth 18 HX AI 18\" QHD+",
+      "description": "GeForce RTX 5070 Ti, Core Ultra 9 285HX, 32 GB RAM, 2 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1317983/gaming/gamingdator/gaming-laptop/msi-stealth-18-hx-ai-18-qhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "43",
+        "stockIconColor": "green",
+        "availabilityText": "43 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "41 990:-",
+        "listPriceNumber": 41990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 415:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "50 940:-",
+        "monthlyPriceTotalOver24Months": "33 960:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 33592.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317983_01.jpg",
+        "1317983_02.jpg",
+        "1317983_03.jpg",
+        "1317983_04.jpg",
+        "1317983_05.jpg",
+        "1317983_06.jpg",
+        "1317983_07.jpg",
+        "1317983_08.jpg",
+        "1317983_09.jpg",
+        "1317983_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322700",
+      "manufacturerPartNumber": "Venture 14 AI A1MG-001NEU",
+      "name": "MSI Venture 14 AI A1M 14\" 2.8K OLED",
+      "description": "Intel Arc Graphics, Core Ultra 5 125H, 16GB RAM, 512GB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 5 CPU (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87849/core-ultra-processor-5-badge-100x100.png"
+      },
+      "url": "/product/1322700/dator-surfplatta/datorer-barbara-laptop/msi-venture-14-ai-a1m-14-28k-oled",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "40",
+        "stockIconColor": "green",
+        "availabilityText": "40 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "12 990:-",
+        "listPriceNumber": 12990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "525:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "15 225:-",
+        "monthlyPriceTotalOver24Months": "12 600:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 10392.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322700_01.jpg",
+        "1322700_02.jpg",
+        "1322700_03.jpg",
+        "1322700_04.jpg",
+        "1322700_05.jpg",
+        "1322700_06.jpg",
+        "1322700_07.jpg",
+        "1322700_08.jpg",
+        "1322700_09.jpg",
+        "1322700_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    }
+  ],
+  "banners": [],
+  "facets": [
+    {
+      "facetType": "category",
+      "name": "Kategori",
+      "displayName": "Kategori",
+      "id": "",
+      "facets": [
+        {
+          "categoryId": "10011",
+          "categoryName": "Datorer - Bärbara / laptop",
+          "categoryLevel": 1,
+          "parentCategoryId": "10723",
+          "parentCategoryName": "Dator & Surfplatta",
+          "name": "Datorer - Bärbara / laptop",
+          "productCount": 290,
+          "collapsed": false,
+          "attribute": {
+            "name": "categoryPages",
+            "value": "10011",
+            "exclude": false
+          },
+          "sortOrder": 0
+        }
+      ],
+      "sortOrder": 0
+    },
+    {
+      "facetType": "manufacturer",
+      "name": "produsent",
+      "displayName": "Produsent",
+      "id": "",
+      "facets": [
+        {
+          "name": "Lenovo",
+          "productCount": 79,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Lenovo'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "HP",
+          "productCount": 58,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'HP'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "MSI",
+          "productCount": 34,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'MSI'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "ASUS",
+          "productCount": 29,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'ASUS'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Acer",
+          "productCount": 22,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Acer'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Microsoft",
+          "productCount": 13,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Microsoft'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Samsung",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Samsung'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "facetType": "facet",
+      "name": "t11969.rAM",
+      "displayName": "RAM",
+      "id": "t11969",
+      "facets": [
+        {
+          "name": "16",
+          "productCount": 135,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'16'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "32",
+          "productCount": 63,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'32'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "8",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'8'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "64",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'64'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "24",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'24'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "4",
+          "productCount": 8,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'4'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "36",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'36'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "48",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'48'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "128",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'128'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "18",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'18'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "facetType": "facet",
+      "name": "ai-pc.aI-PC",
+      "displayName": "AI-PC",
+      "id": "ai-pc",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 102,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_ai-pc.aI-PC",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "facetType": "facet",
+      "name": "t00781.kapacitet",
+      "displayName": "Kapacitet",
+      "id": "t00781",
+      "facets": [
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00781.kapacitet",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "facetType": "facet",
+      "name": "levering.leverans",
+      "displayName": "Leverans",
+      "id": "levering",
+      "facets": [
+        {
+          "name": "Leveransklar",
+          "productCount": 107,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Leveransklar'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Byggs på beställning",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Byggs på beställning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "facetType": "facet",
+      "name": "pcgraphics.grafikkort",
+      "displayName": "Grafikkort",
+      "id": "pcgraphics",
+      "facets": [
+        {
+          "name": "Intel Integrerad",
+          "productCount": 75,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Nvidia GeForce",
+          "productCount": 51,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia GeForce'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "AMD Radeon",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Radeon'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Intel ARC",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel ARC'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Nvidia Professional Graphics",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia Professional Graphics'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "AMD Integrerad",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 16,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "facetType": "facet",
+      "name": "t00076.lagringsutrymme",
+      "displayName": "Lagringsutrymme",
+      "id": "t00076",
+      "facets": [
+        {
+          "name": "50 - 99 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'50 - 99 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "100 - 199 GB",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'100 - 199 GB'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "200 - 399 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'200 - 399 GB'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "400 - 699 GB",
+          "productCount": 131,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'400 - 699 GB'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "1000 - 1999 GB",
+          "productCount": 93,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'1000 - 1999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "4000 - 4999 GB",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'4000 - 4999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "facetType": "facet",
+      "name": "t00296.cellulärt_protokoll",
+      "displayName": "Cellulärt protokoll",
+      "id": "t00296",
+      "facets": [
+        {
+          "name": "5G NR",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'5G NR'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "LTE",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "LTE CAT16",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT16'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "DC-HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'DC-HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "LTE CAT6",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT6'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "facetType": "facet",
+      "name": "skjermstrrelse.skärmstorlek",
+      "displayName": "Skärmstorlek",
+      "id": "skjermstrrelse",
+      "facets": [
+        {
+          "name": "14-14,9\"",
+          "productCount": 117,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'14-14,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "16-16.9\"",
+          "productCount": 73,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'16-16.9\"'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "15-15,9\"",
+          "productCount": 48,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'15-15,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "13-13,9\"",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'13-13,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "18\"+",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'18\"+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "17-17,9\"",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'17-17,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "9-12,9\"",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'9-12,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "facetType": "facet",
+      "name": "pccategory.användningsområde",
+      "displayName": "Användningsområde",
+      "id": "pccategory",
+      "facets": [
+        {
+          "name": "Ultraportabel",
+          "productCount": 139,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Ultraportabel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Macbook",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Macbook'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Gaming-laptop",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Gaming-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Arbetsstation",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Arbetsstation'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Allround-laptop",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Allround-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Chromebook",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Chromebook'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "2-i-1-PC",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'2-i-1-PC'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "facetType": "facet",
+      "name": "t08636.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "t08636",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 10,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t08636.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "facetType": "facet",
+      "name": "operativsystem.operativsystem",
+      "displayName": "Operativsystem",
+      "id": "operativsystem",
+      "facets": [
+        {
+          "name": "Windows 11 Pro",
+          "productCount": 121,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Pro'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Windows 11 Home",
+          "productCount": 108,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Home'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "macOS",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'macOS'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Chrome OS",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Chrome OS'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "facetType": "facet",
+      "name": "t00149.ursprunglig_upplösning",
+      "displayName": "Ursprunglig upplösning",
+      "id": "t00149",
+      "facets": [
+        {
+          "name": "1920 x 1200",
+          "productCount": 104,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1200'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "1920 x 1080",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1080'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "2560 x 1600",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1600'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "2880 x 1800",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1800'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "2560 x 1664",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2880 x 1864",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1864'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "3024 x 1964",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3024 x 1964'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "3456 x 2234",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3456 x 2234'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "3840 x 2400",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3840 x 2400'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "2880 x 1920",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1920'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "2496 x 1664",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2496 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "1366 x 768",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 768'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "2240 x 1400",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2240 x 1400'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "1366 x 728",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 728'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "1920 x 1280",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1280'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "2304 x 1536",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2304 x 1536'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "2560 x 1440",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1440'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "2880 x 1620",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1620'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "2944 x 1840",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2944 x 1840'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "3200 x 2000",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3200 x 2000'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "facetType": "facet",
+      "name": "pcprocessor.processortillverkare",
+      "displayName": "Processortillverkare",
+      "id": "pcprocessor",
+      "facets": [
+        {
+          "name": "Intel",
+          "productCount": 157,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "AMD",
+          "productCount": 61,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'AMD'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "facetType": "facet",
+      "name": "prosessorfamilie.processorfamilj",
+      "displayName": "Processorfamilj",
+      "id": "prosessorfamilie",
+      "facets": [
+        {
+          "name": "Intel Core Ultra 7",
+          "productCount": 43,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 7'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Apple M4 CPU",
+          "productCount": 30,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 9",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 9'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 5",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 5'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 5",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 5'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 7",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 7'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Intel Core i7",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i7'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Intel Core i5",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i5'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 9",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 9'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "Intel Core i3",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i3'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "Intel Core i9",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i9'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "Apple M3 MAX CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 MAX CPU'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "Apple M4 Pro CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 Pro CPU'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "Apple M2 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M2 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "Apple M3 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 3",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 3'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "Intel",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "Intel Pentium",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Pentium'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 20,
+          "children": []
+        },
+        {
+          "name": "Apple M3 PRO CPU",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 PRO CPU'",
+            "exclude": false
+          },
+          "sortOrder": 21,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 22,
+          "children": []
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "facetType": "facet",
+      "name": "pcnumerickeyboard.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "pcnumerickeyboard",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 89,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Med numerisk tangentbord",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Med numerisk tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "facetType": "facet",
+      "name": "pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+      "displayName": "Bakgrundsbelyst tangentbord",
+      "id": "pcbacklitkeyboard",
+      "facets": [
+        {
+          "name": "Ensfärgat tangentbord",
+          "productCount": 206,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Ensfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Tangentbord utan belysning",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Tangentbord utan belysning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Flerfärgat tangentbord",
+          "productCount": 33,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Flerfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        }
+      ],
+      "sortOrder": 17
+    }
+  ],
+  "rangeFacets": [
+    {
+      "name": "pris",
+      "minValue": 3290.0,
+      "maxValue": 79990.0,
+      "totalMinValue": 3290.0,
+      "totalMaxValue": 79990.0
+    }
+  ],
+  "queryParameters": [
+    { "key": "list_view", "value": "list" },
+    { "key": "page", "value": "5" }
+  ],
+  "totalNumberOfResultsMatchingQuery": 290,
+  "numberOfResults": 24,
+  "pageNumber": 5,
+  "maxPageCount": 13,
+  "pageSize": 24,
+  "queryId": "a49f8c0bec6c841723fccc230df4bed6",
+  "sort": "None",
+  "sortOptions": [
+    { "name": "Sortera efter", "mobileName": "Standard", "value": "None" },
+    { "name": "Rabatt", "mobileName": "Rabatt", "value": "DiscountDesc" },
+    {
+      "name": "Pris fallande",
+      "mobileName": "Pris fallande",
+      "value": "PriceDesc"
+    },
+    {
+      "name": "Pris stigande",
+      "mobileName": "Pris stigande",
+      "value": "PriceAsc"
+    },
+    { "name": "Namn", "mobileName": "Namn", "value": "NameDesc" },
+    {
+      "name": "Bästsäljare",
+      "mobileName": "Bästsäljare",
+      "value": "PopularityDesc"
+    },
+    { "name": "Betyg", "mobileName": "Betyg", "value": "ReviewsDesc" },
+    { "name": "Nyheter", "mobileName": "Nyheter", "value": "ReleaseDateDesc" }
+  ]
+}

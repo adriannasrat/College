@@ -1,0 +1,3251 @@
+{
+  "products": [
+    {
+      "storeId": "312",
+      "materialNumber": "1311336",
+      "manufacturerPartNumber": "NX.KR6ED.002",
+      "name": "Acer Swift X 14\" 2,8K OLED",
+      "description": "GeForce RTX 3050, Core Ultra 7 155H, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1311336/gaming/gamingdator/gaming-laptop/acer-swift-x-14-28k-oled",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "40",
+        "stockIconColor": "green",
+        "availabilityText": "40 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "11 990:-",
+        "listPriceNumber": 11990.0,
+        "discount": "2 000:-",
+        "discountNumber": 2000.0,
+        "listPriceBeforeDiscount": "13 990:-",
+        "monthlyPrice": "379:-",
+        "monthlyBeforePrice": "472:-",
+        "monthlyPriceDuration": 39,
+        "monthlyPriceTotal": "14 781:-",
+        "monthlyPriceTotalOver24Months": "9 096:-",
+        "monthlyPriceDiscount": "74:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 2 000:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 9592.0,
+        "discountExVat": 1600.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1311336_01.jpg",
+        "1311336_02.jpg",
+        "1311336_03.jpg",
+        "1311336_04.jpg",
+        "1311336_05.jpg",
+        "1311336_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322342",
+      "manufacturerPartNumber": "21L1002NMX",
+      "name": "Lenovo ThinkPad L14 G5 14\" WUXGA",
+      "description": "Intel Graphics, Core U5-125U, 16GB RAM, 1TB SSD, Windows 11 Pro",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322342/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-l14-g5-14-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "33",
+        "stockIconColor": "green",
+        "availabilityText": "33 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "15 613:-",
+        "listPriceNumber": 15612.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "596:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "18 476:-",
+        "monthlyPriceTotalOver24Months": "14 304:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 12490.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322342_01.jpg",
+        "1322342_02.jpg",
+        "1322342_03.jpg",
+        "1322342_04.jpg",
+        "1322342_05.jpg",
+        "1322342_06.jpg",
+        "1322342_07.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309087",
+      "manufacturerPartNumber": "21KC005BMX",
+      "name": "Lenovo ThinkPad X1 Carbon G12 14\" WUXGA",
+      "description": "Intel Graphics, Core U5-125U, 16 GB RAM, 512 GB SSD, 4G eSIM, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 5 CPU (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87849/core-ultra-processor-5-badge-100x100.png"
+      },
+      "url": "/product/1309087/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-x1-carbon-g12-14-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "32",
+        "stockIconColor": "green",
+        "availabilityText": "32 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 113:-",
+        "listPriceNumber": 23112.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "882:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "27 342:-",
+        "monthlyPriceTotalOver24Months": "21 168:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 18490.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "TEXT",
+          "name": "Specifikationer",
+          "products": [
+            {
+              "materialNumber": "1309087",
+              "value": "1",
+              "displayValue": "Intel Core Ultra 5 125U / 16 GB RAM / 512 GB SSD",
+              "url": "/product/1309087"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309087_01.jpg",
+        "1309087_02.jpg",
+        "1309087_03.jpg",
+        "1309087_04.jpg",
+        "1309087_05.jpg",
+        "1309087_06.jpg",
+        "1309087_07.jpg",
+        "1309087_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322361",
+      "manufacturerPartNumber": "21KC005WMX",
+      "name": "Lenovo ThinkPad X1 Carbon G12 14\" WUXGA",
+      "description": "Intel Graphics, Core U7-155U, 32 GB RAM, 1 TB SSD, 4G eSIM, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1322361/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-x1-carbon-g12-14-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "31",
+        "stockIconColor": "green",
+        "availabilityText": "31 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "27 488:-",
+        "listPriceNumber": 27487.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 049:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "32 519:-",
+        "monthlyPriceTotalOver24Months": "25 176:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 21990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322361_01.jpg",
+        "1322361_02.jpg",
+        "1322361_03.jpg",
+        "1322361_04.jpg",
+        "1322361_05.jpg",
+        "1322361_06.jpg",
+        "1322361_07.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1311369",
+      "manufacturerPartNumber": "PRESTIGE 16 AI+ EVO B2VMG",
+      "name": "MSI Prestige 16 AI Evo 16\" UHD+",
+      "description": "Arc Graphics, Core Ultra 7 155H, 32 GB RAM, 1 TB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1311369/dator-surfplatta/datorer-barbara-laptop/msi-prestige-16-ai-evo-16-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "28",
+        "stockIconColor": "green",
+        "availabilityText": "28 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "22 990:-",
+        "listPriceNumber": 22990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "929:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 29,
+        "monthlyPriceTotal": "26 941:-",
+        "monthlyPriceTotalOver24Months": "22 296:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 18392.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1311369_01.jpg",
+        "1311369_02.jpg",
+        "1311369_03.jpg",
+        "1311369_04.jpg",
+        "1311369_05.jpg",
+        "1311369_06.jpg",
+        "1311369_07.jpg",
+        "1311369_08.jpg",
+        "1311369_09.jpg",
+        "1311369_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322382",
+      "manufacturerPartNumber": "21L70013MX",
+      "name": "Lenovo ThinkPad L16 G1 16\" WUXGA",
+      "description": "AMD 680M, Ryzen 7 PRO 7735U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322382/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-l16-g1-16-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "27",
+        "stockIconColor": "green",
+        "availabilityText": "27 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "14 988:-",
+        "listPriceNumber": 14987.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "572:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "17 732:-",
+        "monthlyPriceTotalOver24Months": "13 728:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 11990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322382_01.jpg",
+        "1322382_02.jpg",
+        "1322382_03.jpg",
+        "1322382_04.jpg",
+        "1322382_05.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317778",
+      "manufacturerPartNumber": "A1407QA-LY041W",
+      "name": "Asus VivoBook 14\" WUXGA",
+      "description": "Qualcomm Adreno, Snapdragon X X1-26, 16 GB RAM, 512 GB SSD, Windows 11 Home",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1317778/dator-surfplatta/datorer-barbara-laptop/asus-vivobook-14-wuxga",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "26",
+        "stockIconColor": "green",
+        "availabilityText": "26 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "8 990:-",
+        "listPriceNumber": 8990.0,
+        "discount": "1 000:-",
+        "discountNumber": 1000.0,
+        "listPriceBeforeDiscount": "9 990:-",
+        "monthlyPrice": "353:-",
+        "monthlyBeforePrice": "404:-",
+        "monthlyPriceDuration": 30,
+        "monthlyPriceTotal": "10 590:-",
+        "monthlyPriceTotalOver24Months": "8 472:-",
+        "monthlyPriceDiscount": "41:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 1 000:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 7192.0,
+        "discountExVat": 800.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317778_01.jpg",
+        "1317778_02.jpg",
+        "1317778_03.jpg",
+        "1317778_04.jpg",
+        "1317778_05.jpg",
+        "1317778_06.jpg",
+        "1317778_07.jpg",
+        "1317778_08.jpg",
+        "1317778_09.jpg",
+        "1317778_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317980",
+      "manufacturerPartNumber": "Raider A18 HX A9WIG-007NEU",
+      "name": "MSI Raider A18 HX 18\" UHD+",
+      "description": "GeForce RTX 5080, Ryzen 9 9955HX3D, 64 GB RAM, 2 TB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "AMD Ryzen 9 HX3D",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/100639/amd_ryzen_9hx3d.png"
+      },
+      "url": "/product/1317980/gaming/gamingdator/gaming-laptop/msi-raider-a18-hx-18-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "25",
+        "stockIconColor": "green",
+        "availabilityText": "25 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "56 990:-",
+        "listPriceNumber": 56990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 921:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "69 156:-",
+        "monthlyPriceTotalOver24Months": "46 104:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 45592.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317980_01.jpg",
+        "1317980_02.jpg",
+        "1317980_03.jpg",
+        "1317980_04.jpg",
+        "1317980_05.jpg",
+        "1317980_06.jpg",
+        "1317980_07.jpg",
+        "1317980_08.jpg",
+        "1317980_09.jpg",
+        "1317980_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1248971",
+      "manufacturerPartNumber": "21FA0008MX",
+      "name": "Lenovo ThinkPad P16 G2 16\" Workstation WUXGA",
+      "description": "Intel® Arc™ Pro A30M, Core i7-13700HX, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core i7-13th gen. CPU",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/47816/core-i7-11-90x90.png"
+      },
+      "url": "/product/1248971/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-p16-g2-16-workstation-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "25",
+        "stockIconColor": "green",
+        "availabilityText": "25 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "26 238:-",
+        "listPriceNumber": 26237.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "975:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 32,
+        "monthlyPriceTotal": "31 200:-",
+        "monthlyPriceTotalOver24Months": "23 400:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 20990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1248971_01.jpg",
+        "1248971_02.jpg",
+        "1248971_03.jpg",
+        "1248971_04.jpg",
+        "1248971_05.jpg",
+        "1248971_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322381",
+      "manufacturerPartNumber": "21L70019MX",
+      "name": "Lenovo ThinkPad L16 G1 16\" WUXGA",
+      "description": "AMD 660M, Ryzen 5 PRO 7535U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322381/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-l16-g1-16-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "24",
+        "stockIconColor": "green",
+        "availabilityText": "24 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "13 488:-",
+        "listPriceNumber": 13487.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "515:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "15 965:-",
+        "monthlyPriceTotalOver24Months": "12 360:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 10790.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322381_01.jpg",
+        "1322381_02.jpg",
+        "1322381_03.jpg",
+        "1322381_04.jpg",
+        "1322381_05.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322360",
+      "manufacturerPartNumber": "21L5001AMX",
+      "name": "Lenovo ThinkPad L14 G5 14\" WUXGA",
+      "description": "AMD 680M, Ryzen 7 PRO 7735U, 16 GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322360/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-l14-g5-14-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "24",
+        "stockIconColor": "green",
+        "availabilityText": "24 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "14 988:-",
+        "listPriceNumber": 14987.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "572:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "17 732:-",
+        "monthlyPriceTotalOver24Months": "13 728:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 11990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322360_01.jpg",
+        "1322360_02.jpg",
+        "1322360_03.jpg",
+        "1322360_04.jpg",
+        "1322360_05.jpg",
+        "1322360_06.jpg",
+        "1322360_07.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309193",
+      "manufacturerPartNumber": "21F8002UMX",
+      "name": "Lenovo ThinkPad T14s G4 14\" WUXGA",
+      "description": "AMD 780M, Ryzen 7 Pro 7840U, 32GB RAM, 1TB SSD, Windows 11 pro",
+      "sticker": {
+        "url": "",
+        "altText": "AMD Ryzen 7000 7 CPU",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/76525/amd_ryzen-7_7020_7030_7035_series_badge.png"
+      },
+      "url": "/product/1309193/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-t14s-g4-14-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "24",
+        "stockIconColor": "green",
+        "availabilityText": "24 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "23 738:-",
+        "listPriceNumber": 23737.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "906:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "28 086:-",
+        "monthlyPriceTotalOver24Months": "21 744:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 18990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309193_01.jpg",
+        "1309193_02.jpg",
+        "1309193_03.jpg",
+        "1309193_04.jpg",
+        "1309193_05.jpg",
+        "1309193_06.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309762",
+      "manufacturerPartNumber": "98P14ET#UUW",
+      "name": "HP ZBook Power G11 16\" Mobile Workstation Full HD",
+      "description": "NVIDIA RTX A500 Ada, Core U7-155H, 32GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1309762/dator-surfplatta/datorer-barbara-laptop/hp-zbook-power-g11-16-mobile-workstation-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "23",
+        "stockIconColor": "green",
+        "availabilityText": "23 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "29 155:-",
+        "listPriceNumber": 29155.39,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 144:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 30,
+        "monthlyPriceTotal": "34 320:-",
+        "monthlyPriceTotalOver24Months": "27 456:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 23324.31,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309762_01.jpg",
+        "1309762_02.jpg",
+        "1309762_03.jpg",
+        "1309762_04.jpg",
+        "1309762_05.jpg",
+        "1309762_06.jpg",
+        "1309762_07.jpg",
+        "1309762_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317937",
+      "manufacturerPartNumber": "Stealth 18 HX AI A2XWIG-002NEU",
+      "name": "MSI Stealth 18 HX AI 18\" UHD+",
+      "description": "GeForce RTX 5080, Core Ultra 9 275HX, 64 GB RAM, 2 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1317937/gaming/gamingdator/gaming-laptop/msi-stealth-18-hx-ai-18-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "22",
+        "stockIconColor": "green",
+        "availabilityText": "22 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "52 990:-",
+        "listPriceNumber": 52990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 786:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "64 296:-",
+        "monthlyPriceTotalOver24Months": "42 864:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 42392.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317937_01.jpg",
+        "1317937_02.jpg",
+        "1317937_03.jpg",
+        "1317937_04.jpg",
+        "1317937_05.jpg",
+        "1317937_06.jpg",
+        "1317937_07.jpg",
+        "1317937_08.jpg",
+        "1317937_09.jpg",
+        "1317937_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322504",
+      "manufacturerPartNumber": "Titan 18 HX AI A2XWJG-619NEU",
+      "name": "MSI Titan 18 HX AI 18\" UHD+",
+      "description": "GeForce RTX 5090, Core Ultra 9 285HX, 64 GB RAM, 2 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1322504/gaming/gamingdator/gaming-laptop/msi-titan-18-hx-ai-18-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "21",
+        "stockIconColor": "green",
+        "availabilityText": "21 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "72 990:-",
+        "listPriceNumber": 72990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "2 460:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "88 560:-",
+        "monthlyPriceTotalOver24Months": "59 040:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 58392.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322504_01.jpg",
+        "1322504_02.jpg",
+        "1322504_03.jpg",
+        "1322504_04.jpg",
+        "1322504_05.jpg",
+        "1322504_06.jpg",
+        "1322504_07.jpg",
+        "1322504_08.jpg",
+        "1322504_09.jpg",
+        "1322504_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1322350",
+      "manufacturerPartNumber": "21NH0004MX",
+      "name": "Lenovo ThinkBook 16 G7 16\" Full HD+",
+      "description": "NPU 45Tops, Snapdragon X Plus X1P-42-100, 16GB RAM, 512GB SSD, Windows 11 Pro (On ARM)",
+      "sticker": { "openInNewWindow": false },
+      "url": "/product/1322350/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkbook-16-g7-16-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "21",
+        "stockIconColor": "green",
+        "availabilityText": "21 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "9 988:-",
+        "listPriceNumber": 9987.5,
+        "discountNumber": 0.0,
+        "monthlyPriceDuration": 0,
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": false,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 7990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1322350_01.jpg",
+        "1322350_02.jpg",
+        "1322350_03.jpg",
+        "1322350_04.jpg",
+        "1322350_05.jpg",
+        "1322350_06.jpg",
+        "1322350_07.jpg",
+        "1322350_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309702",
+      "manufacturerPartNumber": "9M4C1AT",
+      "name": "HP EliteBook 840 G10 14\" Full HD",
+      "description": "Iris Xe, Core i5-1335U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core i5-12th gen. CPU",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/47815/core-i5-11-90x90.png"
+      },
+      "url": "/product/1309702/dator-surfplatta/datorer-barbara-laptop/hp-elitebook-840-g10-14-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "21",
+        "stockIconColor": "green",
+        "availabilityText": "21 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "17 088:-",
+        "listPriceNumber": 17087.59,
+        "discountNumber": 0.0,
+        "monthlyPrice": "652:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "20 212:-",
+        "monthlyPriceTotalOver24Months": "15 648:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 13670.07,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309702_01.jpg",
+        "1309702_02.jpg",
+        "1309702_03.jpg",
+        "1309702_04.jpg",
+        "1309702_05.jpg",
+        "1309702_06.jpg",
+        "1309702_07.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1308781",
+      "manufacturerPartNumber": "A37TDET#UUW",
+      "name": "HP EliteBook 660 G11 16\" WUXGA",
+      "description": "Intel Graphics, Core Ultra 5-125U, 16GB RAM, 512B SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 5 CPU (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87849/core-ultra-processor-5-badge-100x100.png"
+      },
+      "url": "/product/1308781/dator-surfplatta/datorer-barbara-laptop/hp-elitebook-660-g11-16-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "21",
+        "stockIconColor": "green",
+        "availabilityText": "21 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "17 319:-",
+        "listPriceNumber": 17318.93,
+        "discountNumber": 0.0,
+        "monthlyPrice": "661:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "20 491:-",
+        "monthlyPriceTotalOver24Months": "15 864:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 13855.14,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1308781_01.jpg",
+        "1308781_02.jpg",
+        "1308781_03.jpg",
+        "1308781_04.jpg",
+        "1308781_05.jpg",
+        "1308781_06.jpg",
+        "1308781_07.jpg",
+        "1308781_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1308765",
+      "manufacturerPartNumber": "A37T8ET#UUW",
+      "name": "HP EliteBook 640 G11 14\" Full HD+",
+      "description": "Intel Graphics, Core Ultra 5-125U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 5 CPU (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87849/core-ultra-processor-5-badge-100x100.png"
+      },
+      "url": "/product/1308765/dator-surfplatta/datorer-barbara-laptop/hp-elitebook-640-g11-14-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "21",
+        "stockIconColor": "green",
+        "availabilityText": "21 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "15 809:-",
+        "listPriceNumber": 15809.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "604:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "18 724:-",
+        "monthlyPriceTotalOver24Months": "14 496:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 12647.2,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1308765_01.jpg",
+        "1308765_02.jpg",
+        "1308765_03.jpg",
+        "1308765_04.jpg",
+        "1308765_05.jpg",
+        "1308765_06.jpg",
+        "1308765_07.jpg",
+        "1308765_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317938",
+      "manufacturerPartNumber": "Titan 18 HX AI A2XWIG-002NEU",
+      "name": "MSI Titan 18 HX AI 18\" UHD+",
+      "description": "GeForce RTX 5080, Core Ultra 9 285HX, 64 GB RAM, 2 TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1317938/gaming/gamingdator/gaming-laptop/msi-titan-18-hx-ai-18-uhd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "19",
+        "stockIconColor": "green",
+        "availabilityText": "19 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "65 990:-",
+        "listPriceNumber": 65990.0,
+        "discountNumber": 0.0,
+        "monthlyPrice": "2 224:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 36,
+        "monthlyPriceTotal": "80 064:-",
+        "monthlyPriceTotalOver24Months": "53 376:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 52792.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317938_01.jpg",
+        "1317938_02.jpg",
+        "1317938_03.jpg",
+        "1317938_04.jpg",
+        "1317938_05.jpg",
+        "1317938_06.jpg",
+        "1317938_07.jpg",
+        "1317938_08.jpg",
+        "1317938_09.jpg",
+        "1317938_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1317181",
+      "manufacturerPartNumber": "B2CQ1EA#UUW",
+      "name": "HP OmniBook Ultra Flip 14-fh0096no 14\" 2.8K OLED Touch",
+      "description": "Arc Graphics, Core Ultra 9 288V, 32 GB RAM, 2 TB SSD, Windows 11 Home",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 9 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87851/core-ultra-processor-9-badge-100x100.png"
+      },
+      "url": "/product/1317181/dator-surfplatta/datorer-barbara-laptop/hp-omnibook-ultra-flip-14-fh0096no-14-28k-oled-touch",
+      "tag": { "color": "#f0bc00", "text": "Kampanj" },
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "19",
+        "stockIconColor": "green",
+        "availabilityText": "19 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "19 990:-",
+        "listPriceNumber": 19990.0,
+        "discount": "7 500:-",
+        "discountNumber": 7500.0,
+        "listPriceBeforeDiscount": "27 490:-",
+        "monthlyPrice": "743:-",
+        "monthlyBeforePrice": "1 110:-",
+        "monthlyPriceDuration": 32,
+        "monthlyPriceTotal": "23 776:-",
+        "monthlyPriceTotalOver24Months": "17 832:-",
+        "monthlyPriceDiscount": "293:-",
+        "monthlyDiscountType": "Flex",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "priceTag": { "color": "#f8b912", "tagLabel": "Spara 7 500:-" },
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 15992.0,
+        "discountExVat": 6000.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1317181_01.jpg",
+        "1317181_02.jpg",
+        "1317181_03.jpg",
+        "1317181_04.jpg",
+        "1317181_05.jpg",
+        "1317181_06.jpg",
+        "1317181_07.jpg",
+        "1317181_08.jpg",
+        "1317181_09.jpg",
+        "1317181_10.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1309749",
+      "manufacturerPartNumber": "98P13ET#UUW",
+      "name": "HP ZBook Power G11 16\" Mobile Workstation Full HD",
+      "description": "NVIDIA RTX 2000 Ada, Core U7-155H, 32GB RAM, 1TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1309749/dator-surfplatta/datorer-barbara-laptop/hp-zbook-power-g11-16-mobile-workstation-full-hd",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "19",
+        "stockIconColor": "green",
+        "availabilityText": "19 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "33 033:-",
+        "listPriceNumber": 33032.94,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 261:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "39 091:-",
+        "monthlyPriceTotalOver24Months": "30 264:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 26426.35,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1309749_01.jpg",
+        "1309749_02.jpg",
+        "1309749_03.jpg",
+        "1309749_04.jpg",
+        "1309749_05.jpg",
+        "1309749_06.jpg",
+        "1309749_07.jpg",
+        "1309749_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1307565",
+      "manufacturerPartNumber": "9G078ET#UUW",
+      "name": "HP EliteBook 860 G11 16\" WUXGA",
+      "description": "Arc Graphics, Core Ultra 7 155U, 16GB RAM, 512GB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1307565/dator-surfplatta/datorer-barbara-laptop/hp-elitebook-860-g11-16-wuxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "19",
+        "stockIconColor": "green",
+        "availabilityText": "19 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "21 761:-",
+        "listPriceNumber": 21761.25,
+        "discountNumber": 0.0,
+        "monthlyPrice": "831:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "25 761:-",
+        "monthlyPriceTotalOver24Months": "19 944:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 17409.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "TEXT",
+          "name": "Processor",
+          "products": [
+            {
+              "materialNumber": "1307564",
+              "value": "1",
+              "displayValue": "Intel Core Ultra 5 125U",
+              "url": "/product/1307564"
+            },
+            {
+              "materialNumber": "1307565",
+              "value": "2",
+              "displayValue": "Intel Core Ultra 7 155U",
+              "url": "/product/1307565"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1307565_01.jpg",
+        "1307565_02.jpg",
+        "1307565_03.jpg",
+        "1307565_04.jpg",
+        "1307565_05.jpg",
+        "1307565_06.jpg",
+        "1307565_07.jpg",
+        "1307565_08.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    },
+    {
+      "storeId": "312",
+      "materialNumber": "1312772",
+      "manufacturerPartNumber": "21KV001YMX",
+      "name": "Lenovo ThinkPad P1 G7 16\" Workstation WQXGA",
+      "description": "NVIDIA RTX 3000 ADA, Core U7-165H, 32GB RAM, 1TB SSD, Windows 11 Pro",
+      "sticker": {
+        "url": "",
+        "altText": "Intel Core Ultra 7 logo (1 series)",
+        "openInNewWindow": false,
+        "imageUrl": "/productmedia/87850/core-ultra-processor-7-badge-100x100.png"
+      },
+      "url": "/product/1312772/dator-surfplatta/datorer-barbara-laptop/lenovo-thinkpad-p1-g7-16-workstation-wqxga",
+      "stock": {
+        "availabilityStatus": "Stocked",
+        "availabilityQuantity": "18",
+        "stockIconColor": "green",
+        "availabilityText": "18 st i lager (1-3 dagar leveranstid)",
+        "isPendingRelease": false
+      },
+      "price": {
+        "listPrice": "46 238:-",
+        "listPriceNumber": 46237.5,
+        "discountNumber": 0.0,
+        "monthlyPrice": "1 764:-",
+        "monthlyBeforePrice": "0:-",
+        "monthlyPriceDuration": 31,
+        "monthlyPriceTotal": "54 684:-",
+        "monthlyPriceTotalOver24Months": "42 336:-",
+        "monthlyDiscountType": "NoDiscount",
+        "isApplicableForLeasing": true,
+        "priceIsExcludingVat": false,
+        "pointBenefit": false,
+        "taxRate": 25.0,
+        "isLoyaltyPrice": false,
+        "hideFlexPrice": true,
+        "listPriceExVat": 36990.0,
+        "discountExVat": 0.0
+      },
+      "variantGroups": [
+        {
+          "type": "TEXT",
+          "name": "Specifikationer",
+          "products": [
+            {
+              "materialNumber": "1312761",
+              "value": "1",
+              "displayValue": "RTX 2000A / Intel Core Ultra 7 155H / 32 GB RAM / 1TB SSD",
+              "url": "/product/1312761"
+            },
+            {
+              "materialNumber": "1312772",
+              "value": "2",
+              "displayValue": "RTX 3000A / Intel Core Ultra 7 165H / 32 GB RAM / 1TB SSD",
+              "url": "/product/1312772"
+            },
+            {
+              "materialNumber": "1312770",
+              "value": "3",
+              "displayValue": "RTX 2000A / Intel Core Ultra 7 165H / 64 GB RAM / 1TB SSD",
+              "url": "/product/1312770"
+            }
+          ],
+          "groupByInListing": false
+        }
+      ],
+      "reviewRating": { "reviewCount": 0, "reviewRating": 0.0 },
+      "energyLogo": {
+        "energyGradeLetter": "",
+        "legacyEnergyLogoIcon": "0-0",
+        "isLegacyEnergyLogo": true,
+        "urlToTechnicalSpecification": "",
+        "urlToDetails": ""
+      },
+      "button": "None",
+      "images": [
+        "1312772_01.jpg",
+        "1312772_02.jpg",
+        "1312772_03.jpg",
+        "1312772_04.jpg",
+        "1312772_05.jpg"
+      ],
+      "productBoxVisibility": {
+        "hideOnTablet": false,
+        "hideOnMobile": false,
+        "hideOnDesktop": false
+      }
+    }
+  ],
+  "banners": [],
+  "facets": [
+    {
+      "facetType": "category",
+      "name": "Kategori",
+      "displayName": "Kategori",
+      "id": "",
+      "facets": [
+        {
+          "categoryId": "10011",
+          "categoryName": "Datorer - Bärbara / laptop",
+          "categoryLevel": 1,
+          "parentCategoryId": "10723",
+          "parentCategoryName": "Dator & Surfplatta",
+          "name": "Datorer - Bärbara / laptop",
+          "productCount": 290,
+          "collapsed": false,
+          "attribute": {
+            "name": "categoryPages",
+            "value": "10011",
+            "exclude": false
+          },
+          "sortOrder": 0
+        }
+      ],
+      "sortOrder": 0
+    },
+    {
+      "facetType": "manufacturer",
+      "name": "produsent",
+      "displayName": "Produsent",
+      "id": "",
+      "facets": [
+        {
+          "name": "Lenovo",
+          "productCount": 79,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Lenovo'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "HP",
+          "productCount": 58,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'HP'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "MSI",
+          "productCount": 34,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'MSI'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "ASUS",
+          "productCount": 29,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'ASUS'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Acer",
+          "productCount": 22,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Acer'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Microsoft",
+          "productCount": 13,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Microsoft'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Samsung",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_produsent",
+            "value": "'Samsung'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "facetType": "facet",
+      "name": "t11969.rAM",
+      "displayName": "RAM",
+      "id": "t11969",
+      "facets": [
+        {
+          "name": "16",
+          "productCount": 135,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'16'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "32",
+          "productCount": 63,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'32'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "8",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'8'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "64",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'64'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "24",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'24'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "4",
+          "productCount": 8,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'4'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "36",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'36'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "48",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'48'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "128",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'128'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "18",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t11969.rAM",
+            "value": "'18'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 2
+    },
+    {
+      "facetType": "facet",
+      "name": "ai-pc.aI-PC",
+      "displayName": "AI-PC",
+      "id": "ai-pc",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 102,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_ai-pc.aI-PC",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 3
+    },
+    {
+      "facetType": "facet",
+      "name": "t00781.kapacitet",
+      "displayName": "Kapacitet",
+      "id": "t00781",
+      "facets": [
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00781.kapacitet",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 4
+    },
+    {
+      "facetType": "facet",
+      "name": "levering.leverans",
+      "displayName": "Leverans",
+      "id": "levering",
+      "facets": [
+        {
+          "name": "Leveransklar",
+          "productCount": 107,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Leveransklar'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Byggs på beställning",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_levering.leverans",
+            "value": "'Byggs på beställning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 5
+    },
+    {
+      "facetType": "facet",
+      "name": "pcgraphics.grafikkort",
+      "displayName": "Grafikkort",
+      "id": "pcgraphics",
+      "facets": [
+        {
+          "name": "Intel Integrerad",
+          "productCount": 75,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Nvidia GeForce",
+          "productCount": 51,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia GeForce'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "AMD Radeon",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Radeon'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Intel ARC",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Intel ARC'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Nvidia Professional Graphics",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Nvidia Professional Graphics'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "AMD Integrerad",
+          "productCount": 18,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'AMD Integrerad'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 16,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcgraphics.grafikkort",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        }
+      ],
+      "sortOrder": 6
+    },
+    {
+      "facetType": "facet",
+      "name": "t00076.lagringsutrymme",
+      "displayName": "Lagringsutrymme",
+      "id": "t00076",
+      "facets": [
+        {
+          "name": "50 - 99 GB",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'50 - 99 GB'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "100 - 199 GB",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'100 - 199 GB'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "200 - 399 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'200 - 399 GB'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "400 - 699 GB",
+          "productCount": 131,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'400 - 699 GB'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "1000 - 1999 GB",
+          "productCount": 93,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'1000 - 1999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2000 - 2999 GB",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'2000 - 2999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "4000 - 4999 GB",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00076.lagringsutrymme",
+            "value": "'4000 - 4999 GB'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 7
+    },
+    {
+      "facetType": "facet",
+      "name": "t00296.cellulärt_protokoll",
+      "displayName": "Cellulärt protokoll",
+      "id": "t00296",
+      "facets": [
+        {
+          "name": "5G NR",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'5G NR'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "LTE",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "LTE CAT16",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT16'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "DC-HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'DC-HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "HSPA+",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'HSPA+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "LTE CAT6",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00296.cellulärt_protokoll",
+            "value": "'LTE CAT6'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        }
+      ],
+      "sortOrder": 8
+    },
+    {
+      "facetType": "facet",
+      "name": "skjermstrrelse.skärmstorlek",
+      "displayName": "Skärmstorlek",
+      "id": "skjermstrrelse",
+      "facets": [
+        {
+          "name": "14-14,9\"",
+          "productCount": 117,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'14-14,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "16-16.9\"",
+          "productCount": 73,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'16-16.9\"'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "15-15,9\"",
+          "productCount": 48,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'15-15,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "13-13,9\"",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'13-13,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "18\"+",
+          "productCount": 11,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'18\"+'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "17-17,9\"",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'17-17,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "9-12,9\"",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_skjermstrrelse.skärmstorlek",
+            "value": "'9-12,9\"'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 9
+    },
+    {
+      "facetType": "facet",
+      "name": "pccategory.användningsområde",
+      "displayName": "Användningsområde",
+      "id": "pccategory",
+      "facets": [
+        {
+          "name": "Ultraportabel",
+          "productCount": 139,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Ultraportabel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Macbook",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Macbook'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Gaming-laptop",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Gaming-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Arbetsstation",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Arbetsstation'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Allround-laptop",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Allround-laptop'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Chromebook",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'Chromebook'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "2-i-1-PC",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pccategory.användningsområde",
+            "value": "'2-i-1-PC'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 10
+    },
+    {
+      "facetType": "facet",
+      "name": "t08636.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "t08636",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 10,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t08636.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        }
+      ],
+      "sortOrder": 11
+    },
+    {
+      "facetType": "facet",
+      "name": "operativsystem.operativsystem",
+      "displayName": "Operativsystem",
+      "id": "operativsystem",
+      "facets": [
+        {
+          "name": "Windows 11 Pro",
+          "productCount": 121,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Pro'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Windows 11 Home",
+          "productCount": 108,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Windows 11 Home'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "macOS",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'macOS'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Chrome OS",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_operativsystem.operativsystem",
+            "value": "'Chrome OS'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        }
+      ],
+      "sortOrder": 12
+    },
+    {
+      "facetType": "facet",
+      "name": "t00149.ursprunglig_upplösning",
+      "displayName": "Ursprunglig upplösning",
+      "id": "t00149",
+      "facets": [
+        {
+          "name": "1920 x 1200",
+          "productCount": 104,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1200'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "1920 x 1080",
+          "productCount": 49,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1080'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "2560 x 1600",
+          "productCount": 32,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1600'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "2880 x 1800",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1800'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "2560 x 1664",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "2880 x 1864",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1864'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "3024 x 1964",
+          "productCount": 9,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3024 x 1964'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "3456 x 2234",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3456 x 2234'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "3840 x 2400",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3840 x 2400'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "2880 x 1920",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1920'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "2496 x 1664",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2496 x 1664'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "1366 x 768",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 768'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "2240 x 1400",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2240 x 1400'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "1366 x 728",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1366 x 728'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "1920 x 1280",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'1920 x 1280'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "2304 x 1536",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2304 x 1536'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "2560 x 1440",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2560 x 1440'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "2880 x 1620",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2880 x 1620'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "2944 x 1840",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'2944 x 1840'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "3200 x 2000",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_t00149.ursprunglig_upplösning",
+            "value": "'3200 x 2000'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        }
+      ],
+      "sortOrder": 13
+    },
+    {
+      "facetType": "facet",
+      "name": "pcprocessor.processortillverkare",
+      "displayName": "Processortillverkare",
+      "id": "pcprocessor",
+      "facets": [
+        {
+          "name": "Intel",
+          "productCount": 157,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "AMD",
+          "productCount": 61,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'AMD'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Apple",
+          "productCount": 38,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Apple'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcprocessor.processortillverkare",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        }
+      ],
+      "sortOrder": 14
+    },
+    {
+      "facetType": "facet",
+      "name": "prosessorfamilie.processorfamilj",
+      "displayName": "Processorfamilj",
+      "id": "prosessorfamilie",
+      "facets": [
+        {
+          "name": "Intel Core Ultra 7",
+          "productCount": 43,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 7'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Apple M4 CPU",
+          "productCount": 30,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 9",
+          "productCount": 27,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 9'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        },
+        {
+          "name": "Intel Core Ultra 5",
+          "productCount": 26,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core Ultra 5'",
+            "exclude": false
+          },
+          "sortOrder": 3,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 5",
+          "productCount": 24,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 5'",
+            "exclude": false
+          },
+          "sortOrder": 4,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 7",
+          "productCount": 21,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 7'",
+            "exclude": false
+          },
+          "sortOrder": 5,
+          "children": []
+        },
+        {
+          "name": "Intel Core i7",
+          "productCount": 20,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i7'",
+            "exclude": false
+          },
+          "sortOrder": 6,
+          "children": []
+        },
+        {
+          "name": "Qualcomm",
+          "productCount": 17,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm'",
+            "exclude": false
+          },
+          "sortOrder": 7,
+          "children": []
+        },
+        {
+          "name": "Intel Core i5",
+          "productCount": 15,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i5'",
+            "exclude": false
+          },
+          "sortOrder": 8,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 9",
+          "productCount": 14,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 9'",
+            "exclude": false
+          },
+          "sortOrder": 9,
+          "children": []
+        },
+        {
+          "name": "Intel Celeron",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Celeron'",
+            "exclude": false
+          },
+          "sortOrder": 10,
+          "children": []
+        },
+        {
+          "name": "Intel Core i3",
+          "productCount": 7,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i3'",
+            "exclude": false
+          },
+          "sortOrder": 11,
+          "children": []
+        },
+        {
+          "name": "Intel Core i9",
+          "productCount": 6,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Core i9'",
+            "exclude": false
+          },
+          "sortOrder": 12,
+          "children": []
+        },
+        {
+          "name": "Apple M3 MAX CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 MAX CPU'",
+            "exclude": false
+          },
+          "sortOrder": 13,
+          "children": []
+        },
+        {
+          "name": "Apple M4 Pro CPU",
+          "productCount": 5,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M4 Pro CPU'",
+            "exclude": false
+          },
+          "sortOrder": 14,
+          "children": []
+        },
+        {
+          "name": "Apple M2 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M2 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 15,
+          "children": []
+        },
+        {
+          "name": "Apple M3 CPU",
+          "productCount": 4,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 CPU'",
+            "exclude": false
+          },
+          "sortOrder": 16,
+          "children": []
+        },
+        {
+          "name": "AMD Ryzen 3",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'AMD Ryzen 3'",
+            "exclude": false
+          },
+          "sortOrder": 17,
+          "children": []
+        },
+        {
+          "name": "Intel",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel'",
+            "exclude": false
+          },
+          "sortOrder": 18,
+          "children": []
+        },
+        {
+          "name": "Intel Pentium",
+          "productCount": 3,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Intel Pentium'",
+            "exclude": false
+          },
+          "sortOrder": 19,
+          "children": []
+        },
+        {
+          "name": "Qualcomm Snapdragon",
+          "productCount": 2,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Qualcomm Snapdragon'",
+            "exclude": false
+          },
+          "sortOrder": 20,
+          "children": []
+        },
+        {
+          "name": "Apple M3 PRO CPU",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Apple M3 PRO CPU'",
+            "exclude": false
+          },
+          "sortOrder": 21,
+          "children": []
+        },
+        {
+          "name": "Mediatek",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_prosessorfamilie.processorfamilj",
+            "value": "'Mediatek'",
+            "exclude": false
+          },
+          "sortOrder": 22,
+          "children": []
+        }
+      ],
+      "sortOrder": 15
+    },
+    {
+      "facetType": "facet",
+      "name": "pcnumerickeyboard.numeriskt_tangentbord",
+      "displayName": "Numeriskt tangentbord",
+      "id": "pcnumerickeyboard",
+      "facets": [
+        {
+          "name": "Ja",
+          "productCount": 89,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Ja'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Med numerisk tangentbord",
+          "productCount": 1,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcnumerickeyboard.numeriskt_tangentbord",
+            "value": "'Med numerisk tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        }
+      ],
+      "sortOrder": 16
+    },
+    {
+      "facetType": "facet",
+      "name": "pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+      "displayName": "Bakgrundsbelyst tangentbord",
+      "id": "pcbacklitkeyboard",
+      "facets": [
+        {
+          "name": "Ensfärgat tangentbord",
+          "productCount": 206,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Ensfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 0,
+          "children": []
+        },
+        {
+          "name": "Tangentbord utan belysning",
+          "productCount": 42,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Tangentbord utan belysning'",
+            "exclude": false
+          },
+          "sortOrder": 1,
+          "children": []
+        },
+        {
+          "name": "Flerfärgat tangentbord",
+          "productCount": 33,
+          "collapsed": false,
+          "attribute": {
+            "name": "kom_pcbacklitkeyboard.bakgrundsbelyst_tangentbord",
+            "value": "'Flerfärgat tangentbord'",
+            "exclude": false
+          },
+          "sortOrder": 2,
+          "children": []
+        }
+      ],
+      "sortOrder": 17
+    }
+  ],
+  "rangeFacets": [
+    {
+      "name": "pris",
+      "minValue": 3290.0,
+      "maxValue": 79990.0,
+      "totalMinValue": 3290.0,
+      "totalMaxValue": 79990.0
+    }
+  ],
+  "queryParameters": [
+    { "key": "list_view", "value": "list" },
+    { "key": "page", "value": "6" }
+  ],
+  "totalNumberOfResultsMatchingQuery": 290,
+  "numberOfResults": 24,
+  "pageNumber": 6,
+  "maxPageCount": 13,
+  "pageSize": 24,
+  "queryId": "ec0aecd124fb08299005f2e57dea976a",
+  "sort": "None",
+  "sortOptions": [
+    { "name": "Sortera efter", "mobileName": "Standard", "value": "None" },
+    { "name": "Rabatt", "mobileName": "Rabatt", "value": "DiscountDesc" },
+    {
+      "name": "Pris fallande",
+      "mobileName": "Pris fallande",
+      "value": "PriceDesc"
+    },
+    {
+      "name": "Pris stigande",
+      "mobileName": "Pris stigande",
+      "value": "PriceAsc"
+    },
+    { "name": "Namn", "mobileName": "Namn", "value": "NameDesc" },
+    {
+      "name": "Bästsäljare",
+      "mobileName": "Bästsäljare",
+      "value": "PopularityDesc"
+    },
+    { "name": "Betyg", "mobileName": "Betyg", "value": "ReviewsDesc" },
+    { "name": "Nyheter", "mobileName": "Nyheter", "value": "ReleaseDateDesc" }
+  ]
+}
