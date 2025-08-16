@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\jsonpersonalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:jsonpersonalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\jsondatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:jsondatetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\simulationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:simulationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:bee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:ant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:personalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\ipersonalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:ipersonalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\antfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:antfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|c:\\users\\user-9100\\source\\repos\\personalregister\\beefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D700D-FDFD-48ED-AA47-AC8A9C23509A}|PersonalRegister.csproj|solutionrelative:beefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonDateTimeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\JsonDateTimeConverter.cs",
+              "RelativeDocumentMoniker": "JsonDateTimeConverter.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\JsonDateTimeConverter.cs",
+              "RelativeToolTip": "JsonDateTimeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:42:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPersonalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\IPersonalFactory.cs",
+              "RelativeDocumentMoniker": "IPersonalFactory.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\IPersonalFactory.cs",
+              "RelativeToolTip": "IPersonalFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:10:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:09:29.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonPersonalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\JsonPersonalRepository.cs",
+              "RelativeDocumentMoniker": "JsonPersonalRepository.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\JsonPersonalRepository.cs",
+              "RelativeToolTip": "JsonPersonalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:13:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalService.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\PersonalService.cs",
+              "RelativeDocumentMoniker": "PersonalService.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\PersonalService.cs",
+              "RelativeToolTip": "PersonalService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:14:06.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bee.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Bee.cs",
+              "RelativeDocumentMoniker": "Bee.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Bee.cs",
+              "RelativeToolTip": "Bee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:09:57.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\IRepository.cs",
+              "RelativeDocumentMoniker": "IRepository.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\IRepository.cs",
+              "RelativeToolTip": "IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:22:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AntFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\AntFactory.cs",
+              "RelativeDocumentMoniker": "AntFactory.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\AntFactory.cs",
+              "RelativeToolTip": "AntFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:11:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ant.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Ant.cs",
+              "RelativeDocumentMoniker": "Ant.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\Ant.cs",
+              "RelativeToolTip": "Ant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:33:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulationState.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\SimulationState.cs",
+              "RelativeDocumentMoniker": "SimulationState.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\SimulationState.cs",
+              "RelativeToolTip": "SimulationState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:58:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BeeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\BeeFactory.cs",
+              "RelativeDocumentMoniker": "BeeFactory.cs",
+              "ToolTip": "C:\\Users\\User-9100\\Source\\Repos\\PersonalRegister\\BeeFactory.cs",
+              "RelativeToolTip": "BeeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:12:23.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
