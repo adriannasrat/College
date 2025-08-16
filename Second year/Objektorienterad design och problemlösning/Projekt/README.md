@@ -24,7 +24,7 @@ The requirements were:
   - One factory for creating **bees**  
   - Each species is encapsulated in its own class hierarchy, making the system easy to extend
 
-   ![Factory Method Design Pattern](./Projekt/factory-method-design-pattern-.webp)
+![Factory Method Design Pattern](../factory-method-design-pattern-.webp)
 
 - **SOLID Principles Applied**:  
   - Classes have single, clear responsibilities  
