@@ -19,7 +19,7 @@ It focuses on applying theory to practice by using **principles such as SOLID** 
 - Creational, Structural, and Behavioral patterns  
 - Practical examples of when and how to apply them
 
-![Factory Method Design Pattern](factory-method-design-pattern-.webp)
+![Factory Method Design Pattern](factory-method-design-pattern.webp)
 
 ---
 
