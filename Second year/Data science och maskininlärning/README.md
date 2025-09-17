@@ -35,7 +35,7 @@ Contains structured Jupyter notebooks for each lab assignment, covering the core
 
 ---
 
-### `Final Project/`  
+### `Project/`  
 
 Topic example:  
 > **Laptop Price Fairness**  
