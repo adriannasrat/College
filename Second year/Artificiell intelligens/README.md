@@ -2,7 +2,7 @@
 
 This repository contains all lab assignments and deliverables from the course **Artificial Intelligence (GIK2FB)** at Dalarna University. The course covered a wide range of foundational AI techniques: from clustering and classification to pathfinding and reinforcement learning.
 
-Each lab includes a Jupyter notebook or script, often accompanied by a recorded video presentation explaining the implementation and results.
+Each lab includes a Jupyter notebook or script.
 
 ---
 
@@ -49,7 +49,7 @@ Each lab includes a Jupyter notebook or script, often accompanied by a recorded 
   - `f(n) = g(n) + h(n)`  
   - Heuristic: Euclidean distance  
 - **Tools**: Custom maze generator + visualization  
-- **Deliverables**: A working pathfinding system with video demonstration of path discovery
+- **Deliverables**: A working pathfinding system
 
 ---
 
@@ -63,7 +63,6 @@ Each lab includes a Jupyter notebook or script, often accompanied by a recorded 
 - **Deliverables**:
   - Annotated notebook
   - Plot showing improvement in agent's performance over epochs
-  - Video explanation of logic and learned behavior
 
 ---
 
@@ -89,7 +88,6 @@ Each lab includes a Jupyter notebook or script, often accompanied by a recorded 
 ## Presentation Format
 
 Each lab was demonstrated through:
-- A **screen recording** (OBS or similar) with live explanation of code
 - Discussion of implementation choices, results, and reflections
 
 ---
