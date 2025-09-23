@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-This repository contains all lab assignments and deliverables from the course **Artificial Intelligence (GIK2FB)** at Dalarna University. The course covered a wide range of foundational AI techniques: from clustering and classification to pathfinding and reinforcement learning.
+This repository contains all lab assignments and deliverables from the course **Artificial Intelligence** at Dalarna University. The course covered a wide range of foundational AI techniques: from clustering and classification to pathfinding and reinforcement learning.
 
 Each lab includes a Jupyter notebook or script.
 
