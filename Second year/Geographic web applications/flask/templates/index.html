@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Leaflet Task Viewer</title>
+
+    <!-- Stylesheets -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/leaflet.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='plugins/L.Control.Zoomslider.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='plugins/L.Control.Sidebar.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='dist/MarkerCluster.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='dist/MarkerCluster.Default.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://ppete2.github.io/Leaflet.PolylineMeasure/Leaflet.PolylineMeasure.css"
+    />
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='js/leaflet-src.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/turf.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='plugins/L.Control.Zoomslider.js') }}"></script>
+    <script src="{{ url_for('static', filename='plugins/L.Control.Sidebar.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/swedish_counties.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/countries.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/locations.js') }}"></script>
+    <script src="https://ppete2.github.io/Leaflet.PolylineMeasure/Leaflet.PolylineMeasure.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <!-- Task Scripts -->
+    <script src="{{ url_for('static', filename='js/task1.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/task2.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/task3.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/task4.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/task5.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+    <style>
+      #side-bar {
+        position: absolute;
+        z-index: 1000;
+        background: rgba(255, 255, 255, 0.9);
+        padding: 10px;
+        right: 0;
+        top: 0;
+        margin: 1rem;
+        border-radius: 10px;
+        min-height: 200px;
+        width: 160px;
+      }
+
+      .map-container {
+        height: 100vh;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 0;
+      }
+
+      #sidebar {
+        display: none;
+      }
+
+      #polyline-measure-control {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Control Panel -->
+    <div id="side-bar">
+      <h2>Tasks</h2>
+      <button id="toggle-task1">Toggle Task 1</button><br />
+      <button id="toggle-task2">Toggle Task 2</button><br />
+      <button id="toggle-task3">Toggle Task 3</button><br />
+      <button id="toggle-task4">Toggle Task 4</button><br />
+      <button id="toggle-task5">Toggle Task 5</button><br />
+      <button id="l1" style="display: none">Show sidebar</button>
+    </div>
+
+    <!-- Sidebar Container -->
+    <div id="sidebar"><h1>Sidebar</h1></div>
+
+    <!-- Map Containers -->
+    <div id="map-task1" class="map-container" style="display: none"></div>
+    <div id="map-task2" class="map-container" style="display: none"></div>
+    <div id="map-task3" class="map-container" style="display: none"></div>
+    <div id="map-task4" class="map-container" style="display: none"></div>
+    <div id="map-task5" class="map-container" style="display: none"></div>
+  </body>
+</html>
