@@ -1,12 +1,12 @@
-# Assignment 1 – Leaflet Web Map 
+# Assignment 1 – Leaflet Web Map
 
-This project is part of the course **Geografiska Webbapplikationer** at Dalarna University. It features a simple interactive web map built using **Leaflet.js**, served via **Flask** for local development and GeoJSON file support.
+This project is part of the course **Web-based Geographic Information Systems (GIS)** at Dalarna University. It features a simple interactive web map built using **Leaflet.js**, served via **Flask** for local development and GeoJSON file support.
 
 ---
 
 ## How to Run the Application
 
-Make sure you have **Python** and **Flask** installed.
+To run the project, **download the `flask` folder as a ZIP file or clone the repository**, then follow these steps:
 
 ### 1. Install Flask (if you haven't already):
 
@@ -34,7 +34,7 @@ The map and web interface should now be visible.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Assignment_1/
