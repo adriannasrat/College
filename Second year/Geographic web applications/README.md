@@ -1,6 +1,6 @@
-# Geographic web applications
+# Web-based Geographic Information Systems (GIS)
 
-This repository contains all assignments, labs, workshops, and the final project from the course **Geographic web applications** at Dalarna University. The course focused on web-based geospatial development using **Leaflet.js**, as well as spatial data analysis in **QGIS**.
+This repository contains all assignments, labs, workshops, and the final project from the course **Web-based Geographic Information Systems (GIS)** at Dalarna University. The course focused on web-based geospatial development using **Leaflet.js**, as well as spatial data analysis in **QGIS**.
 
 ---
 
