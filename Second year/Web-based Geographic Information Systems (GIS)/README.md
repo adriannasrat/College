@@ -38,20 +38,6 @@ Focused on **spatial analysis of GPS data**:
 
 ---
 
-### `WS1/` – Workshop 1  
-Focus on working with **vector data** and applying basic analysis like:
-- Measuring distances/areas
-- Filtering with expressions
-- Styling based on attributes
-
-### `WS2/` – Workshop 2  
-Focus on **raster data** and symbology:
-- Using digital elevation models (DEM)
-- Hillshade and slope visualization
-- Reclassification and raster calculations
-
----
-
 ## Tools & Technologies
 
 - **Leaflet.js** – Lightweight JS library for interactive maps  
