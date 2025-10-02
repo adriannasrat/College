@@ -38,15 +38,6 @@ Focused on **spatial analysis of GPS data**:
 
 ---
 
-### `Project/`  
-The final group or individual project using Leaflet or QGIS. Included:
-- A complete interactive web map
-- Modular JS structure and dynamic data
-- Map-based storytelling or analysis
-- Optional spatial data analysis or download/export functionality
-
----
-
 ### `WS1/` – Workshop 1  
 Focus on working with **vector data** and applying basic analysis like:
 - Measuring distances/areas
