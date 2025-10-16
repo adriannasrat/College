@@ -1,4 +1,4 @@
-# Lab 1 – Thematic Maps (GIK2YL – Geografiska Webbapplikationer)
+# Lab 1 – Thematic Maps
 
 The focus was on this lab was creating **thematic maps** using QGIS, applying fundamental cartographic principles and spatial joins.
 
