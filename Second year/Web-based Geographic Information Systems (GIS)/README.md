@@ -30,11 +30,11 @@ Worked in **QGIS** to perform vector data operations:
 - Creating layers for spatial queries
 
 ### `Lab 2 - GIS/`  
-Focused on **spatial analysis of GPS data**:
-- Heatmaps of spatial intensity
-- Point clustering and displacement
-- Line-based speed variation mapping
-- Time-enabled visualizations
+Focused on georeferencing, proximity analysis, and basic Python automation in QGIS:
+- Georeferenced scanned raster maps and aligned them with vector data  
+- Digitized new geographic features (buildings, trees, lakes) and created map layouts  
+- Performed proximity analysis using buffers (1000m and 1500m) around schools to study child population distribution  
+- Used Python in QGIS to load, style, rename, and export shapefiles automatically
 
 ---
 
