@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grupp 2 - Labb 1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div class="h-screen flex items-center justify-center bg-red-300">
+      <form
+        class="flex flex-col lg:w-[60rem] bg-rose-400 p-10 rounded-lg outline outline-4 outline-white"
+      >
+        <h1 class="text-xl md:text-5xl mb-10 font-bold text-white">
+          Grupp 2 - Labb 1
+        </h1>
+        <label for="color" class="text-white">Färg</label>
+        <input
+          type="text"
+          name="color"
+          id="color"
+          class="textfield my-2 px-4 py-3 border rounded-lg text-black"
+        />
+        <label for="content" class="text-white">Innehåll</label>
+        <input
+          type="text"
+          name="content"
+          id="content"
+          class="textfield my-2 px-4 py-3 border rounded-lg text-black"
+        />
+        <div class="flex py-4">
+          <label for="divStyle" class="my-2 text-white mr-2">Stil på box</label>
+          <input type="checkbox" name="divStyle" id="divStyle" />
+        </div>
+        <button
+          type="button"
+          id="button"
+          class="bg-violet-500 hover:bg-violet-600 text-white font-bold py-2 px-4 rounded-lg"
+        >
+          Ta bort
+        </button>
+        <div
+          id="divElement"
+          class="bg-transparent p-10 outline outline-2 outline-offset-2 h-20 pt-5 leading-10 text-white mt-10"
+        ></div>
+      </form>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
