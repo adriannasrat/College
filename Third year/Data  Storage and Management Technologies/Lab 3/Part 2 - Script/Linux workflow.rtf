@@ -1,0 +1,311 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Semibold;\f1\fnil\fcharset0 .SFNS-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+\f3\fnil\fcharset0 HelveticaNeue-Bold;\f4\fswiss\fcharset0 Helvetica;\f5\fmodern\fcharset0 Courier;
+\f6\fmodern\fcharset0 Courier-Oblique;\f7\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;\red155\green162\blue177;\red136\green185\blue102;
+\red81\green156\blue233;\red74\green80\blue93;}
+{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;\cssrgb\c67059\c69804\c74902;\cssrgb\c59608\c76471\c47451;
+\cssrgb\c38039\c68235\c93333;\cssrgb\c36078\c38824\c43922;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs44 \cf2 Every session (from zero to testing)
+\f1\b0\fs28 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	1.	
+\f3\b Start the VM (auto if using your VS Code profile)
+\f1\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	In macOS Terminal (or VS Code normal terminal):
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 multipass start ubuntu
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Or open VS Code \uc0\u8594  Terminal \'93+\'94 \u8594  
+\f3\b Ubuntu (Multipass)
+\f1\b0  (your profile auto-starts and shells in).\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	2.	
+\f3\b Jump into Ubuntu if you didn\'92t use the VS Code profile
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 multipass shell ubuntu
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	3.	
+\f3\b Confirm your mounted project is visible
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 ls -la ~/lab3
+\f4\fs24 \cf0 \
+\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+
+\f1\fs28 \cf2 	\'95	If you don\'92t see your files, re-mount:
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 multipass mount \cf4 "~/Documents/DU/Tredje \'e5ret/Data storage and Management Technologies/Lab 3/Part 2 - Script"\cf3  ubuntu:/home/ubuntu/lab3\
+ls -la ~/lab3
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	4.	
+\f3\b Go to your script and make it executable
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 cd ~/lab3\
+chmod +x user-management.sh
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 Make sure the first line of your script is:
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf5 #!/usr/bin/env bash
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	5.	
+\f3\b (Optional but recommended) Lint before running
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 shellcheck user-management.sh
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 Fix any warnings it flags.\
+\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	6.	
+\f3\b Run the script (with sudo if it manages users/groups)
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 sudo ./user-management.sh
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	7.	
+\f3\b Functional tests for your assignment
+\f1\b0 \
+Use these to 
+\f3\b prove
+\f1\b0  your script works in the video:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f3\b Create a brand-new group (should succeed):
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 sudo ./user-management.sh\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f6\i \cf6 # enter: demoeng   (or whatever your script prompts)
+\f5\i0 \cf3 \
+getent group demoeng
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 You should see a line with 
+\f7 demoeng:
+\f1  confirming creation.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f3\b Try the same name again (should show your duplicate error):
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 sudo ./user-management.sh\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f6\i \cf6 # enter: demoeng  (expect "Group already exists, try again")
+\f4\i0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 Then enter a different name to show success path.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f3\b Verify groups in system file (optional):
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 tail -n 5 /etc/group
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 (Don\'92t edit 
+\f7 /etc/group
+\f1  manually\'97just show it.)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f3\b Clean up (optional, if you want to re-record):
+\f4\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 sudo groupdel demoeng\
+getent group demoeng   
+\f6\i \cf6 # should return nothing
+\f4\i0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	8.	
+\f3\b Stop the VM when done (free resources)
+\f1\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	From inside the VM:
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 exit
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Then on macOS:
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f5\fs28 \cf3 multipass stop ubuntu
+\f4\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\fs28 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs44 \cf2 Common pitfalls (quick fixes)
+\f1\b0\fs28 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f3\b \'93Permission denied\'94 running the script
+\f1\b0  \uc0\u8594  
+\f7 chmod +x user-management.sh
+\f1 \
+	\'95	
+\f3\b \'93command not found: groupadd/getent\'94
+\f1\b0  \uc0\u8594  you\'92re not in Ubuntu; make sure you\'92re in the 
+\f3\b Multipass shell
+\f1\b0 \
+	\'95	
+\f3\b Mount not visible
+\f1\b0  \uc0\u8594  re-run the 
+\f7 multipass mount ... ubuntu:/home/ubuntu/lab3
+\f1 \
+	\'95	
+\f3\b VS Code not opening the VM shell
+\f1\b0  \uc0\u8594  ensure your profile points to the correct path (
+\f7 /usr/local/bin/multipass
+\f1  on your Mac)\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs44 \cf2 Recording tips for the lab video
+\f1\b0\fs28 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Show your 
+\f3\b script content
+\f1\b0  in VS Code (briefly walk through the logic).\
+	\'95	Run 
+\f7 shellcheck user-management.sh
+\f1  and mention any fixes you made.\
+	\'95	Demo:\
+\pard\tqr\tx660\tx820\li260\sl324\slmult1\sb240\partightenfactor0
+
+\f2 \cf2 	1.	
+\f7 getent group <name>
+\f1  (not found)\
+
+\f2 	2.	
+\f7 sudo ./user-management.sh
+\f1  \uc0\u8594  create group\
+
+\f2 	3.	
+\f7 getent group <name>
+\f1  (found)\
+
+\f2 	4.	Run script again with the 
+\f3\b same name
+\f1\b0  \uc0\u8594  show your 
+\f3\b duplicate warning + re-prompt
+\f1\b0 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	(Optional) Show 
+\f7 /etc/group
+\f1  tail to confirm persistence.\
+	\'95	End by 
+\f3\b stopping the VM
+\f1\b0 : 
+\f7 exit
+\f1  \uc0\u8594  
+\f7 multipass stop ubuntu
+\f1 .\
+\
+If you want, paste your current 
+\f7 user-management.sh
+\f1  and I\'92ll sanity-check it against this runbook so you\'92re 100% ready for next week.}
