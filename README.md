@@ -22,7 +22,7 @@ The *Systemvetenskapliga programmet* at Högskolan Dalarna is a 3-year (180 ECTS
 In addition to the visual image below, this repository also includes a **clickable PDF** version of the entire *Systemvetenskapliga programmet* course structure:
 
 [**Click here to download the interactive course map (PDF)**](SY_forkunskapskrav_kurser_programmet.pdf)
-> Once opened, you can click on any course box to view more info about that course on Högskolan Dalarna’s website.
+> Once opened and downloaded, you can open the PDF and click on any course box to view more info about that course on Högskolan Dalarna’s website.
 
 ## Visual Overview of all the courses in the program
 
