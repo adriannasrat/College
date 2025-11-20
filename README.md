@@ -1,25 +1,3 @@
-# Visual Overview: All Courses in the Program
-
-![Overview of all courses in the Systemvetenskapliga programmet](SY_forkunskapskrav_kurser_programmet_bild.png)
-
-This diagram provides a full **visual map of the 3-year Bachelor's Programme in Information Systems** (*Systemvetenskapliga programmet*) at Högskolan Dalarna.
-
-- Each box represents a course, color-coded by semester and category.
-- Arrows indicate **prerequisite relationships** between courses.
-- Symbols in the corners denote:
-  - `★` = Grundnivå (Basic level)
-  - `★★` = Fördjupningsnivå (Advanced level)
-  - Triangles = Cross-listed or non-informatics courses
-
-This image gives a clear overview of how the programme is structured — from foundational topics in databases and programming to advanced courses in data science, distributed computing, and cloud technologies.
-
-# Interactive PDF: Explore All Courses
-
-In addition to the visual image above, this repository also includes a **clickable PDF** version of the entire *Systemvetenskapliga programmet* course structure:
-
-[**Click here to download the interactive course map (PDF)**](SY_forkunskapskrav_kurser_programmet.pdf)
-> Once opened, you can click on any course box to view more info about that course on Högskolan Dalarna’s website.
-
 # College Repository
 
 This repository is my complete academic archive from the [Systemvetenskapliga programmet](https://www.du.se/sv/Utbildning/Program/systemvetenskapliga-programmet/) at Högskolan Dalarna.  
@@ -38,6 +16,28 @@ Whether you’re a fellow student, a potential employer, or just curious about t
 ##  About the Program: Systemvetenskapliga programmet
 
 The *Systemvetenskapliga programmet* at Högskolan Dalarna is a 3-year (180 ECTS) Bachelor's programme in Information Systems. It equips students with the skills to design, develop, test, and manage IT systems tailored to human and organizational needs  [oai_citation:0‡Högskolan Dalarna](https://www.du.se/sv/Utbildning/Program/systemvetenskapliga-programmet/?utm_source=chatgpt.com).
+
+# Interactive PDF: Explore All Courses
+
+In addition to the visual image below, this repository also includes a **clickable PDF** version of the entire *Systemvetenskapliga programmet* course structure:
+
+[**Click here to download the interactive course map (PDF)**](SY_forkunskapskrav_kurser_programmet.pdf)
+> Once opened, you can click on any course box to view more info about that course on Högskolan Dalarna’s website.
+
+## Visual Overview of all the courses in the program
+
+![Overview of all courses in the Systemvetenskapliga programmet](SY_forkunskapskrav_kurser_programmet_bild.png)
+
+This diagram provides a full **visual map of the 3-year Bachelor's Programme in Information Systems** (*Systemvetenskapliga programmet*) at Högskolan Dalarna.
+
+- Each box represents a course, color-coded by semester and category.
+- Arrows indicate **prerequisite relationships** between courses.
+- Symbols in the corners denote:
+  - `★` = Grundnivå (Basic level)
+  - `★★` = Fördjupningsnivå (Advanced level)
+  - Triangles = Cross-listed or non-informatics courses
+
+This image gives a clear overview of how the programme is structured — from foundational topics in databases and programming to advanced courses in data science, distributed computing, and cloud technologies.
 
 ### Key Features of the Program
 
