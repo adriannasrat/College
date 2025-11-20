@@ -26,7 +26,9 @@ In addition to the visual image below, this repository also includes a **clickab
 
 ## Visual Overview of all the courses in the program
 
-![Overview of all courses in the Systemvetenskapliga programmet](SY_forkunskapskrav_kurser_programmet_bild.png)
+[![Overview of all courses in the Systemvetenskapliga programmet](SY_forkunskapskrav_kurser_programmet_bild.png)](SY_forkunskapskrav_kurser_programmet.pdf)
+
+> Click the image to open the **interactive PDF version** — where each course box is clickable and links to its official course page on Högskolan Dalarna’s website.
 
 This diagram provides a full **visual map of the 3-year Bachelor's Programme in Information Systems** (*Systemvetenskapliga programmet*) at Högskolan Dalarna.
 
