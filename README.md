@@ -13,6 +13,12 @@ Think of it as:
 
 Whether you’re a fellow student, a potential employer, or just curious about the curriculum, this repository offers a transparent look at the skills, topics and technologies I have worked with throughout my degree.
 
+## Notes for Students
+
+- All material is shared for **educational purposes only**
+- Use it to understand structure, expectations, and methodology
+- Do **not** submit this work as your own in other courses
+
 ##  About the Program: Systemvetenskapliga programmet
 
 The *Systemvetenskapliga programmet* at Högskolan Dalarna is a 3-year (180 ECTS) Bachelor's programme in Information Systems. It equips students with the skills to design, develop, test and manage IT systems tailored to human and organizational needs  [oai_citation:0‡Högskolan Dalarna](https://www.du.se/sv/Utbildning/Program/systemvetenskapliga-programmet/?utm_source=chatgpt.com).
