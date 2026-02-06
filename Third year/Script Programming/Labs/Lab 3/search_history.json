@@ -1,0 +1,42 @@
+[
+    {
+        "titel": "Prisoners",
+        "år": "2013",
+        "genre": "Crime, Drama, Mystery",
+        "beskrivning": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+        "imdbID": "tt1392214",
+        "typ": "movie"
+    },
+    {
+        "titel": "Titanic",
+        "år": "1997",
+        "genre": "Drama, Romance",
+        "beskrivning": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "imdbID": "tt0120338",
+        "typ": "movie"
+    },
+    {
+        "titel": "The Matrix",
+        "år": "1999",
+        "genre": "Action, Sci-Fi",
+        "beskrivning": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "imdbID": "tt0133093",
+        "typ": "movie"
+    },
+    {
+        "titel": "Hay que matar a B.",
+        "år": "1974",
+        "genre": "Drama, Thriller",
+        "beskrivning": "In a fictitious South American country there's lots of political tension, the labor-unions have all their members on strike. The public demands the return of politician B. from exile. However private trucker Pal can't afford to st...",
+        "imdbID": "tt0070162",
+        "typ": "movie"
+    },
+    {
+        "titel": "Zootopia",
+        "år": "2016",
+        "genre": "Animation, Action, Adventure",
+        "beskrivning": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+        "imdbID": "tt2948356",
+        "typ": "movie"
+    }
+]
