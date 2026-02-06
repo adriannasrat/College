@@ -1,0 +1,202 @@
+[
+    {
+        "titel": "The Matrix",
+        "genre": "Sci-Fi",
+        "beskrivning": "En hacker upptäcker att världen han lever i är en avancerad simulering och tvingas välja mellan sanning och illusion."
+    },
+    {
+        "titel": "Inception",
+        "genre": "Sci-Fi",
+        "beskrivning": "En grupp specialister stjäl hemligheter genom att ta sig in i människors drömmar men får ett ovanligt uppdrag."
+    },
+    {
+        "titel": "Interstellar",
+        "genre": "Sci-Fi",
+        "beskrivning": "En grupp astronauter reser genom ett maskhål för att hitta en ny planet när jorden håller på att dö."
+    },
+    {
+        "titel": "Blade Runner",
+        "genre": "Sci-Fi",
+        "beskrivning": "En polis jagar artificiella människor i en mörk framtidsstad där gränsen mellan människa och maskin suddas ut."
+    },
+    {
+        "titel": "Arrival",
+        "genre": "Sci-Fi",
+        "beskrivning": "En lingvist försöker kommunicera med utomjordingar för att förhindra ett globalt krig."
+    },
+    {
+        "titel": "Titanic",
+        "genre": "Drama",
+        "beskrivning": "En kärlekshistoria uppstår ombord på ett lyxigt fartyg under dess ödesdigra jungfruresa."
+    },
+    {
+        "titel": "Forrest Gump",
+        "genre": "Drama",
+        "beskrivning": "En godhjärtad man med låg IQ påverkar historiska händelser utan att själv förstå det."
+    },
+    {
+        "titel": "The Shawshank Redemption",
+        "genre": "Drama",
+        "beskrivning": "En oskyldigt dömd man försöker överleva livet i fängelse och behålla hoppet."
+    },
+    {
+        "titel": "Fight Club",
+        "genre": "Drama",
+        "beskrivning": "En kontorsarbetare startar en hemlig klubb som snabbt utvecklas till något mycket farligare."
+    },
+    {
+        "titel": "Joker",
+        "genre": "Drama",
+        "beskrivning": "En ensam man pressas av samhället och förvandlas långsamt till en ikonisk brottsling."
+    },
+    {
+        "titel": "The Godfather",
+        "genre": "Crime",
+        "beskrivning": "En mäktig maffiafamilj försöker behålla sin makt i en värld fylld av förräderi."
+    },
+    {
+        "titel": "Pulp Fiction",
+        "genre": "Crime",
+        "beskrivning": "Flera sammanflätade berättelser om brott och våld berättas i okronologisk ordning."
+    },
+    {
+        "titel": "Se7en",
+        "genre": "Crime",
+        "beskrivning": "Två detektiver jagar en seriemördare som baserar sina brott på de sju dödssynderna."
+    },
+    {
+        "titel": "Scarface",
+        "genre": "Crime",
+        "beskrivning": "En kubansk immigrant bygger upp ett kriminellt imperium i Miami men drivs av sin egen girighet."
+    },
+    {
+        "titel": "The Departed",
+        "genre": "Crime",
+        "beskrivning": "En polis infiltrerar maffian samtidigt som en kriminell infiltrerar polisen."
+    },
+    {
+        "titel": "The Lord of the Rings: The Fellowship of the Ring",
+        "genre": "Fantasy",
+        "beskrivning": "En ung hobbit får i uppdrag att förstöra en mäktig ring."
+    },
+    {
+        "titel": "Harry Potter and the Philosopher's Stone",
+        "genre": "Fantasy",
+        "beskrivning": "En pojke upptäcker att han är trollkarl och börjar på en magisk skola."
+    },
+    {
+        "titel": "Pan's Labyrinth",
+        "genre": "Fantasy",
+        "beskrivning": "En flicka flyr en brutal verklighet genom att utforska en mörk fantasivärld."
+    },
+    {
+        "titel": "The Hobbit: An Unexpected Journey",
+        "genre": "Fantasy",
+        "beskrivning": "En oväntad hjälte följer med dvärgar på ett farligt äventyr."
+    },
+    {
+        "titel": "The Chronicles of Narnia: The Lion the Witch and the Wardrobe",
+        "genre": "Fantasy",
+        "beskrivning": "Barn upptäcker en magisk värld där de måste stoppa en ond häxa."
+    },
+    {
+        "titel": "The Dark Knight",
+        "genre": "Action",
+        "beskrivning": "En hjälte ställs mot en kaotisk skurk som vill se världen brinna."
+    },
+    {
+        "titel": "Gladiator",
+        "genre": "Action",
+        "beskrivning": "En romersk general blir slav och kämpar för hämnd i gladiatorarenan."
+    },
+    {
+        "titel": "Mad Max: Fury Road",
+        "genre": "Action",
+        "beskrivning": "En våldsam jakt genom öknen där överlevnad är allt som betyder något."
+    },
+    {
+        "titel": "John Wick",
+        "genre": "Action",
+        "beskrivning": "En pensionerad lönnmördare återvänder till den kriminella världen för hämnd."
+    },
+    {
+        "titel": "Die Hard",
+        "genre": "Action",
+        "beskrivning": "En polis måste ensam stoppa terrorister i en skyskrapa."
+    },
+    {
+        "titel": "Toy Story",
+        "genre": "Animation",
+        "beskrivning": "Leksaker kommer till liv när människor inte ser och upplever svartsjuka och vänskap."
+    },
+    {
+        "titel": "Finding Nemo",
+        "genre": "Animation",
+        "beskrivning": "En överbeskyddande fisk reser över havet för att rädda sin son."
+    },
+    {
+        "titel": "Spirited Away",
+        "genre": "Animation",
+        "beskrivning": "En flicka fastnar i en magisk andevärld och måste hitta ett sätt hem."
+    },
+    {
+        "titel": "The Lion King",
+        "genre": "Animation",
+        "beskrivning": "En ung lejonprins måste acceptera sitt öde och ta sin rättmätiga plats."
+    },
+    {
+        "titel": "Up",
+        "genre": "Animation",
+        "beskrivning": "En äldre man flyger sitt hus till Sydamerika med hjälp av ballonger."
+    },
+    {
+        "titel": "The Hangover",
+        "genre": "Comedy",
+        "beskrivning": "En svensexa i Las Vegas slutar i kaos och minnesluckor."
+    },
+    {
+        "titel": "Superbad",
+        "genre": "Comedy",
+        "beskrivning": "Två tonårsvänner försöker ordna alkohol till en fest innan de skiljs åt."
+    },
+    {
+        "titel": "Groundhog Day",
+        "genre": "Comedy",
+        "beskrivning": "En man fastnar i samma dag om och om igen."
+    },
+    {
+        "titel": "Step Brothers",
+        "genre": "Comedy",
+        "beskrivning": "Två vuxna män tvingas bli styvbröder och beter sig som barn."
+    },
+    {
+        "titel": "Dumb and Dumber",
+        "genre": "Comedy",
+        "beskrivning": "Två extremt dumma vänner ger sig ut på en roadtrip full av missförstånd."
+    },
+    {
+        "titel": "The Conjuring",
+        "genre": "Horror",
+        "beskrivning": "En familj terroriseras av en ond kraft i sitt nya hus."
+    },
+    {
+        "titel": "It",
+        "genre": "Horror",
+        "beskrivning": "Ett ondskefullt väsen tar formen av en clown och jagar barn."
+    },
+    {
+        "titel": "Get Out",
+        "genre": "Horror",
+        "beskrivning": "En man besöker sin flickväns familj och upptäcker en mörk hemlighet."
+    },
+    {
+        "titel": "A Nightmare on Elm Street",
+        "genre": "Horror",
+        "beskrivning": "En mördare attackerar sina offer i deras drömmar."
+    },
+    {
+        "titel": "The Shining",
+        "genre": "Horror",
+        "beskrivning": "En familj isoleras på ett hotell där fadern långsamt blir galen."
+    }
+]
