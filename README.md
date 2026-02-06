@@ -31,6 +31,9 @@ In addition to the visual image below, this repository also includes a **clickab
 [**Click here to download the interactive course map (PDF)**](assets/SY_forkunskapskrav_kurser_programmet.pdf)
 > Once opened and downloaded, you can open the PDF and click on any course box to view more info about that course on Högskolan Dalarna’s website.
 
+## Watch a Video On How to Use the Interactive Course Map (PDF)
+https://github.com/user-attachments/assets/2b95080e-f933-43f1-9234-fb73dd328342
+
 ## Visual Overview of all the courses in the program
 
 [![Overview of all courses in the Systemvetenskapliga programmet](assets/SY_forkunskapskrav_kurser_programmet_bild.png)](assets/SY_forkunskapskrav_kurser_programmet.pdf)
