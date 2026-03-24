@@ -1,0 +1,22 @@
+# 1. Ignorera all nedladdad och genererad data
+data/
+
+# 2. Ignorera den virtuella miljön som finns
+venv/
+env/
+.venv/
+
+# 3. Ignorera Mac-specifika systemfiler
+.DS_Store
+
+# 4. Ignorera Python cache-filer
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 5. Ignorera Spark och Dask temporära filer/kataloger
+spark-warehouse/
+dask-worker-space/
+*.log
+derby.log
+metastore_db/

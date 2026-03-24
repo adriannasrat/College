@@ -1,0 +1,21 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ecom-pipeline-vg
+spec:
+  template:
+    spec:
+      containers:
+        - name: pipeline
+          image: ecom-pipeline:v1
+          imagePullPolicy: Never
+          volumeMounts:
+            - name: project-data
+              mountPath: /app/data
+      restartPolicy: Never
+      volumes:
+        - name: project-data
+          hostPath:
+            # Använder exakt denna absoluta sökväg
+            path: "/app/data"
+            type: Directory

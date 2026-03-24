@@ -1,0 +1,13 @@
+# Data Ingestion
+kagglehub
+
+# Data Processing & Big Data Frameworks
+pandas
+dask[dataframe]
+pyspark
+
+# Parquet Engine (Krävs för att läsa/skriva .parquet-filer)
+pyarrow
+
+# Felhantering och operationell logik
+tenacity
