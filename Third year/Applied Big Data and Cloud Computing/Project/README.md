@@ -192,4 +192,4 @@ project/
 
 ## Notering
 
-Stora datamängder inkluderas inte i projektet. Se `data/README.md` för instruktioner om hur datasetet laddas ner.
+Stora datamängder inkluderas inte i projektet. Se `01_ingest_bronze.py` för länken från var datasetet laddas ner.
