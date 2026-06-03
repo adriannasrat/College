@@ -1,28 +1,28 @@
 # Big Data Pipeline – E-commerce Analytics
 
-Detta projekt implementerar en distribuerad datapipeline baserad på Medallion Architecture (Bronze → Silver → Gold) med hjälp av Dask och Apache Spark. Pipelinen bearbetar e-handelsdata och genererar affärsinsikter såsom intäktstrender över tid.
+This project implements a distributed data pipeline based on the Medallion Architecture (Bronze → Silver → Gold) using Dask and Apache Spark. The pipeline processes e-commerce data and generates business insights such as revenue trends over time.
 
 ---
 
-## 1. Förbered miljön
+## 1. Prepare the environment
 
-Skapa en virtuell miljö och installera beroenden:
+Create a virtual environment and install dependencies:
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # macOS
+source venv/bin/activate # macOS
 pip install -r requirements.txt
 ```
 
 ---
 
-## 2. Kör Data-pipelinen (Steg-för-steg)
+## 2. Run the Data Pipeline (Step-by-Step)
 
-Pipelinen följer Medallion-arkitekturen. Kör skripten i följande ordning:
+The pipeline follows the Medallion architecture. Run the scripts in the following order:
 
 ### Ingest Bronze
 
-Hämtar rådata från Kaggle API till `data/bronze/`.
+Gets raw data from the Kaggle API to `data/bronze/`.
 
 ```bash
 python3 scripts/01_ingest_bronze.py
@@ -30,7 +30,7 @@ python3 scripts/01_ingest_bronze.py
 
 ### Process Silver
 
-Tvättar datan, utför validering (t.ex. null-checks och filtrering), och sparar resultatet som Parquet i `data/silver/`.
+Washes the data, performs validation (e.g. null checks and filtering), and saves the result as Parquet in `data/silver/`.
 
 ```bash
 python3 scripts/02_process_silver.py
@@ -38,7 +38,7 @@ python3 scripts/02_process_silver.py
 
 ### Analyze Gold (Spark)
 
-Skapar trendanalys med hjälp av Window Functions i PySpark.
+Creates trend analysis using Window Functions in PySpark.
 
 ```bash
 python3 scripts/03_analyze_gold_spark.py
@@ -46,7 +46,7 @@ python3 scripts/03_analyze_gold_spark.py
 
 ### Analyze Gold (Dask)
 
-Utför samma analys i Dask för benchmarking och jämförelse.
+Performs the same analysis in Dask for benchmarking and comparison.
 
 ```bash
 python3 scripts/04_analyze_gold_dask.py
@@ -54,25 +54,25 @@ python3 scripts/04_analyze_gold_dask.py
 
 ### Check Results
 
-Jämför resultaten mellan Spark och Dask för att säkerställa datakvalitet och konsistens.
+Compares the results between Spark and Dask to ensure data quality and consistency.
 
 ```bash
 python3 scripts/99_check_results.py
 ```
 
-Notera: Varje steg bygger på resultatet från föregående steg. Om ett steg hoppas över kommer nästa skript att sakna nödvändig indata.
+Note: Each step builds on the results of the previous step. If a step is skipped, the next script will be missing the required input.
 
 ---
 
-## Deployment i Kubernetes (Minikube)
+## Deployment in Kubernetes (Minikube)
 
-Projektet är förberett för körning i Kubernetes via Minikube, vilket demonstrerar en cloud-ready och skalbar arkitektur.
+The project is prepared to run in Kubernetes via Minikube, demonstrating a cloud-ready and scalable architecture.
 
-### Förutsättningar
+### Prerequisites
 
-- Docker Desktop installerat och igång
-- Minikube installerat
-- Docker-image byggd lokalt
+- Docker Desktop installed and running
+- Minikube installed
+- Docker image built locally
 
 ```bash
 docker build -t ecom-pipeline:v1 .
@@ -80,37 +80,37 @@ docker build -t ecom-pipeline:v1 .
 
 ---
 
-## Steg-för-steg instruktioner
+## Step-by-step instructions
 
-### 1. Starta Minikube-klustret
+### 1. Start the Minikube cluster
 
 ```bash
 minikube start
 ```
 
-### 2. Ladda in Docker-imagen i Minikube
+### 2. Load the Docker image into Minikube
 
 ```bash
 minikube image load ecom-pipeline:v1
 ```
 
-### 3. Montera datamappen (viktigt)
+### 3. Mount the data folder (important)
 
-För att containern ska få tillgång till datan från din lokala maskin:
+To allow the container to access the data from your local machine:
 
 ```bash
-minikube mount "/absolut/sökväg/till/project/data:/app/data"
+minikube mount "/absolute/path/to/project/data:/app/data"
 ```
 
-Ersätt sökvägen med din faktiska lokala path.
+Replace the path with your actual local path.
 
-### 4. Starta pipelinen i Kubernetes
+### 4. Start the pipeline in Kubernetes
 
 ```bash
 kubectl apply -f pipeline-job.yaml
 ```
 
-### 5. Övervaka körningen
+### 5. Monitor the execution
 
 ```bash
 kubectl get pods
@@ -121,16 +121,17 @@ kubectl logs -f job/ecom-pipeline-vg
 
 ## Output
 
-Resultatet sparas i Gold-lagret som Parquet:
+The result is saved in the Gold repository as Parquet:
 
 - `data/gold/revenue_trends_spark.parquet/`
+
 - `data/gold/revenue_trends_dask.parquet/`
 
-Varje dataset innehåller partitionerade filer samt metadata (`_SUCCESS`).
+Each dataset contains partitioned files and metadata (`_SUCCESS`).
 
 ---
 
-## Teknologier
+## Technologies
 
 - Python
 - Dask
@@ -139,49 +140,49 @@ Varje dataset innehåller partitionerade filer samt metadata (`_SUCCESS`).
 - Kubernetes (Minikube)
 - Docker
 
-### Viktiga Python-beroenden (requirements.txt)
+### Important Python dependencies (requirements.txt)
 
-- **kagglehub**: För programmatisk nedladdning av rådata via Kaggle API.
-- **dask[dataframe]**: För minneseffektiv tvätt och filtrering av stora dataset (Out-of-Core processing).
-- **pyspark**: För avancerad dataanalys och distribuerade fönsterfunktioner.
-- **pyarrow**: Den underliggande motorn för att läsa och skriva det komprimerade formatet Parquet.
-- **tenacity**: För att implementera feltolerant "retry"-logik med exponential backoff vid datahämtning.
+- **kagglehub**: For programmatic downloading of raw data via the Kaggle API.
+- **dask[dataframe]**: For memory-efficient washing and filtering of large datasets (Out-of-Core processing).
+- **pyspark**: For advanced data analysis and distributed windowing.
+- **pyarrow**: The underlying engine for reading and writing the compressed Parquet format.
+- **tenacity**: For implementing fault-tolerant "retry" logic with exponential backoff when retrieving data.
 
 ---
 
-## Syfte
+## Purpose
 
-- Demonstrera distribuerad databehandling
-- Jämföra Spark och Dask
-- Implementera en skalbar datapipeline
-- Generera insikter från e-handelsdata
+- Demonstrate distributed data processing
+- Compare Spark and Dask
+- Implement a scalable data pipeline
+- Generate insights from e-commerce data
 
 ---
 
 ## Benchmarking
 
-Projektet jämför:
+The project compares:
 
 - Execution time
-- Resultatens korrekthet
-- API och utvecklarupplevelse
+- Correctness of results
+- API and developer experience
 
 ---
 
-## Projektstruktur
+## Project structure
 
 ```bash
 project/
 ├── data/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
+│ ├── bronze/
+│ ├── silver/
+│ └── gold/
 ├── scripts/
-│   ├── 01_ingest_bronze.py
-│   ├── 02_process_silver.py
-│   ├── 03_analyze_gold_spark.py
-│   ├── 04_analyze_gold_dask.py
-│   └── 99_check_results.py
+│ ├── 01_ingest_bronze.py
+│ ├── 02_process_silver.py
+│ ├── 03_analyze_gold_spark.py
+│ ├── 04_analyze_gold_dask.py
+│ └── 99_check_results.py
 ├── Dockerfile
 ├── pipeline-job.yaml
 ├── requirements.txt
@@ -190,6 +191,6 @@ project/
 
 ---
 
-## Notering
+## Note
 
-Stora datamängder inkluderas inte i projektet. Se `01_ingest_bronze.py` för länken från var datasetet laddas ner.
+Large datasets are not included in the project. See `01_ingest_bronze.py` for the link from where the dataset is downloaded.
