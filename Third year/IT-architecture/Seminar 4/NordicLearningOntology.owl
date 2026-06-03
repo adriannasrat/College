@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2/"
+     xml:base="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-2="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#collaboratesWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#collaboratesWith">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#colleague -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#colleague">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#InverseFunctionalProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasCreated -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasCreated"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollment -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollment">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollmentOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollmentOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollmentOf">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasLogsWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasLogsWith">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#InverseFunctionalProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasMaterial -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasMaterial">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#teaches -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#teaches">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#worksInDepartment -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#worksInDepartment">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasCourseID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasCourseID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEmployeeID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEmployeeID">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Employee"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEmployeeName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEmployeeName">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Employee"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollment -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollment">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollmentID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEnrollmentID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEventID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasEventID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasMaterial -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasMaterial">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasStudentID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasStudentID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasStudentName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#hasStudentName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Department -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Department"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Employee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Employee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ExternalStakeholder -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ExternalStakeholder">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Stakeholder"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Stakeholder"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Stakeholder -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Stakeholder"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ExternalStakeholder"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Employee"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course"/>
+        <untitled-ontology-2:hasMaterial rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material1"/>
+        <untitled-ontology-2:hasCourseID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</untitled-ontology-2:hasCourseID>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ERROR_USER -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ERROR_USER">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ExternalStakeholder"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment">
+        <untitled-ontology-2:hasEnrollment rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</untitled-ontology-2:hasEnrollment>
+        <untitled-ontology-2:hasEnrollmentID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"></untitled-ontology-2:hasEnrollmentID>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvents -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvents">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvent"/>
+        <untitled-ontology-2:hasLogsWith rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material1"/>
+        <untitled-ontology-2:hasEventID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"></untitled-ontology-2:hasEventID>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material"/>
+        <untitled-ontology-2:hasMaterial rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Material1"/>
+        <untitled-ontology-2:hasMaterial rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"></untitled-ontology-2:hasMaterial>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student_Diana_Dawidi -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student_Diana_Dawidi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#ExternalStakeholder"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+        <untitled-ontology-2:hasCreated rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvents"/>
+        <untitled-ontology-2:hasEnrollment rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</untitled-ontology-2:hasEnrollment>
+        <untitled-ontology-2:hasStudentID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</untitled-ontology-2:hasStudentID>
+        <untitled-ontology-2:hasStudentName>Diana Dawidi</untitled-ontology-2:hasStudentName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student_Ibrahim -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student_Ibrahim">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Enrollment"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Student"/>
+        <untitled-ontology-2:hasCreated rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#LearningEvents"/>
+        <untitled-ontology-2:hasEnrollment rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</untitled-ontology-2:hasEnrollment>
+        <untitled-ontology-2:hasStudentID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</untitled-ontology-2:hasStudentID>
+        <untitled-ontology-2:hasStudentName>Ibrahim Mizher</untitled-ontology-2:hasStudentName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher_Ali_Adrian -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher_Ali_Adrian">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <untitled-ontology-2:teaches rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course1"/>
+        <untitled-ontology-2:hasEmployeeID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</untitled-ontology-2:hasEmployeeID>
+        <untitled-ontology-2:hasEmployeeName>Ali Adrian</untitled-ontology-2:hasEmployeeName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher_Wei_Song -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher_Wei_Song">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#InternalStakeholder"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Teacher"/>
+        <untitled-ontology-2:teaches rdf:resource="http://www.semanticweb.org/admin/ontologies/2025/11/untitled-ontology-2#Course1"/>
+        <untitled-ontology-2:hasEmployeeID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</untitled-ontology-2:hasEmployeeID>
+        <untitled-ontology-2:hasEmployeeName>William Wei Song</untitled-ontology-2:hasEmployeeName>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
